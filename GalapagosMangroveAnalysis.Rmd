@@ -1,0 +1,100 @@
+---
+title: "Mangrove fish assemblages from the Galapagos Islands"
+author: "Denisse Fierro Arcos"
+date: "2020-03-02"
+output: html_document
+---
+
+## Data analysis: Mangrove fish assemblages from the Galapagos Islands
+Date of creation: 2018-04-30\
+Date of latest update: 2020-03-03\
+Version # 3
+Prepared for the Sharks Ecology Project of the Charles Darwin Foundation (CDF).\
+Related to work published in xxxx titled "First archipelago-wide characterisation and analysis of spatial distribution patterns of mangrove fish assemblages in the Galapagos, a UNESCO World Heritage Site".
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Uploading relevant libraries
+```{r libraries, results = "hide", warning = F, message = F}
+library(tidyverse)
+library(vegan)
+library(statsr)
+library(plotrix)
+```
+
+### Uploading data to be used in the analysis
+```{r}
+#Fish database: includes information information such as max length, and trophic level
+FishData <- read.csv("Data/FishDB.csv")
+
+#List of non-fish species sampled by both sampling methods
+NonFish=c("Cardisoma crassum", "Chelonia mydas", "Chelonia  mydas", "Cheloniidae sp", "Phalacrocorax harrisi", "Spheniscus mendiculus", "Scyllarides astori", "Zalophus wollebaeki")
+
+#Underwater Visual Census (UVC) data
+UVC <- read.csv("Data/UVC_Data.csv")
+UVCEnviro <- read.csv("Data/UVCEnviro.csv")
+
+#Baited Remote Underwater Video (BRUVS) data
+
+```
+
+### UVC Data transformation
+```{r}
+#Filtering out non-fish species from UVC database and creating tibble table from UVC data frame containing counts
+UVC <- UVC %>% filter(!Species %in% NonFish) %>% tbl_df() %>% 
+  mutate(Species = factor(Species))
+
+#Filtering out non-mangrove areas and creating a tibble table from UVC environmental data
+UVCEnviro <- UVCEnviro %>% filter(Habitat == "Mangrove") %>% tbl_df()
+
+#Creating new tibble table containing counts data per site and per species
+CountsUVC <- UVC %>% 
+  unite(SiteName, SiteName, Transect, sep = " - ") %>% 
+  mutate(SiteName = as.factor(SiteName)) %>% 
+  right_join(., select(UVCEnviro, SiteName), by = "SiteName") %>%
+  mutate(SiteName = factor(SiteName)) %>% 
+  group_by(Bioregion, Island, SiteName, Species) %>% 
+  summarise_at(vars(Counts), funs(N = sum(., na.rm = T))) %>% 
+  complete(Species, nesting(Bioregion, Island, SiteName))
+
+#Constructing matrix for multivariate analysis
+FM_UVC <- CountsUVC %>% spread(Species,N) %>% as.data.frame() %>% select_if(is.numeric) %>% as.matrix()
+#Including site names as row names
+rownames(FM_UVC) <- unique(CountsUVC$SiteName)
+#Creating new matrix with normalised abundance values
+Norm_FMUVC <- FM_UVC/sum(FM_UVC, na.rm = T)
+
+#Attach Family and Genus data for species identified in UVC
+CountsUVC <- FishData %>% select(1,4:5) %>% 
+  rename("Species"="ScientificName") %>% 
+  left_join(CountsUVC, ., by = "Species") 
+```
+
+### UVC Statistics
+Total number of individuals sampled: `r sum(CountsUVC$N, na.rm = T)`\
+Total number of fish species sampled: `r length(unique(CountsUVC$Species))`\
+Total number of fish genera sampled: `r length(unique(CountsUVC$Genus))`\
+Total number of fish families sampled: `r length(unique(CountsUVC$Family))`\
+
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
