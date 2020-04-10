@@ -1,0 +1,2673 @@
+Bioregion,Island,SiteName,Depth,SiteCode,Replicate,Species,EstimatedSize,Counts
+CSE,Isabela E,ALBEMARLE_1,2,ALB,1,Bodianus diplotaenia,30,1
+CSE,Isabela E,ALBEMARLE_1,2,ALB,1,Cirrhitus rivulatus,40,1
+CSE,Isabela E,ALBEMARLE_1,2,ALB,1,Halichoeres nicholsi,15,1
+CSE,Isabela E,ALBEMARLE_1,2,ALB,1,Mycteroperca olfax,9,1
+CSE,Isabela E,ALBEMARLE_1,2,ALB,1,Mycteroperca olfax,15,2
+CSE,Isabela E,ALBEMARLE_1,2,ALB,1,Mycteroperca olfax,25,1
+CSE,Isabela E,ALBEMARLE_1,2,ALB,1,Plagiotremus azaleus,9,1
+CSE,Isabela E,ALBEMARLE_1,2,ALB,1,Stegastes arcifrons,2,5
+CSE,Isabela E,ALBEMARLE_1,2,ALB,1,Stegastes arcifrons,5,34
+CSE,Isabela E,ALBEMARLE_1,2,ALB,1,Stegastes arcifrons,9,49
+CSE,Isabela E,ALBEMARLE_1,2,ALB,2,Bodianus diplotaenia,20,1
+CSE,Isabela E,ALBEMARLE_1,2,ALB,2,Mugil sp,2,8
+CSE,Isabela E,ALBEMARLE_1,2,ALB,2,Stegastes arcifrons,2,12
+CSE,Isabela E,ALBEMARLE_1,2,ALB,2,Stegastes arcifrons,5,10
+CSE,Isabela E,ALBEMARLE_1,2,ALB,2,Stegastes arcifrons,9,18
+CSE,Isabela E,ALBEMARLE_1,2,ALB,2,Stegastes arcifrons,15,10
+CSE,Isabela E,ALBEMARLE_1,2,ALB,2,Thalassoma lucasanum,15,1
+CSE,Isabela E,ALBEMARLE_1,2,ALB,3,Abudefduf troschelii,5,3
+CSE,Isabela E,ALBEMARLE_1,2,ALB,3,Abudefduf troschelii,9,1
+CSE,Isabela E,ALBEMARLE_1,2,ALB,3,Bodianus diplotaenia,20,1
+CSE,Isabela E,ALBEMARLE_1,2,ALB,3,Bodianus diplotaenia,25,1
+CSE,Isabela E,ALBEMARLE_1,2,ALB,3,Bodianus diplotaenia,30,1
+CSE,Isabela E,ALBEMARLE_1,2,ALB,3,Holacanthus passer,25,2
+CSE,Isabela E,ALBEMARLE_1,2,ALB,3,Holacanthus passer,30,1
+CSE,Isabela E,ALBEMARLE_1,2,ALB,3,Mugil sp,15,100
+CSE,Isabela E,ALBEMARLE_1,2,ALB,3,Scarus ghobban,25,1
+CSE,Isabela E,ALBEMARLE_1,2,ALB,3,Stegastes arcifrons,5,11
+CSE,Isabela E,ALBEMARLE_1,2,ALB,3,Stegastes arcifrons,9,31
+CSE,Isabela E,ALBEMARLE_1,2,ALB,3,Stegastes beebei,15,3
+CSE,Isabela E,ALBEMARLE_1,2,ALB,3,Xenichthys agassizii,20,100
+CSE,Isabela E,ALBEMARLE_1,2,ALB,3,Xenocys jessiae,20,15
+CSE,Isabela E,ALBEMARLE_1,2,ALB,4,Abudefduf troschelii,5,2
+CSE,Isabela E,ALBEMARLE_1,2,ALB,4,Abudefduf troschelii,9,3
+CSE,Isabela E,ALBEMARLE_1,2,ALB,4,Mugil sp,5,15
+CSE,Isabela E,ALBEMARLE_1,2,ALB,4,Scarus ghobban,35,1
+CSE,Isabela E,ALBEMARLE_1,2,ALB,4,Stegastes beebei,5,6
+CSE,Isabela E,ALBEMARLE_1,2,ALB,4,Stegastes beebei,9,18
+CSE,Isabela E,ALBEMARLE_1,2,ALB,4,Stegastes beebei,15,9
+CSE,Isabela E,ALBEMARLE_1,2,ALB,4,Thalassoma lucasanum,5,3
+CSE,Isabela E,ALBEMARLE_1,2,ALB,4,Thalassoma lucasanum,15,4
+CSE,Isabela E,ALBEMARLE_2,2,ALB,1,Archosargus pourtalesii,15,30
+CSE,Isabela E,ALBEMARLE_2,2,ALB,1,Bodianus diplotaenia,9,1
+CSE,Isabela E,ALBEMARLE_2,2,ALB,1,Carcharhinus limbatus,60,1
+CSE,Isabela E,ALBEMARLE_2,2,ALB,1,Mugil cephalus,20,10
+CSE,Isabela E,ALBEMARLE_2,2,ALB,1,Mycteroperca olfax,15,1
+CSE,Isabela E,ALBEMARLE_2,2,ALB,1,Mycteroperca olfax,25,1
+CSE,Isabela E,ALBEMARLE_2,2,ALB,1,Scarus ghobban,20,1
+CSE,Isabela E,ALBEMARLE_2,2,ALB,1,Stegastes arcifrons,5,10
+CSE,Isabela E,ALBEMARLE_2,2,ALB,1,Stegastes arcifrons,9,57
+CSE,Isabela E,ALBEMARLE_2,2,ALB,2,Aetobatus ocellatus,70,1
+CSE,Isabela E,ALBEMARLE_2,2,ALB,2,Bodianus diplotaenia,40,1
+CSE,Isabela E,ALBEMARLE_2,2,ALB,2,Bodianus diplotaenia,25,1
+CSE,Isabela E,ALBEMARLE_2,2,ALB,2,Carcharhinus limbatus,60,8
+CSE,Isabela E,ALBEMARLE_2,2,ALB,2,Lutjanus argentiventris,15,34
+CSE,Isabela E,ALBEMARLE_2,2,ALB,2,Lutjanus argentiventris,20,1
+CSE,Isabela E,ALBEMARLE_2,2,ALB,2,Lutjanus argentiventris,25,25
+CSE,Isabela E,ALBEMARLE_2,2,ALB,2,Lutjanus novemfasciatus,50,1
+CSE,Isabela E,ALBEMARLE_2,2,ALB,2,Mycteroperca olfax,25,1
+CSE,Isabela E,ALBEMARLE_2,2,ALB,2,Stegastes arcifrons,2,15
+CSE,Isabela E,ALBEMARLE_2,2,ALB,2,Stegastes arcifrons,9,28
+CSE,Isabela E,ALBEMARLE_2,2,ALB,2,Xenocys jessiae,20,40
+CSE,Isabela E,ALBEMARLE_2,2,ALB,3,Eucinostomus dowii,15,3
+CSE,Isabela E,ALBEMARLE_2,2,ALB,3,Eucinostomus dowii,20,1
+CSE,Isabela E,ALBEMARLE_2,2,ALB,3,Mugil sp,15,500
+CSE,Isabela E,ALBEMARLE_2,2,ALB,3,Mycteroperca olfax,20,1
+CSE,Isabela E,ALBEMARLE_2,2,ALB,3,Scarus ghobban,9,1
+CSE,Isabela E,ALBEMARLE_2,2,ALB,3,Stegastes arcifrons,5,3
+CSE,Isabela E,ALBEMARLE_2,2,ALB,3,Stegastes arcifrons,9,29
+CSE,Isabela E,ALBEMARLE_2,2,ALB,3,Stegastes arcifrons,15,26
+CSE,Isabela E,ALBEMARLE_2,2,ALB,3,Xenichthys agassizii,20,3000
+CSE,Isabela E,ALBEMARLE_2,2,ALB,4,Abudefduf concolor,20,1
+CSE,Isabela E,ALBEMARLE_2,2,ALB,4,Abudefduf troschelii,9,1
+CSE,Isabela E,ALBEMARLE_2,2,ALB,4,Abudefduf troschelii,15,1
+CSE,Isabela E,ALBEMARLE_2,2,ALB,4,Archosargus pourtalesii,15,30
+CSE,Isabela E,ALBEMARLE_2,2,ALB,4,Bodianus diplotaenia,15,1
+CSE,Isabela E,ALBEMARLE_2,2,ALB,4,Eucinostomus dowii,15,2
+CSE,Isabela E,ALBEMARLE_2,2,ALB,4,Eucinostomus dowii,20,3
+CSE,Isabela E,ALBEMARLE_2,2,ALB,4,Mugil sp,15,10
+CSE,Isabela E,ALBEMARLE_2,2,ALB,4,Mugil sp,20,20
+CSE,Isabela E,ALBEMARLE_2,2,ALB,4,Mycteroperca olfax,15,1
+CSE,Isabela E,ALBEMARLE_3,2,ALB,1,Abudefduf troschelii,9,10
+CSE,Isabela E,ALBEMARLE_3,2,ALB,1,Gerres simillimus,5,10
+CSE,Isabela E,ALBEMARLE_3,2,ALB,1,Lutjanus novemfasciatus,45,1
+CSE,Isabela E,ALBEMARLE_3,2,ALB,1,Malacoctenus tetranemus,2,1
+CSE,Isabela E,ALBEMARLE_3,2,ALB,1,Malacoctenus tetranemus,5,5
+CSE,Isabela E,ALBEMARLE_3,2,ALB,1,Sphoeroides annulatus,5,125
+CSE,Isabela E,ALBEMARLE_3,2,ALB,1,Sphoeroides annulatus,9,3
+CSE,Isabela E,ALBEMARLE_3,2,ALB,1,Sphoeroides annulatus,20,2
+CSE,Isabela E,ALBEMARLE_3,2,ALB,1,Stegastes arcifrons,9,50
+CSE,Isabela E,ALBEMARLE_3,2,ALB,1,Stegastes arcifrons,15,30
+CSE,Isabela E,ALBEMARLE_3,2,ALB,2,Abudefduf concolor,9,10
+CSE,Isabela E,ALBEMARLE_3,2,ALB,2,Gerres simillimus,5,10
+CSE,Isabela E,ALBEMARLE_3,2,ALB,2,Malacoctenus tetranemus,2,2
+CSE,Isabela E,ALBEMARLE_3,2,ALB,2,Malacoctenus tetranemus,5,4
+CSE,Isabela E,ALBEMARLE_3,2,ALB,2,Sphoeroides annulatus,5,120
+CSE,Isabela E,ALBEMARLE_3,2,ALB,2,Sphoeroides annulatus,9,4
+CSE,Isabela E,ALBEMARLE_3,2,ALB,2,Sphoeroides annulatus,20,1
+CSE,Isabela E,ALBEMARLE_3,2,ALB,2,Stegastes arcifrons,5,2
+CSE,Isabela E,ALBEMARLE_3,2,ALB,2,Stegastes arcifrons,9,19
+CSE,Isabela E,ALBEMARLE_3,2,ALB,2,Stegastes arcifrons,15,20
+CSE,Isabela E,ALBEMARLE_3,2,ALB,2,Xenichthys agassizii,2,3
+CSE,Isabela E,ALBEMARLE_3,2,ALB,2,Xenichthys agassizii,5,5
+CSE,Isabela E,ALBEMARLE_3,2,ALB,3,Abudefduf concolor,9,1
+CSE,Isabela E,ALBEMARLE_3,2,ALB,3,Abudefduf concolor,15,1
+CSE,Isabela E,ALBEMARLE_3,2,ALB,3,Abudefduf troschelii,5,4
+CSE,Isabela E,ALBEMARLE_3,2,ALB,3,Abudefduf troschelii,9,1
+CSE,Isabela E,ALBEMARLE_3,2,ALB,3,Eucinostomus dowii,5,15
+CSE,Isabela E,ALBEMARLE_3,2,ALB,3,Mugil sp,9,1
+CSE,Isabela E,ALBEMARLE_3,2,ALB,3,Mugil sp,15,1
+CSE,Isabela E,ALBEMARLE_3,2,ALB,3,Sphoeroides annulatus,5,20
+CSE,Isabela E,ALBEMARLE_3,2,ALB,3,Sphoeroides annulatus,15,1
+CSE,Isabela E,ALBEMARLE_3,2,ALB,3,Stegastes arcifrons,9,47
+CSE,Isabela E,ALBEMARLE_3,2,ALB,3,Stegastes arcifrons,15,37
+CSE,Isabela E,ALBEMARLE_3,2,ALB,4,Abudefduf troschelii,9,2
+CSE,Isabela E,ALBEMARLE_3,2,ALB,4,Abudefduf troschelii,15,1
+CSE,Isabela E,ALBEMARLE_3,2,ALB,4,Arothron hispidus,35,1
+CSE,Isabela E,ALBEMARLE_3,2,ALB,4,Calamus brachysomus,30,1
+CSE,Isabela E,ALBEMARLE_3,2,ALB,4,Lutjanus argentiventris,15,1
+CSE,Isabela E,ALBEMARLE_3,2,ALB,4,Mugil sp,20,1
+CSE,Isabela E,ALBEMARLE_3,2,ALB,4,Sphoeroides annulatus,5,7
+CSE,Isabela E,ALBEMARLE_3,2,ALB,4,Sphoeroides annulatus,2,5
+CSE,Isabela E,ALBEMARLE_3,2,ALB,4,Stegastes arcifrons,5,15
+CSE,Isabela E,ALBEMARLE_3,2,ALB,4,Stegastes arcifrons,9,33
+CSE,Isabela E,ALBEMARLE_3,2,ALB,4,Stegastes arcifrons,15,15
+CSE,Isabela E,ALBEMARLE_3,2,ALB,4,Thalassoma lucasanum,15,1
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,1,Abudefduf concolor,15,5
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,1,Abudefduf troschelii,2,42
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Abudefduf troschelii,2,10
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,4,Abudefduf troschelii,5,19
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,2,Anisotremus interruptus,30,1
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,2,Anisotremus interruptus,35,1
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,2,Anisotremus interruptus,40,1
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,1,Archosargus pourtalesii,15,6
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,2,Archosargus pourtalesii,20,1
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Archosargus pourtalesii,15,8
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Archosargus pourtalesii,20,3
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Caranx caballus,20,4
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,2,Chaetodon humeralis,9,1
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,1,Eucinostomus dowii,5,3
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Eucinostomus dowii,9,11
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,4,Eucinostomus dowii,9,5
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Haemulon scudderii,9,14
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Haemulon scudderii,15,1
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Halichoeres nicholsi,9,1
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Halichoeres nicholsi,15,2
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,4,Halichoeres nicholsi,15,3
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,1,Lutjanus aratus,35,1
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,1,Lutjanus argentiventris,30,8
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,1,Lutjanus argentiventris,20,3
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,1,Lutjanus argentiventris,25,21
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,2,Lutjanus argentiventris,30,11
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,2,Lutjanus argentiventris,25,1
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Lutjanus argentiventris,15,8
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Lutjanus argentiventris,20,4
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Lutjanus argentiventris,25,2
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,4,Lutjanus argentiventris,20,2
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,4,Lutjanus argentiventris,25,1
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Lutjanus novemfasciatus,15,1
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Lutjanus novemfasciatus,35,1
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Scarus compressus,30,1
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,1,Scarus ghobban,20,10
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Scarus ghobban,9,10
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Scarus ghobban,15,2
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Scarus ghobban,20,6
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,1,Sphoeroides annulatus,15,1
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,1,Sphoeroides annulatus,20,2
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,2,Sphoeroides annulatus,15,5
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,2,Sphoeroides annulatus,20,2
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Sphoeroides annulatus,5,3
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Sphoeroides annulatus,9,5
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,4,Sphoeroides annulatus,9,2
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,4,Sphoeroides annulatus,15,1
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,1,Stegastes arcifrons,9,2
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,2,Stegastes arcifrons,9,1
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Stegastes arcifrons,9,9
+CSE,Santa Cruz,BAHIA_TORTUGA_1,2,BAT,3,Stegastes arcifrons,15,8
+Western,Isabela W,BALEADO_1,2,BALE,1,Abudefduf troschelii,2,10
+Western,Isabela W,BALEADO_1,2,BALE,1,Abudefduf troschelii,9,2
+Western,Isabela W,BALEADO_1,2,BALE,1,Eucinostomus dowii,25,1
+Western,Isabela W,BALEADO_1,2,BALE,1,Lutjanus argentiventris,30,2
+Western,Isabela W,BALEADO_1,2,BALE,1,Lutjanus argentiventris,9,1
+Western,Isabela W,BALEADO_1,2,BALE,1,Lutjanus argentiventris,15,8
+Western,Isabela W,BALEADO_1,2,BALE,1,Lutjanus argentiventris,20,4
+Western,Isabela W,BALEADO_1,2,BALE,1,Lutjanus argentiventris,25,4
+Western,Isabela W,BALEADO_1,2,BALE,1,Lutjanus novemfasciatus,30,1
+Western,Isabela W,BALEADO_1,2,BALE,1,Mycteroperca olfax,15,1
+Western,Isabela W,BALEADO_1,2,BALE,1,Stegastes arcifrons,5,1
+Western,Isabela W,BALEADO_1,2,BALE,2,Abudefduf troschelii,2,23
+Western,Isabela W,BALEADO_1,2,BALE,2,Eucinostomus dowii,15,3
+Western,Isabela W,BALEADO_1,2,BALE,2,Eucinostomus dowii,20,1
+Western,Isabela W,BALEADO_1,2,BALE,2,Haemulon scudderii,20,2
+Western,Isabela W,BALEADO_1,2,BALE,2,Haemulon scudderii,25,1
+Western,Isabela W,BALEADO_1,2,BALE,2,Lutjanus argentiventris,35,1
+Western,Isabela W,BALEADO_1,2,BALE,2,Lutjanus argentiventris,15,6
+Western,Isabela W,BALEADO_1,2,BALE,2,Lutjanus argentiventris,20,6
+Western,Isabela W,BALEADO_1,2,BALE,2,Lutjanus argentiventris,25,3
+Western,Isabela W,BALEADO_1,2,BALE,2,Lutjanus novemfasciatus,30,1
+Western,Isabela W,BALEADO_1,2,BALE,2,Lutjanus novemfasciatus,35,1
+Western,Isabela W,BALEADO_1,2,BALE,2,Lutjanus novemfasciatus,40,1
+Western,Isabela W,BALEADO_1,2,BALE,2,Lutjanus novemfasciatus,50,1
+Western,Isabela W,BALEADO_1,2,BALE,2,Mugil cephalus,40,22
+Western,Isabela W,BALEADO_1,2,BALE,2,Stegastes arcifrons,9,2
+Western,Isabela W,BALEADO_1,2,BALE,3,Abudefduf troschelii,2,5
+Western,Isabela W,BALEADO_1,2,BALE,3,Abudefduf troschelii,5,15
+Western,Isabela W,BALEADO_1,2,BALE,3,Abudefduf troschelii,9,3
+Western,Isabela W,BALEADO_1,2,BALE,3,Abudefduf troschelii,15,9
+Western,Isabela W,BALEADO_1,2,BALE,3,Eucinostomus dowii,25,1
+Western,Isabela W,BALEADO_1,2,BALE,3,Lutjanus argentiventris,15,1
+Western,Isabela W,BALEADO_1,2,BALE,3,Lutjanus argentiventris,25,1
+Western,Isabela W,BALEADO_1,2,BALE,3,Lutjanus novemfasciatus,45,1
+Western,Isabela W,BALEADO_1,2,BALE,3,Mugil curema,45,10
+Western,Isabela W,BALEADO_1,2,BALE,3,Mycteroperca olfax,9,1
+Western,Isabela W,BALEADO_1,2,BALE,3,Mycteroperca olfax,15,1
+Western,Isabela W,BALEADO_1,2,BALE,3,Scarus ghobban,9,8
+Western,Isabela W,BALEADO_1,2,BALE,3,Scarus ghobban,15,4
+Western,Isabela W,BALEADO_1,2,BALE,3,Stegastes arcifrons,9,10
+Western,Isabela W,BALEADO_1,2,BALE,4,Abudefduf troschelii,15,9
+Western,Isabela W,BALEADO_1,2,BALE,4,Hypanus longus,45,1
+Western,Isabela W,BALEADO_1,2,BALE,4,Eucinostomus dowii,15,1
+Western,Isabela W,BALEADO_1,2,BALE,4,Eucinostomus dowii,20,1
+Western,Isabela W,BALEADO_1,2,BALE,4,Eucinostomus dowii,25,1
+Western,Isabela W,BALEADO_1,2,BALE,4,Lutjanus argentiventris,9,1
+Western,Isabela W,BALEADO_1,2,BALE,4,Lutjanus argentiventris,15,1
+Western,Isabela W,BALEADO_1,2,BALE,4,Lutjanus argentiventris,20,2
+Western,Isabela W,BALEADO_1,2,BALE,4,Mycteroperca olfax,9,2
+Western,Isabela W,BALEADO_1,2,BALE,4,Mycteroperca olfax,15,3
+Western,Isabela W,BALEADO_1,2,BALE,4,Scarus ghobban,9,8
+Western,Isabela W,BALEADO_1,2,BALE,4,Scarus ghobban,15,8
+CSE,Isabela E,BALLENA_1,1,BALL,1,Abudefduf troschelii,2,40
+CSE,Isabela E,BALLENA_1,1,BALL,1,Eucinostomus dowii,2,2
+CSE,Isabela E,BALLENA_1,1,BALL,1,Lutjanus argentiventris,30,1
+CSE,Isabela E,BALLENA_1,1,BALL,1,Lutjanus argentiventris,20,10
+CSE,Isabela E,BALLENA_1,1,BALL,1,Lutjanus argentiventris,25,4
+CSE,Isabela E,BALLENA_1,1,BALL,1,Lutjanus novemfasciatus,20,1
+CSE,Isabela E,BALLENA_1,1,BALL,1,Sphoeroides annulatus,15,2
+CSE,Isabela E,BALLENA_1,1,BALL,1,Sphoeroides annulatus,20,1
+CSE,Isabela E,BALLENA_1,1,BALL,1,Stegastes arcifrons,9,3
+CSE,Isabela E,BALLENA_1,1,BALL,2,Abudefduf troschelii,2,126
+CSE,Isabela E,BALLENA_1,1,BALL,2,Bodianus diplotaenia,25,1
+CSE,Isabela E,BALLENA_1,1,BALL,2,Chaetodon humeralis,9,1
+CSE,Isabela E,BALLENA_1,1,BALL,2,Eucinostomus dowii,2,2
+CSE,Isabela E,BALLENA_1,1,BALL,2,Eucinostomus dowii,5,3
+CSE,Isabela E,BALLENA_1,1,BALL,2,Lutjanus argentiventris,15,1
+CSE,Isabela E,BALLENA_1,1,BALL,2,Lutjanus argentiventris,20,14
+CSE,Isabela E,BALLENA_1,1,BALL,2,Lutjanus argentiventris,25,19
+CSE,Isabela E,BALLENA_1,1,BALL,2,Stegastes arcifrons,9,2
+CSE,Isabela E,BALLENA_1,2,BALL,3,Abudefduf troschelii,5,1
+CSE,Isabela E,BALLENA_1,2,BALL,3,Sphoeroides annulatus,9,2
+CSE,Isabela E,BALLENA_1,2,BALL,3,Sphoeroides annulatus,15,1
+CSE,Isabela E,BALLENA_1,2,BALL,3,Sphoeroides annulatus,20,1
+CSE,Isabela E,BALLENA_1,2,BALL,3,Stegastes arcifrons,5,1
+CSE,Isabela E,BALLENA_1,2,BALL,3,Stegastes arcifrons,9,2
+CSE,Isabela E,BALLENA_1,2,BALL,3,Thalassoma lucasanum,9,1
+CSE,Isabela E,BALLENA_1,2,BALL,4,Abudefduf troschelii,2,12
+CSE,Isabela E,BALLENA_1,2,BALL,4,Mugil sp,9,50
+CSE,Isabela E,BALLENA_1,2,BALL,4,Sphoeroides annulatus,9,2
+CSE,Isabela E,BALLENA_1,2,BALL,4,Sphoeroides annulatus,15,1
+CSE,Floreana,BARONESA_1,2,BAR,1,Abudefduf troschelii,2,51
+CSE,Floreana,BARONESA_1,2,BAR,1,Abudefduf troschelii,5,12
+CSE,Floreana,BARONESA_1,2,BAR,1,Halichoeres dispilus,5,1
+CSE,Floreana,BARONESA_1,2,BAR,1,Halichoeres dispilus,9,2
+CSE,Floreana,BARONESA_1,2,BAR,1,Lutjanus argentiventris,2,3
+CSE,Floreana,BARONESA_1,2,BAR,1,Lutjanus argentiventris,20,3
+CSE,Floreana,BARONESA_1,2,BAR,1,Scarus ghobban,20,6
+CSE,Floreana,BARONESA_1,2,BAR,1,Sphoeroides annulatus,5,1
+CSE,Floreana,BARONESA_1,2,BAR,1,Stegastes arcifrons,5,22
+CSE,Floreana,BARONESA_1,2,BAR,1,Stegastes arcifrons,9,39
+CSE,Floreana,BARONESA_1,2,BAR,1,Stegastes arcifrons,15,5
+CSE,Floreana,BARONESA_1,2,BAR,2,Abudefduf concolor,9,1
+CSE,Floreana,BARONESA_1,2,BAR,2,Abudefduf troschelii,2,13
+CSE,Floreana,BARONESA_1,2,BAR,2,Lutjanus argentiventris,2,39
+CSE,Floreana,BARONESA_1,2,BAR,2,Lutjanus argentiventris,5,4
+CSE,Floreana,BARONESA_1,2,BAR,2,Lutjanus argentiventris,9,25
+CSE,Floreana,BARONESA_1,2,BAR,2,Lutjanus argentiventris,15,1
+CSE,Floreana,BARONESA_1,2,BAR,2,Lutjanus novemfasciatus,2,1
+CSE,Floreana,BARONESA_1,2,BAR,2,Mugil cephalus,5,18
+CSE,Floreana,BARONESA_1,2,BAR,2,Mugil cephalus,9,50
+CSE,Floreana,BARONESA_1,2,BAR,2,Mycteroperca olfax,15,1
+CSE,Floreana,BARONESA_1,2,BAR,2,Sphoeroides annulatus,5,1
+CSE,Floreana,BARONESA_1,2,BAR,2,Stegastes arcifrons,5,3
+CSE,Floreana,BARONESA_1,2,BAR,2,Thalassoma lucasanum,15,2
+CSE,Floreana,BARONESA_1,2,BAR,3,Abudefduf concolor,9,1
+CSE,Floreana,BARONESA_1,2,BAR,3,Abudefduf concolor,15,3
+CSE,Floreana,BARONESA_1,2,BAR,3,Abudefduf troschelii,5,4
+CSE,Floreana,BARONESA_1,2,BAR,3,Abudefduf troschelii,9,5
+CSE,Floreana,BARONESA_1,2,BAR,3,Epinephelus labriformis,5,1
+CSE,Floreana,BARONESA_1,2,BAR,3,Eucinostomus dowii,2,1
+CSE,Floreana,BARONESA_1,2,BAR,3,Eucinostomus dowii,5,4
+CSE,Floreana,BARONESA_1,2,BAR,3,Halichoeres dispilus,9,3
+CSE,Floreana,BARONESA_1,2,BAR,3,Lutjanus argentiventris,2,1
+CSE,Floreana,BARONESA_1,2,BAR,3,Lutjanus argentiventris,5,8
+CSE,Floreana,BARONESA_1,2,BAR,3,Lutjanus argentiventris,9,2
+CSE,Floreana,BARONESA_1,2,BAR,3,Mugil sp,9,300
+CSE,Floreana,BARONESA_1,2,BAR,3,Stegastes arcifrons,9,10
+CSE,Floreana,BARONESA_1,2,BAR,3,Stegastes arcifrons,15,1
+CSE,Floreana,BARONESA_1,2,BAR,3,Stegastes beebei,5,1
+CSE,Floreana,BARONESA_1,2,BAR,3,Stegastes beebei,9,7
+CSE,Floreana,BARONESA_1,2,BAR,4,Abudefduf concolor,9,11
+CSE,Floreana,BARONESA_1,2,BAR,4,Abudefduf concolor,15,4
+CSE,Floreana,BARONESA_1,2,BAR,4,Abudefduf troschelii,2,70
+CSE,Floreana,BARONESA_1,2,BAR,4,Halichoeres nicholsi,15,1
+CSE,Floreana,BARONESA_1,2,BAR,4,Lutjanus aratus,20,1
+CSE,Floreana,BARONESA_1,2,BAR,4,Lutjanus aratus,25,1
+CSE,Floreana,BARONESA_1,2,BAR,4,Lutjanus argentiventris,15,27
+CSE,Floreana,BARONESA_1,2,BAR,4,Lutjanus novemfasciatus,20,1
+CSE,Floreana,BARONESA_1,2,BAR,4,Mugil sp,9,100
+CSE,Floreana,BARONESA_1,2,BAR,4,Sphoeroides annulatus,5,1
+CSE,Floreana,BARONESA_1,2,BAR,4,Stegastes arcifrons,5,1
+CSE,Floreana,BARONESA_1,2,BAR,4,Stegastes arcifrons,9,6
+CSE,Santiago,BOMBA_2,1,BOM,1,Abudefduf concolor,15,1
+CSE,Santiago,BOMBA_2,1,BOM,2,Abudefduf concolor,15,12
+CSE,Santiago,BOMBA_2,1,BOM,1,Abudefduf troschelii,2,4
+CSE,Santiago,BOMBA_2,1,BOM,2,Abudefduf troschelii,2,114
+CSE,Santiago,BOMBA_2,1,BOM,2,Caranx caninus,20,6
+CSE,Santiago,BOMBA_2,1,BOM,1,Carcharhinus limbatus,55,2
+CSE,Santiago,BOMBA_2,1,BOM,1,Eucinostomus dowii,20,1
+CSE,Santiago,BOMBA_2,1,BOM,1,Haemulon scudderii,2,4
+CSE,Santiago,BOMBA_2,1,BOM,1,Haemulon scudderii,20,5
+CSE,Santiago,BOMBA_2,2,BOM,3,Haemulon scudderii,15,1
+CSE,Santiago,BOMBA_2,1,BOM,1,Lutjanus aratus,40,1
+CSE,Santiago,BOMBA_2,1,BOM,1,Lutjanus aratus,35,1
+CSE,Santiago,BOMBA_2,1,BOM,1,Lutjanus aratus,30,1
+CSE,Santiago,BOMBA_2,1,BOM,1,Lutjanus argentiventris,2,2
+CSE,Santiago,BOMBA_2,1,BOM,1,Lutjanus argentiventris,15,1
+CSE,Santiago,BOMBA_2,1,BOM,1,Lutjanus argentiventris,20,1
+CSE,Santiago,BOMBA_2,1,BOM,2,Lutjanus argentiventris,2,5
+CSE,Santiago,BOMBA_2,1,BOM,2,Lutjanus argentiventris,30,3
+CSE,Santiago,BOMBA_2,1,BOM,2,Lutjanus argentiventris,20,6
+CSE,Santiago,BOMBA_2,1,BOM,2,Lutjanus argentiventris,25,15
+CSE,Santiago,BOMBA_2,1,BOM,2,Lutjanus jordani,2,1
+CSE,Santiago,BOMBA_2,1,BOM,1,Lutjanus novemfasciatus,2,2
+CSE,Santiago,BOMBA_2,1,BOM,1,Lutjanus novemfasciatus,30,2
+CSE,Santiago,BOMBA_2,1,BOM,1,Lutjanus novemfasciatus,25,1
+CSE,Santiago,BOMBA_2,1,BOM,2,Lutjanus novemfasciatus,2,3
+CSE,Santiago,BOMBA_2,1,BOM,2,Lutjanus novemfasciatus,40,1
+CSE,Santiago,BOMBA_2,1,BOM,2,Lutjanus novemfasciatus,35,2
+CSE,Santiago,BOMBA_2,1,BOM,2,Lutjanus novemfasciatus,30,12
+CSE,Santiago,BOMBA_2,1,BOM,2,Lutjanus novemfasciatus,25,2
+CSE,Santiago,BOMBA_2,1,BOM,2,Mugil cephalus,25,24
+CSE,Santiago,BOMBA_2,1,BOM,2,Mugil curema,20,24
+CSE,Santiago,BOMBA_2,1,BOM,1,Myrichthys tigrinus,40,1
+CSE,Santiago,BOMBA_2,2,BOM,3,Ophioblennius steindachneri,15,1
+CSE,Santiago,BOMBA_2,1,BOM,1,Plagiotremus azaleus,9,1
+CSE,Santiago,BOMBA_2,1,BOM,1,Prionurus laticlavius,40,1
+CSE,Santiago,BOMBA_2,1,BOM,1,Sphoeroides annulatus,2,80
+CSE,Santiago,BOMBA_2,1,BOM,1,Sphoeroides annulatus,15,1
+CSE,Santiago,BOMBA_2,1,BOM,1,Sphoeroides annulatus,25,1
+CSE,Santiago,BOMBA_2,1,BOM,2,Sphoeroides annulatus,2,2
+CSE,Santiago,BOMBA_2,2,BOM,3,Sphoeroides annulatus,9,1
+CSE,Santiago,BOMBA_2,1,BOM,1,Stegastes arcifrons,2,1
+CSE,Santiago,BOMBA_2,1,BOM,2,Stegastes arcifrons,5,39
+CSE,Santiago,BOMBA_2,1,BOM,2,Stegastes arcifrons,9,42
+CSE,Santiago,BOMBA_2,1,BOM,2,Stegastes arcifrons,15,16
+CSE,Santiago,BOMBA_2,2,BOM,3,Stegastes arcifrons,9,10
+CSE,Santiago,BOMBA_2,1,BOM,1,Xenichthys agassizii,20,130
+CSE,Santiago,BOMBA_3,2,BOM,4,Abudefduf concolor,15,2
+CSE,Santiago,BOMBA_3,1,BOM,1,Abudefduf troschelii,2,52
+CSE,Santiago,BOMBA_3,2,BOM,3,Abudefduf troschelii,5,50
+CSE,Santiago,BOMBA_3,2,BOM,3,Abudefduf troschelii,9,100
+CSE,Santiago,BOMBA_3,1,BOM,1,Anisotremus interruptus,25,1
+CSE,Santiago,BOMBA_3,2,BOM,3,Bodianus diplotaenia,25,1
+CSE,Santiago,BOMBA_3,2,BOM,4,Bodianus diplotaenia,25,1
+CSE,Santiago,BOMBA_3,2,BOM,4,Bodianus diplotaenia,35,1
+CSE,Santiago,BOMBA_3,2,BOM,4,Bodianus diplotaenia,40,1
+CSE,Santiago,BOMBA_3,1,BOM,2,Caranx caninus,20,2
+CSE,Santiago,BOMBA_3,1,BOM,1,Chaetodon humeralis,9,1
+CSE,Santiago,BOMBA_3,2,BOM,3,Chaetodon humeralis,5,2
+CSE,Santiago,BOMBA_3,2,BOM,3,Chaetodon humeralis,9,1
+CSE,Santiago,BOMBA_3,2,BOM,3,Chaetodon humeralis,15,2
+CSE,Santiago,BOMBA_3,2,BOM,4,Chaetodon humeralis,9,1
+CSE,Santiago,BOMBA_3,2,BOM,4,Chaetodon humeralis,15,1
+CSE,Santiago,BOMBA_3,2,BOM,3,Epinephelus labriformis,9,1
+CSE,Santiago,BOMBA_3,2,BOM,3,Epinephelus labriformis,15,1
+CSE,Santiago,BOMBA_3,2,BOM,3,Epinephelus labriformis,20,1
+CSE,Santiago,BOMBA_3,2,BOM,3,Epinephelus labriformis,25,1
+CSE,Santiago,BOMBA_3,2,BOM,3,Epinephelus labriformis,30,1
+CSE,Santiago,BOMBA_3,2,BOM,4,Eucinostomus dowii,9,20
+CSE,Santiago,BOMBA_3,2,BOM,3,Fistularia commersonii,25,1
+CSE,Santiago,BOMBA_3,2,BOM,3,Fistularia commersonii,30,1
+CSE,Santiago,BOMBA_3,2,BOM,3,Fistularia commersonii,35,2
+CSE,Santiago,BOMBA_3,2,BOM,4,Fistularia commersonii,30,1
+CSE,Santiago,BOMBA_3,2,BOM,4,Fistularia commersonii,35,3
+CSE,Santiago,BOMBA_3,2,BOM,3,Halichoeres dispilus,9,1
+CSE,Santiago,BOMBA_3,2,BOM,4,Halichoeres dispilus,5,2
+CSE,Santiago,BOMBA_3,2,BOM,4,Halichoeres dispilus,15,1
+CSE,Santiago,BOMBA_3,2,BOM,4,Halichoeres dispilus,20,2
+CSE,Santiago,BOMBA_3,2,BOM,3,Holacanthus passer,20,1
+CSE,Santiago,BOMBA_3,1,BOM,2,Kyphosus vaigiensis,20,3
+CSE,Santiago,BOMBA_3,1,BOM,1,Lutjanus argentiventris,30,2
+CSE,Santiago,BOMBA_3,1,BOM,1,Lutjanus argentiventris,20,9
+CSE,Santiago,BOMBA_3,1,BOM,1,Lutjanus argentiventris,25,7
+CSE,Santiago,BOMBA_3,1,BOM,1,Lutjanus novemfasciatus,30,16
+CSE,Santiago,BOMBA_3,1,BOM,1,Lutjanus novemfasciatus,25,1
+CSE,Santiago,BOMBA_3,1,BOM,2,Mugil cephalus,25,30
+CSE,Santiago,BOMBA_3,2,BOM,3,Mugil curema,20,100
+CSE,Santiago,BOMBA_3,2,BOM,4,Mugil curema,15,40
+CSE,Santiago,BOMBA_3,2,BOM,3,Ophioblennius steindachneri,15,2
+CSE,Santiago,BOMBA_3,2,BOM,3,Ophioblennius steindachneri,20,1
+CSE,Santiago,BOMBA_3,2,BOM,4,Ophioblennius steindachneri,20,1
+CSE,Santiago,BOMBA_3,1,BOM,1,Sphoeroides annulatus,20,1
+CSE,Santiago,BOMBA_3,1,BOM,2,Sphoeroides annulatus,9,1
+CSE,Santiago,BOMBA_3,1,BOM,2,Sphoeroides annulatus,20,1
+CSE,Santiago,BOMBA_3,2,BOM,3,Sphoeroides annulatus,5,1
+CSE,Santiago,BOMBA_3,2,BOM,3,Sphoeroides annulatus,9,6
+CSE,Santiago,BOMBA_3,2,BOM,4,Sphoeroides annulatus,9,4
+CSE,Santiago,BOMBA_3,1,BOM,1,Stegastes arcifrons,9,6
+CSE,Santiago,BOMBA_3,1,BOM,2,Stegastes arcifrons,9,11
+CSE,Santiago,BOMBA_3,1,BOM,2,Stegastes arcifrons,15,5
+CSE,Santiago,BOMBA_3,2,BOM,3,Stegastes arcifrons,9,39
+CSE,Santiago,BOMBA_3,2,BOM,3,Stegastes arcifrons,15,10
+CSE,Santiago,BOMBA_3,2,BOM,4,Stegastes arcifrons,9,23
+CSE,Santiago,BOMBA_3,2,BOM,4,Stegastes arcifrons,15,5
+CSE,Santiago,BOMBA_3,2,BOM,3,Thalassoma lucasanum,9,1
+CSE,Santiago,BOMBA_3,2,BOM,3,Thalassoma lucasanum,15,4
+CSE,Santiago,BOMBA_3,2,BOM,4,Thalassoma lucasanum,15,1
+CSE,Santiago,BOMBA_3,1,BOM,2,Xenocys jessiae,15,1
+CSE,Santiago,BOMBA_3,2,BOM,3,Xenocys jessiae,15,500
+CSE,Isabela E,CARTAGO_1,2,CAR,1,Haemulon scudderii,5,4
+CSE,Isabela E,CARTAGO_1,2,CAR,1,Haemulon scudderii,15,2
+CSE,Isabela E,CARTAGO_1,2,CAR,1,Sphoeroides annulatus,9,3
+CSE,Isabela E,CARTAGO_1,2,CAR,1,Sphoeroides annulatus,15,3
+CSE,Isabela E,CARTAGO_1,2,CAR,1,Sphoeroides annulatus,20,1
+CSE,Isabela E,CARTAGO_1,2,CAR,1,Stegastes arcifrons,5,2
+CSE,Isabela E,CARTAGO_1,2,CAR,2,Archosargus pourtalesii,15,3
+CSE,Isabela E,CARTAGO_1,2,CAR,2,Archosargus pourtalesii,20,5
+CSE,Isabela E,CARTAGO_1,2,CAR,2,Bodianus diplotaenia,5,1
+CSE,Isabela E,CARTAGO_1,2,CAR,2,Bodianus diplotaenia,45,1
+CSE,Isabela E,CARTAGO_1,2,CAR,2,Lutjanus argentiventris,15,2
+CSE,Isabela E,CARTAGO_1,2,CAR,2,Lutjanus jordani,20,1
+CSE,Isabela E,CARTAGO_1,2,CAR,2,Lutjanus novemfasciatus,30,1
+CSE,Isabela E,CARTAGO_1,2,CAR,2,Mugil sp,2,20
+CSE,Isabela E,CARTAGO_1,2,CAR,2,Mugil sp,9,15
+CSE,Isabela E,CARTAGO_1,2,CAR,2,Mycteroperca olfax,9,1
+CSE,Isabela E,CARTAGO_1,2,CAR,2,Sphoeroides annulatus,9,5
+CSE,Isabela E,CARTAGO_1,2,CAR,2,Stegastes arcifrons,5,1
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Abudefduf troschelii,2,15
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Bodianus diplotaenia,15,2
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Bodianus diplotaenia,20,1
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Bodianus diplotaenia,25,2
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Chaetodon humeralis,9,1
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Cirrhitus rivulatus,30,1
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Epinephelus labriformis,15,1
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Epinephelus labriformis,25,1
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Epinephelus labriformis,30,2
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Epinephelus labriformis,35,1
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Holacanthus passer,20,1
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Holacanthus passer,30,1
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Hoplopagrus guentherii,45,1
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Lutjanus argentiventris,9,1
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Lutjanus argentiventris,15,3
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Lutjanus argentiventris,20,1
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Mycteroperca olfax,9,1
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Mycteroperca olfax,15,1
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Sphoeroides annulatus,5,6
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Sphoeroides annulatus,9,12
+CSE,Isabela E,CARTAGO_1,2,CAR,3,Sphoeroides annulatus,15,1
+CSE,Isabela E,CARTAGO_1,2,CAR,4,Chaetodon humeralis,9,2
+CSE,Isabela E,CARTAGO_1,2,CAR,4,Lutjanus argentiventris,9,1
+CSE,Isabela E,CARTAGO_1,2,CAR,4,Lutjanus argentiventris,15,4
+CSE,Isabela E,CARTAGO_1,2,CAR,4,Lutjanus argentiventris,20,1
+CSE,Isabela E,CARTAGO_1,2,CAR,4,Lutjanus argentiventris,25,2
+CSE,Isabela E,CARTAGO_1,2,CAR,4,Lutjanus argentiventris,30,1
+CSE,Isabela E,CARTAGO_1,2,CAR,4,Lutjanus argentiventris,35,1
+CSE,Isabela E,CARTAGO_1,2,CAR,4,Lutjanus novemfasciatus,35,1
+CSE,Isabela E,CARTAGO_1,2,CAR,4,Mycteroperca olfax,15,1
+CSE,Isabela E,CARTAGO_1,2,CAR,4,Mycteroperca olfax,20,1
+CSE,Isabela E,CARTAGO_1,2,CAR,4,Sphoeroides annulatus,5,5
+CSE,Isabela E,CARTAGO_1,2,CAR,4,Sphoeroides annulatus,9,16
+CSE,Isabela E,CARTAGO_2,2,CAR,1,Abudefduf troschelii,2,31
+CSE,Isabela E,CARTAGO_2,2,CAR,1,Archosargus pourtalesii,9,6
+CSE,Isabela E,CARTAGO_2,2,CAR,1,Archosargus pourtalesii,20,1
+CSE,Isabela E,CARTAGO_2,2,CAR,1,Archosargus pourtalesii,25,1
+CSE,Isabela E,CARTAGO_2,2,CAR,1,Haemulon scudderii,5,1
+CSE,Isabela E,CARTAGO_2,2,CAR,1,Haemulon scudderii,20,1
+CSE,Isabela E,CARTAGO_2,2,CAR,1,Lutjanus argentiventris,9,1
+CSE,Isabela E,CARTAGO_2,2,CAR,1,Lutjanus argentiventris,15,2
+CSE,Isabela E,CARTAGO_2,2,CAR,1,Lutjanus argentiventris,20,3
+CSE,Isabela E,CARTAGO_2,2,CAR,1,Lutjanus jordani,20,1
+CSE,Isabela E,CARTAGO_2,2,CAR,1,Lutjanus novemfasciatus,45,1
+CSE,Isabela E,CARTAGO_2,2,CAR,1,Mugil sp,5,6
+CSE,Isabela E,CARTAGO_2,2,CAR,1,Sphoeroides annulatus,2,1
+CSE,Isabela E,CARTAGO_2,2,CAR,1,Sphoeroides annulatus,9,2
+CSE,Isabela E,CARTAGO_2,2,CAR,1,Sphoeroides annulatus,15,2
+CSE,Isabela E,CARTAGO_2,2,CAR,1,Stegastes arcifrons,2,5
+CSE,Isabela E,CARTAGO_2,2,CAR,2,Haemulon scudderii,9,3
+CSE,Isabela E,CARTAGO_2,2,CAR,2,Haemulon scudderii,15,1
+CSE,Isabela E,CARTAGO_2,2,CAR,2,Haemulon scudderii,25,1
+CSE,Isabela E,CARTAGO_2,2,CAR,2,Lutjanus argentiventris,15,2
+CSE,Isabela E,CARTAGO_2,2,CAR,2,Mugil sp,5,10
+CSE,Isabela E,CARTAGO_2,2,CAR,2,Mycteroperca olfax,9,2
+CSE,Isabela E,CARTAGO_2,2,CAR,2,Mycteroperca olfax,15,2
+CSE,Isabela E,CARTAGO_2,2,CAR,2,Sphoeroides annulatus,9,1
+CSE,Isabela E,CARTAGO_2,2,CAR,2,Stegastes arcifrons,5,1
+CSE,Isabela E,CARTAGO_2,2,CAR,3,Bodianus diplotaenia,25,1
+CSE,Isabela E,CARTAGO_2,2,CAR,3,Epinephelus labriformis,30,1
+CSE,Isabela E,CARTAGO_2,2,CAR,3,Lutjanus argentiventris,9,1
+CSE,Isabela E,CARTAGO_2,2,CAR,3,Lutjanus argentiventris,15,2
+CSE,Isabela E,CARTAGO_2,2,CAR,3,Lutjanus argentiventris,20,1
+CSE,Isabela E,CARTAGO_2,2,CAR,3,Lutjanus novemfasciatus,25,1
+CSE,Isabela E,CARTAGO_2,2,CAR,3,Lutjanus novemfasciatus,35,7
+CSE,Isabela E,CARTAGO_2,2,CAR,3,Lutjanus novemfasciatus,40,1
+CSE,Isabela E,CARTAGO_2,2,CAR,4,Archosargus pourtalesii,15,3
+CSE,Isabela E,CARTAGO_2,2,CAR,4,Archosargus pourtalesii,20,1
+CSE,Isabela E,CARTAGO_2,2,CAR,4,Archosargus pourtalesii,25,2
+CSE,Isabela E,CARTAGO_2,2,CAR,4,Epinephelus labriformis,25,1
+CSE,Isabela E,CARTAGO_2,2,CAR,4,Haemulon sexfasciatum,15,1
+CSE,Isabela E,CARTAGO_2,2,CAR,4,Haemulon sexfasciatum,20,3
+CSE,Isabela E,CARTAGO_2,2,CAR,4,Lutjanus argentiventris,15,2
+CSE,Isabela E,CARTAGO_2,2,CAR,4,Lutjanus argentiventris,20,1
+CSE,Isabela E,CARTAGO_2,2,CAR,4,Lutjanus argentiventris,25,1
+CSE,Isabela E,CARTAGO_2,2,CAR,4,Mycteroperca olfax,15,6
+CSE,Isabela E,CARTAGO_2,2,CAR,4,Mycteroperca olfax,25,4
+CSE,Isabela E,CARTAGO_2,2,CAR,4,Sphoeroides annulatus,5,3
+CSE,Isabela E,CARTAGO_2,2,CAR,4,Sphoeroides annulatus,9,4
+CSE,Isabela E,CARTAGO_2,2,CAR,4,Sphoeroides annulatus,15,1
+CSE,Isabela E,CARTAGO_3,2,CAR,4,Carcharhinus limbatus,45,1
+CSE,Isabela E,CARTAGO_3,2,CAR,4,Carcharhinus limbatus,70,1
+CSE,Isabela E,CARTAGO_3,2,CAR,4,Lutjanus argentiventris,5,1
+CSE,Isabela E,CARTAGO_3,2,CAR,4,Lutjanus argentiventris,20,2
+CSE,Isabela E,CARTAGO_3,2,CAR,4,Lutjanus argentiventris,25,10
+CSE,Isabela E,CARTAGO_3,2,CAR,4,Lutjanus novemfasciatus,20,4
+CSE,Isabela E,CARTAGO_3,2,CAR,4,Lutjanus novemfasciatus,25,1
+CSE,Isabela E,CARTAGO_3,2,CAR,4,Lutjanus novemfasciatus,45,1
+CSE,Isabela E,CARTAGO_3,2,CAR,4,Sphoeroides annulatus,5,15
+CSE,Isabela E,CARTAGO_3,2,CAR,4,Sphoeroides annulatus,15,40
+CSE,Isabela E,CARTAGO_3,2,CAR,3,Carcharhinus limbatus,55,1
+CSE,Isabela E,CARTAGO_3,2,CAR,3,Carcharhinus limbatus,60,2
+CSE,Isabela E,CARTAGO_3,2,CAR,3,Epinephelus labriformis,5,1
+CSE,Isabela E,CARTAGO_3,2,CAR,3,Epinephelus labriformis,9,1
+CSE,Isabela E,CARTAGO_3,2,CAR,3,Lutjanus argentiventris,15,30
+CSE,Isabela E,CARTAGO_3,2,CAR,3,Lutjanus argentiventris,20,23
+CSE,Isabela E,CARTAGO_3,2,CAR,3,Lutjanus argentiventris,25,30
+CSE,Isabela E,CARTAGO_3,2,CAR,3,Lutjanus novemfasciatus,25,10
+CSE,Isabela E,CARTAGO_3,2,CAR,3,Lutjanus novemfasciatus,35,1
+CSE,Isabela E,CARTAGO_3,2,CAR,3,Lutjanus novemfasciatus,45,1
+CSE,Isabela E,CARTAGO_3,2,CAR,3,Lutjanus novemfasciatus,50,10
+CSE,Isabela E,CARTAGO_3,2,CAR,3,Lutjanus novemfasciatus,55,2
+CSE,Isabela E,CARTAGO_3,2,CAR,3,Sphoeroides annulatus,9,20
+CSE,Isabela E,CARTAGO_3,2,CAR,3,Sphoeroides annulatus,15,30
+CSE,Isabela E,CARTAGO_3,2,CAR,3,Sphoeroides annulatus,25,13
+CSE,Isabela E,CARTAGO_3,2,CAR,2,Lutjanus argentiventris,35,1
+CSE,Isabela E,CARTAGO_3,2,CAR,2,Lutjanus argentiventris,30,10
+CSE,Isabela E,CARTAGO_3,2,CAR,2,Lutjanus argentiventris,9,2
+CSE,Isabela E,CARTAGO_3,2,CAR,2,Lutjanus argentiventris,15,25
+CSE,Isabela E,CARTAGO_3,2,CAR,2,Lutjanus argentiventris,45,1
+CSE,Isabela E,CARTAGO_3,2,CAR,2,Lutjanus argentiventris,25,1
+CSE,Isabela E,CARTAGO_3,2,CAR,2,Lutjanus jordani,9,2
+CSE,Isabela E,CARTAGO_3,2,CAR,2,Lutjanus jordani,15,4
+CSE,Isabela E,CARTAGO_3,2,CAR,2,Lutjanus jordani,20,8
+CSE,Isabela E,CARTAGO_3,2,CAR,2,Lutjanus novemfasciatus,45,1
+CSE,Isabela E,CARTAGO_3,2,CAR,2,Lutjanus novemfasciatus,30,6
+CSE,Isabela E,CARTAGO_3,2,CAR,2,Lutjanus novemfasciatus,25,1
+CSE,Isabela E,CARTAGO_3,2,CAR,2,Sphoeroides annulatus,9,3
+CSE,Isabela E,CARTAGO_3,2,CAR,1,Eucinostomus dowii,9,3
+CSE,Isabela E,CARTAGO_3,2,CAR,1,Eucinostomus dowii,20,1
+CSE,Isabela E,CARTAGO_3,2,CAR,1,Lutjanus argentiventris,9,3
+CSE,Isabela E,CARTAGO_3,2,CAR,1,Lutjanus argentiventris,15,2
+CSE,Isabela E,CARTAGO_3,2,CAR,1,Lutjanus novemfasciatus,40,1
+CSE,Isabela E,CARTAGO_3,2,CAR,1,Lutjanus novemfasciatus,35,3
+CSE,Isabela E,CARTAGO_3,2,CAR,1,Lutjanus novemfasciatus,20,3
+CSE,Isabela E,CARTAGO_3,2,CAR,1,Lutjanus novemfasciatus,25,2
+CSE,Isabela E,CARTAGO_3,2,CAR,1,Sphoeroides annulatus,9,6
+CSE,Isabela E,CARTAGO_3,2,CAR,1,Sphoeroides annulatus,15,2
+CSE,Isabela E,CARTAGO_3,2,CAR,1,Sphoeroides annulatus,20,1
+CSE,Isabela E,CARTAGO_3,2,CAR,1,Stegastes arcifrons,9,1
+CSE,Isabela E,CARTAGO_4,2,CAR,1,Aetobatus ocellatus,45,2
+CSE,Isabela E,CARTAGO_4,2,CAR,1,Archosargus pourtalesii,20,1
+CSE,Isabela E,CARTAGO_4,2,CAR,1,Archosargus pourtalesii,25,2
+CSE,Isabela E,CARTAGO_4,2,CAR,1,Bodianus diplotaenia,25,1
+CSE,Isabela E,CARTAGO_4,2,CAR,1,Lutjanus aratus,40,1
+CSE,Isabela E,CARTAGO_4,2,CAR,1,Lutjanus argentiventris,15,3
+CSE,Isabela E,CARTAGO_4,2,CAR,1,Lutjanus argentiventris,20,3
+CSE,Isabela E,CARTAGO_4,2,CAR,1,Lutjanus argentiventris,25,8
+CSE,Isabela E,CARTAGO_4,2,CAR,1,Lutjanus jordani,15,1
+CSE,Isabela E,CARTAGO_4,2,CAR,1,Lutjanus jordani,20,3
+CSE,Isabela E,CARTAGO_4,2,CAR,1,Lutjanus novemfasciatus,35,2
+CSE,Isabela E,CARTAGO_4,2,CAR,1,Lutjanus novemfasciatus,30,2
+CSE,Isabela E,CARTAGO_4,2,CAR,1,Lutjanus novemfasciatus,25,4
+CSE,Isabela E,CARTAGO_4,2,CAR,1,Sphoeroides annulatus,15,3
+CSE,Isabela E,CARTAGO_4,2,CAR,1,Sphoeroides annulatus,20,1
+CSE,Isabela E,CARTAGO_4,2,CAR,1,Stegastes arcifrons,5,1
+CSE,Isabela E,CARTAGO_4,2,CAR,1,Stegastes arcifrons,9,1
+CSE,Isabela E,CARTAGO_4,2,CAR,2,Archosargus pourtalesii,30,2
+CSE,Isabela E,CARTAGO_4,2,CAR,2,Archosargus pourtalesii,25,2
+CSE,Isabela E,CARTAGO_4,2,CAR,2,Haemulon scudderii,25,1
+CSE,Isabela E,CARTAGO_4,2,CAR,2,Lutjanus argentiventris,15,1
+CSE,Isabela E,CARTAGO_4,2,CAR,2,Lutjanus argentiventris,25,1
+CSE,Isabela E,CARTAGO_4,2,CAR,2,Lutjanus jordani,20,1
+CSE,Isabela E,CARTAGO_4,2,CAR,2,Lutjanus jordani,30,1
+CSE,Isabela E,CARTAGO_4,2,CAR,2,Lutjanus novemfasciatus,25,4
+CSE,Isabela E,CARTAGO_4,2,CAR,2,Orthopristis forbesi,20,4
+CSE,Isabela E,CARTAGO_4,2,CAR,2,Sphoeroides annulatus,25,1
+CSE,Isabela E,CARTAGO_4,2,CAR,2,Stegastes arcifrons,9,2
+CSE,Isabela E,CARTAGO_4,2,CAR,3,Caranx caballus,25,30
+CSE,Isabela E,CARTAGO_4,2,CAR,3,Chaetodon humeralis,15,1
+CSE,Isabela E,CARTAGO_4,2,CAR,3,Lutjanus argentiventris,9,1
+CSE,Isabela E,CARTAGO_4,2,CAR,3,Lutjanus argentiventris,15,1
+CSE,Isabela E,CARTAGO_4,2,CAR,3,Lutjanus argentiventris,25,1
+CSE,Isabela E,CARTAGO_4,2,CAR,3,Lutjanus novemfasciatus,25,1
+CSE,Isabela E,CARTAGO_4,2,CAR,3,Lutjanus novemfasciatus,40,1
+CSE,Isabela E,CARTAGO_4,2,CAR,3,Lutjanus novemfasciatus,45,1
+CSE,Isabela E,CARTAGO_4,2,CAR,3,Sphoeroides annulatus,15,1
+CSE,Isabela E,CARTAGO_4,2,CAR,4,Caranx caballus,20,10
+CSE,Isabela E,CARTAGO_4,2,CAR,4,Eucinostomus dowii,25,1
+CSE,Isabela E,CARTAGO_4,2,CAR,4,Sphoeroides annulatus,9,1
+CSE,Isabela E,CARTAGO_4,2,CAR,4,Sphoeroides annulatus,20,1
+CSE,Isabela E,CARTAGO_4,2,CAR,4,Sphoeroides annulatus,25,1
+CSE,Isabela E,CARTAGO_5,2,CAR,1,Archosargus pourtalesii,20,6
+CSE,Isabela E,CARTAGO_5,2,CAR,1,Archosargus pourtalesii,25,8
+CSE,Isabela E,CARTAGO_5,2,CAR,1,Eucinostomus dowii,9,9
+CSE,Isabela E,CARTAGO_5,2,CAR,1,Eucinostomus dowii,15,2
+CSE,Isabela E,CARTAGO_5,2,CAR,1,Eucinostomus dowii,30,1
+CSE,Isabela E,CARTAGO_5,2,CAR,1,Eucinostomus dowii,25,2
+CSE,Isabela E,CARTAGO_5,2,CAR,1,Haemulon scudderii,20,2
+CSE,Isabela E,CARTAGO_5,2,CAR,1,Haemulon scudderii,25,1
+CSE,Isabela E,CARTAGO_5,2,CAR,1,Lutjanus argentiventris,35,1
+CSE,Isabela E,CARTAGO_5,2,CAR,1,Lutjanus argentiventris,20,5
+CSE,Isabela E,CARTAGO_5,2,CAR,1,Lutjanus argentiventris,25,1
+CSE,Isabela E,CARTAGO_5,2,CAR,1,Lutjanus novemfasciatus,40,2
+CSE,Isabela E,CARTAGO_5,2,CAR,1,Lutjanus novemfasciatus,35,2
+CSE,Isabela E,CARTAGO_5,2,CAR,1,Lutjanus novemfasciatus,30,1
+CSE,Isabela E,CARTAGO_5,2,CAR,1,Orthopristis forbesi,9,1
+CSE,Isabela E,CARTAGO_5,2,CAR,1,Sphoeroides annulatus,5,1
+CSE,Isabela E,CARTAGO_5,2,CAR,1,Sphoeroides annulatus,15,1
+CSE,Isabela E,CARTAGO_5,2,CAR,2,Eucinostomus dowii,20,1
+CSE,Isabela E,CARTAGO_5,2,CAR,2,Lutjanus argentiventris,20,1
+CSE,Isabela E,CARTAGO_5,2,CAR,2,Lutjanus novemfasciatus,15,2
+CSE,Isabela E,CARTAGO_5,2,CAR,2,Lutjanus novemfasciatus,30,2
+CSE,Isabela E,CARTAGO_5,2,CAR,2,Sphoeroides annulatus,5,1
+CSE,Isabela E,CARTAGO_5,2,CAR,2,Sphoeroides annulatus,9,1
+CSE,Isabela E,CARTAGO_5,2,CAR,3,Abudefduf troschelii,2,2
+CSE,Isabela E,CARTAGO_5,2,CAR,3,Archosargus pourtalesii,15,10
+CSE,Isabela E,CARTAGO_5,2,CAR,3,Caranx caballus,15,15
+CSE,Isabela E,CARTAGO_5,2,CAR,3,Lutjanus argentiventris,15,1
+CSE,Isabela E,CARTAGO_5,2,CAR,3,Lutjanus novemfasciatus,25,1
+CSE,Isabela E,CARTAGO_5,2,CAR,3,Scarus ghobban,40,1
+CSE,Isabela E,CARTAGO_5,2,CAR,3,Sphoeroides annulatus,9,1
+CSE,Isabela E,CARTAGO_5,2,CAR,3,Sphoeroides annulatus,20,1
+CSE,Isabela E,CARTAGO_5,2,CAR,3,Thalassoma lucasanum,15,1
+CSE,Isabela E,CARTAGO_5,2,CAR,4,Epinephelus labriformis,15,1
+CSE,Isabela E,CARTAGO_5,2,CAR,4,Lutjanus argentiventris,20,1
+CSE,Isabela E,CARTAGO_5,2,CAR,4,Sphoeroides annulatus,9,2
+CSE,Isabela E,CARTAGO_5,2,CAR,4,Sphoeroides annulatus,15,2
+CSE,Isabela E,CARTAGO_5,2,CAR,4,Sphoeroides annulatus,20,1
+CSE,Isabela E,CARTAGO_5,2,CAR,4,Thalassoma lucasanum,9,1
+CSE,Isabela E,CARTAGO_6,2,CAR,1,Caranx caballus,25,2
+CSE,Isabela E,CARTAGO_6,2,CAR,1,Eucinostomus dowii,2,24
+CSE,Isabela E,CARTAGO_6,2,CAR,1,Eucinostomus dowii,9,7
+CSE,Isabela E,CARTAGO_6,2,CAR,1,Lutjanus argentiventris,9,6
+CSE,Isabela E,CARTAGO_6,2,CAR,1,Lutjanus argentiventris,15,7
+CSE,Isabela E,CARTAGO_6,2,CAR,1,Lutjanus novemfasciatus,9,1
+CSE,Isabela E,CARTAGO_6,2,CAR,1,Lutjanus novemfasciatus,30,1
+CSE,Isabela E,CARTAGO_6,2,CAR,1,Lutjanus novemfasciatus,35,1
+CSE,Isabela E,CARTAGO_6,2,CAR,2,Abudefduf troschelii,15,1
+CSE,Isabela E,CARTAGO_6,2,CAR,2,Archosargus pourtalesii,9,1
+CSE,Isabela E,CARTAGO_6,2,CAR,2,Archosargus pourtalesii,30,2
+CSE,Isabela E,CARTAGO_6,2,CAR,2,Archosargus pourtalesii,20,13
+CSE,Isabela E,CARTAGO_6,2,CAR,2,Archosargus pourtalesii,25,4
+CSE,Isabela E,CARTAGO_6,2,CAR,2,Caranx caballus,15,1
+CSE,Isabela E,CARTAGO_6,2,CAR,2,Eucinostomus dowii,30,2
+CSE,Isabela E,CARTAGO_6,2,CAR,2,Eucinostomus dowii,25,1
+CSE,Isabela E,CARTAGO_6,2,CAR,2,Lutjanus argentiventris,15,18
+CSE,Isabela E,CARTAGO_6,2,CAR,2,Lutjanus argentiventris,30,1
+CSE,Isabela E,CARTAGO_6,2,CAR,2,Lutjanus novemfasciatus,30,1
+CSE,Isabela E,CARTAGO_6,2,CAR,3,Archosargus pourtalesii,25,10
+CSE,Isabela E,CARTAGO_6,2,CAR,3,Eucinostomus dowii,2,15
+CSE,Isabela E,CARTAGO_6,2,CAR,3,Eucinostomus dowii,9,1
+CSE,Isabela E,CARTAGO_6,2,CAR,3,Lutjanus argentiventris,5,6
+CSE,Isabela E,CARTAGO_6,2,CAR,3,Lutjanus argentiventris,9,25
+CSE,Isabela E,CARTAGO_6,2,CAR,3,Lutjanus argentiventris,15,3
+CSE,Isabela E,CARTAGO_6,2,CAR,3,Lutjanus novemfasciatus,9,1
+CSE,Isabela E,CARTAGO_6,2,CAR,3,Lutjanus novemfasciatus,15,3
+CSE,Isabela E,CARTAGO_6,2,CAR,3,Lutjanus novemfasciatus,20,1
+CSE,Isabela E,CARTAGO_6,2,CAR,3,Mycteroperca olfax,15,1
+CSE,Isabela E,CARTAGO_6,2,CAR,3,Sphoeroides annulatus,9,1
+CSE,Isabela E,CARTAGO_6,2,CAR,3,Sphoeroides annulatus,15,1
+CSE,Isabela E,CARTAGO_6,2,CAR,3,Stegastes arcifrons,5,1
+CSE,Isabela E,CARTAGO_6,2,CAR,4,Abudefduf troschelii,9,2
+CSE,Isabela E,CARTAGO_6,2,CAR,4,Lutjanus argentiventris,5,4
+CSE,Isabela E,CARTAGO_6,2,CAR,4,Lutjanus argentiventris,9,15
+CSE,Isabela E,CARTAGO_6,2,CAR,4,Lutjanus argentiventris,15,4
+CSE,Isabela E,CARTAGO_6,2,CAR,4,Lutjanus argentiventris,20,1
+CSE,Isabela E,CARTAGO_6,2,CAR,4,Lutjanus novemfasciatus,30,1
+CSE,Isabela E,CARTAGO_6,2,CAR,4,Sphoeroides annulatus,9,1
+CSE,Isabela E,CARTAGO_6,2,CAR,4,Stegastes arcifrons,5,2
+CSE,Isabela E,CARTAGO_7,2,CAR,1,Abudefduf troschelii,9,1
+CSE,Isabela E,CARTAGO_7,2,CAR,1,Anisotremus interruptus,30,1
+CSE,Isabela E,CARTAGO_7,2,CAR,1,Caranx caballus,15,8
+CSE,Isabela E,CARTAGO_7,2,CAR,1,Caranx caballus,20,1
+CSE,Isabela E,CARTAGO_7,2,CAR,1,Hypanus dipterurus,45,1
+CSE,Isabela E,CARTAGO_7,2,CAR,1,Eucinostomus dowii,20,1
+CSE,Isabela E,CARTAGO_7,2,CAR,1,Eucinostomus dowii,25,3
+CSE,Isabela E,CARTAGO_7,2,CAR,1,Lutjanus argentiventris,30,2
+CSE,Isabela E,CARTAGO_7,2,CAR,1,Lutjanus argentiventris,9,13
+CSE,Isabela E,CARTAGO_7,2,CAR,1,Lutjanus argentiventris,15,11
+CSE,Isabela E,CARTAGO_7,2,CAR,1,Lutjanus argentiventris,20,2
+CSE,Isabela E,CARTAGO_7,2,CAR,1,Lutjanus argentiventris,25,1
+CSE,Isabela E,CARTAGO_7,2,CAR,1,Lutjanus novemfasciatus,35,1
+CSE,Isabela E,CARTAGO_7,2,CAR,1,Lutjanus novemfasciatus,15,1
+CSE,Isabela E,CARTAGO_7,2,CAR,1,Lutjanus novemfasciatus,20,6
+CSE,Isabela E,CARTAGO_7,2,CAR,1,Lutjanus novemfasciatus,30,2
+CSE,Isabela E,CARTAGO_7,2,CAR,1,Orthopristis forbesi,15,1
+CSE,Isabela E,CARTAGO_7,2,CAR,2,Eucinostomus dowii,35,1
+CSE,Isabela E,CARTAGO_7,2,CAR,2,Eucinostomus dowii,25,1
+CSE,Isabela E,CARTAGO_7,2,CAR,2,Lutjanus argentiventris,9,28
+CSE,Isabela E,CARTAGO_7,2,CAR,2,Lutjanus argentiventris,15,13
+CSE,Isabela E,CARTAGO_7,2,CAR,2,Lutjanus argentiventris,35,1
+CSE,Isabela E,CARTAGO_7,2,CAR,2,Lutjanus argentiventris,30,5
+CSE,Isabela E,CARTAGO_7,2,CAR,2,Lutjanus novemfasciatus,15,1
+CSE,Isabela E,CARTAGO_7,2,CAR,2,Lutjanus novemfasciatus,20,3
+CSE,Isabela E,CARTAGO_7,2,CAR,2,Lutjanus novemfasciatus,35,1
+CSE,Isabela E,CARTAGO_7,2,CAR,2,Mugil sp,2,30
+CSE,Isabela E,CARTAGO_7,2,CAR,3,Abudefduf troschelii,9,1
+CSE,Isabela E,CARTAGO_7,2,CAR,3,Abudefduf troschelii,15,2
+CSE,Isabela E,CARTAGO_7,2,CAR,3,Anisotremus interruptus,9,1
+CSE,Isabela E,CARTAGO_7,2,CAR,3,Anisotremus interruptus,25,1
+CSE,Isabela E,CARTAGO_7,2,CAR,3,Epinephelus labriformis,15,1
+CSE,Isabela E,CARTAGO_7,2,CAR,3,Lutjanus argentiventris,9,5
+CSE,Isabela E,CARTAGO_7,2,CAR,3,Lutjanus argentiventris,15,13
+CSE,Isabela E,CARTAGO_7,2,CAR,3,Lutjanus argentiventris,20,4
+CSE,Isabela E,CARTAGO_7,2,CAR,3,Lutjanus novemfasciatus,15,1
+CSE,Isabela E,CARTAGO_7,2,CAR,3,Lutjanus novemfasciatus,25,3
+CSE,Isabela E,CARTAGO_7,2,CAR,3,Stegastes arcifrons,5,2
+CSE,Isabela E,CARTAGO_7,2,CAR,3,Stegastes arcifrons,9,5
+CSE,Isabela E,CARTAGO_7,2,CAR,4,Bodianus diplotaenia,30,1
+CSE,Isabela E,CARTAGO_7,2,CAR,4,Bodianus diplotaenia,40,1
+CSE,Isabela E,CARTAGO_7,2,CAR,4,Lutjanus argentiventris,9,2
+CSE,Isabela E,CARTAGO_7,2,CAR,4,Lutjanus argentiventris,15,3
+CSE,Isabela E,CARTAGO_7,2,CAR,4,Lutjanus novemfasciatus,20,2
+CSE,Isabela E,CARTAGO_7,2,CAR,4,Lutjanus novemfasciatus,25,2
+CSE,Isabela E,CARTAGO_7,2,CAR,4,Lutjanus novemfasciatus,30,1
+CSE,Isabela E,CARTAGO_7,2,CAR,4,Lutjanus novemfasciatus,45,1
+CSE,Isabela E,CARTAGO_7,2,CAR,4,Mycteroperca olfax,9,1
+CSE,Isabela E,CARTAGO_7,2,CAR,4,Mycteroperca olfax,25,1
+CSE,Isabela E,CARTAGO_7,2,CAR,4,Sphoeroides annulatus,15,1
+CSE,Isabela E,CARTAGO_7,2,CAR,4,Sphyraena idiastes,35,18
+CSE,Isabela E,CARTAGO_7,2,CAR,4,Stegastes arcifrons,9,2
+CSE,Isabela E,CARTAGO_7,2,CAR,4,Stegastes arcifrons,15,6
+CSE,Isabela E,CARTAGO_CHICO_1,2,CARC,1,Lutjanus argentiventris,9,3
+CSE,Isabela E,CARTAGO_CHICO_1,2,CARC,1,Lutjanus argentiventris,15,2
+CSE,Isabela E,CARTAGO_CHICO_1,2,CARC,1,Lutjanus novemfasciatus,20,1
+CSE,Isabela E,CARTAGO_CHICO_1,2,CARC,1,Stegastes arcifrons,5,2
+CSE,Isabela E,CARTAGO_CHICO_1,2,CARC,1,Stegastes arcifrons,9,1
+CSE,Isabela E,CARTAGO_CHICO_1,2,CARC,2,Stegastes arcifrons,2,16
+CSE,Isabela E,CARTAGO_CHICO_1,2,CARC,3,Sphoeroides annulatus,9,1
+CSE,Isabela E,CARTAGO_CHICO_1,2,CARC,3,Stegastes arcifrons,2,1
+CSE,Isabela E,CARTAGO_CHICO_1,2,CARC,3,Stegastes arcifrons,5,3
+CSE,Isabela E,CARTAGO_CHICO_1,2,CARC,3,Stegastes arcifrons,9,1
+CSE,Isabela E,CARTAGO_CHICO_1,2,CARC,4,Stegastes arcifrons,2,5
+CSE,Isabela E,CARTAGO_CHICO_1,2,CARC,4,Stegastes arcifrons,5,22
+CSE,Isabela E,CARTAGO_CHICO_1,2,CARC,4,Stegastes arcifrons,9,10
+CSE,Isabela E,CARTAGO_CHICO_1,2,CARC,5,Lutjanus jordani,5,1
+CSE,Isabela E,CARTAGO_CHICO_1,2,CARC,5,Stegastes arcifrons,2,4
+CSE,Isabela E,CARTAGO_CHICO_1,2,CARC,5,Stegastes arcifrons,5,2
+CSE,Isabela E,CARTAGO_CHICO_1,2,CARC,5,Stegastes arcifrons,9,2
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,1,Abudefduf troschelii,2,17
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,1,Abudefduf troschelii,5,4
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,1,Haemulon scudderii,9,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,1,Haemulon scudderii,15,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,1,Lutjanus argentiventris,9,7
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,1,Lutjanus argentiventris,15,4
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,1,Lutjanus argentiventris,25,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,1,Lutjanus jordani,30,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,1,Lutjanus novemfasciatus,35,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,1,Lutjanus novemfasciatus,30,2
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,1,Lutjanus novemfasciatus,15,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,1,Lutjanus novemfasciatus,20,6
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,1,Lutjanus novemfasciatus,25,6
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,1,Mugil sp,2,10
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,1,Stegastes arcifrons,2,2
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,2,Abudefduf concolor,9,3
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,2,Abudefduf concolor,15,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,2,Abudefduf troschelii,2,17
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,2,Eucinostomus dowii,5,8
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,2,Eucinostomus dowii,9,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,2,Lutjanus aratus,15,2
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,2,Lutjanus aratus,20,3
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,2,Lutjanus aratus,25,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,2,Lutjanus argentiventris,5,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,2,Lutjanus argentiventris,9,2
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,2,Lutjanus argentiventris,15,4
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,2,Lutjanus novemfasciatus,25,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,2,Sphoeroides annulatus,5,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,2,Sphoeroides annulatus,15,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,3,Abudefduf troschelii,2,4
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,3,Abudefduf troschelii,5,3
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,3,Abudefduf troschelii,9,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,3,Anisotremus interruptus,25,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,3,Carcharhinus limbatus,45,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,3,Lutjanus aratus,15,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,3,Lutjanus aratus,20,3
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,3,Lutjanus argentiventris,15,3
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,3,Lutjanus argentiventris,20,4
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,3,Lutjanus novemfasciatus,30,20
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,3,Lutjanus novemfasciatus,35,10
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,3,Lutjanus novemfasciatus,45,3
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,3,Lutjanus novemfasciatus,55,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,3,Sphoeroides annulatus,5,2
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,3,Sphoeroides annulatus,9,2
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Abudefduf troschelii,2,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Abudefduf troschelii,5,2
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Abudefduf troschelii,9,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Abudefduf troschelii,15,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Chaetodon humeralis,9,2
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Eucinostomus dowii,15,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Eucinostomus dowii,20,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Lutjanus aratus,25,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Lutjanus argentiventris,9,2
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Lutjanus argentiventris,15,10
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Lutjanus argentiventris,20,3
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Lutjanus jordani,25,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Lutjanus jordani,30,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Lutjanus novemfasciatus,20,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Lutjanus novemfasciatus,35,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Lutjanus novemfasciatus,40,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Lutjanus novemfasciatus,45,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Lutjanus novemfasciatus,50,1
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Prionurus laticlavius,25,10
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Sphoeroides annulatus,5,2
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Sphoeroides annulatus,9,2
+CSE,Isabela E,CARTAGO_CHICO_2,2,CARC,4,Sphoeroides annulatus,15,1
+Western,Isabela W,CERRO_COLORADO_1,2,CER,1,Bodianus diplotaenia,45,2
+Western,Isabela W,CERRO_COLORADO_1,2,CER,1,Microspathodon dorsalis,40,7
+Western,Isabela W,CERRO_COLORADO_1,2,CER,1,Prionurus laticlavius,30,2
+Western,Isabela W,CERRO_COLORADO_1,2,CER,1,Prionurus laticlavius,45,8
+Western,Isabela W,CERRO_COLORADO_1,2,CER,1,Stegastes arcifrons,9,10
+Western,Isabela W,CERRO_COLORADO_1,2,CER,1,Stegastes arcifrons,15,20
+Western,Isabela W,CERRO_COLORADO_1,2,CER,2,Holacanthus passer,35,1
+Western,Isabela W,CERRO_COLORADO_1,2,CER,2,Holacanthus passer,30,1
+Western,Isabela W,CERRO_COLORADO_1,2,CER,2,Johnrandallia nigrirostris,20,1
+Western,Isabela W,CERRO_COLORADO_1,2,CER,2,Microspathodon dorsalis,30,8
+Western,Isabela W,CERRO_COLORADO_1,2,CER,2,Microspathodon dorsalis,35,8
+Western,Isabela W,CERRO_COLORADO_1,2,CER,2,Stegastes arcifrons,9,22
+Western,Isabela W,CERRO_COLORADO_1,2,CER,2,Stegastes arcifrons,15,8
+Western,Isabela W,CERRO_COLORADO_1,2,CER,2,Trachinotus stilbe,30,10
+Western,Isabela W,CERRO_COLORADO_1,2,CER,3,Abudefduf troschelii,15,20
+Western,Isabela W,CERRO_COLORADO_1,2,CER,3,Bodianus diplotaenia,30,3
+Western,Isabela W,CERRO_COLORADO_1,2,CER,3,Bodianus diplotaenia,35,2
+Western,Isabela W,CERRO_COLORADO_1,2,CER,3,Bodianus diplotaenia,45,1
+Western,Isabela W,CERRO_COLORADO_1,2,CER,3,Chelonia mydas,100,1
+Western,Isabela W,CERRO_COLORADO_1,2,CER,3,Microspathodon dorsalis,20,8
+Western,Isabela W,CERRO_COLORADO_1,2,CER,3,Microspathodon dorsalis,25,5
+Western,Isabela W,CERRO_COLORADO_1,2,CER,3,Microspathodon dorsalis,30,1
+Western,Isabela W,CERRO_COLORADO_1,2,CER,3,Prionurus laticlavius,30,3
+Western,Isabela W,CERRO_COLORADO_1,2,CER,3,Scarus ghobban,30,2
+Western,Isabela W,CERRO_COLORADO_1,2,CER,3,Scarus ghobban,35,1
+Western,Isabela W,CERRO_COLORADO_1,2,CER,3,Scarus ghobban,40,1
+Western,Isabela W,CERRO_COLORADO_1,2,CER,3,Scarus ghobban,60,1
+Western,Isabela W,CERRO_COLORADO_1,2,CER,3,Stegastes arcifrons,15,2
+Western,Isabela W,CERRO_COLORADO_1,2,CER,3,Stegastes arcifrons,20,11
+Western,Isabela W,CERRO_COLORADO_1,2,CER,4,Bodianus diplotaenia,25,1
+Western,Isabela W,CERRO_COLORADO_1,2,CER,4,Bodianus diplotaenia,30,3
+Western,Isabela W,CERRO_COLORADO_1,2,CER,4,Halichoeres nicholsi,30,1
+Western,Isabela W,CERRO_COLORADO_1,2,CER,4,Halichoeres nicholsi,35,1
+Western,Isabela W,CERRO_COLORADO_1,2,CER,4,Stegastes arcifrons,15,18
+CSE,Floreana,CHAMPION_1,2,CHA,1,Apogon atradorsatus,5,5
+CSE,Floreana,CHAMPION_1,2,CHA,3,Apogon atradorsatus,9,200
+CSE,Floreana,CHAMPION_1,2,CHA,1,Bodianus diplotaenia,25,4
+CSE,Floreana,CHAMPION_1,2,CHA,1,Holacanthus passer,25,2
+CSE,Floreana,CHAMPION_1,2,CHA,3,Bodianus diplotaenia,15,3
+CSE,Floreana,CHAMPION_1,2,CHA,3,Bodianus diplotaenia,25,2
+CSE,Floreana,CHAMPION_1,2,CHA,3,Bodianus diplotaenia,35,1
+CSE,Floreana,CHAMPION_1,2,CHA,3,Cirrhitichthys oxycephalus,9,1
+CSE,Floreana,CHAMPION_1,2,CHA,3,Cirrhitus rivulatus,30,1
+CSE,Floreana,CHAMPION_1,2,CHA,1,Microspathodon bairdii,30,1
+CSE,Floreana,CHAMPION_1,2,CHA,1,Microspathodon dorsalis,30,1
+CSE,Floreana,CHAMPION_1,2,CHA,1,Prionurus laticlavius,25,25
+CSE,Floreana,CHAMPION_1,2,CHA,1,Stegastes beebei,15,15
+CSE,Floreana,CHAMPION_1,2,CHA,1,Thalassoma lucasanum,2,10
+CSE,Floreana,CHAMPION_1,2,CHA,1,Thalassoma lucasanum,9,2
+CSE,Floreana,CHAMPION_1,2,CHA,2,Bodianus diplotaenia,30,1
+CSE,Floreana,CHAMPION_1,2,CHA,3,Holacanthus passer,15,1
+CSE,Floreana,CHAMPION_1,2,CHA,3,Holacanthus passer,20,10
+CSE,Floreana,CHAMPION_1,2,CHA,3,Holacanthus passer,25,1
+CSE,Floreana,CHAMPION_1,2,CHA,2,Epinephelus labriformis,30,1
+CSE,Floreana,CHAMPION_1,2,CHA,2,Halichoeres dispilus,9,6
+CSE,Floreana,CHAMPION_1,2,CHA,3,Microspathodon dorsalis,40,1
+CSE,Floreana,CHAMPION_1,2,CHA,3,Ophioblennius steindachneri,15,2
+CSE,Floreana,CHAMPION_1,2,CHA,3,Ophioblennius steindachneri,20,4
+CSE,Floreana,CHAMPION_1,2,CHA,2,Halichoeres dispilus,15,10
+CSE,Floreana,CHAMPION_1,2,CHA,2,Holacanthus passer,30,1
+CSE,Floreana,CHAMPION_1,2,CHA,3,Prionurus laticlavius,25,50
+CSE,Floreana,CHAMPION_1,2,CHA,3,Stegastes arcifrons,9,3
+CSE,Floreana,CHAMPION_1,2,CHA,3,Stegastes arcifrons,15,13
+CSE,Floreana,CHAMPION_1,2,CHA,2,Holacanthus passer,20,1
+CSE,Floreana,CHAMPION_1,2,CHA,2,Holacanthus passer,25,3
+CSE,Floreana,CHAMPION_1,2,CHA,2,Prionurus laticlavius,25,27
+CSE,Floreana,CHAMPION_1,2,CHA,2,Stegastes beebei,15,20
+CSE,Floreana,CHAMPION_1,2,CHA,2,Xenocys jessiae,15,120
+CSE,Floreana,CHAMPION_2,2,CHA,3,Apogon atradorsatus,9,100
+CSE,Floreana,CHAMPION_2,2,CHA,1,Apogon atradorsatus,2,120
+CSE,Floreana,CHAMPION_2,2,CHA,1,Apogon atradorsatus,5,70
+CSE,Floreana,CHAMPION_2,2,CHA,1,Apogon atradorsatus,9,6
+CSE,Floreana,CHAMPION_2,2,CHA,1,Bodianus diplotaenia,35,1
+CSE,Floreana,CHAMPION_2,2,CHA,3,Bodianus diplotaenia,20,1
+CSE,Floreana,CHAMPION_2,2,CHA,3,Bodianus diplotaenia,25,2
+CSE,Floreana,CHAMPION_2,2,CHA,1,Bodianus diplotaenia,30,1
+CSE,Floreana,CHAMPION_2,2,CHA,1,Bodianus diplotaenia,25,1
+CSE,Floreana,CHAMPION_2,2,CHA,1,Halichoeres dispilus,9,6
+CSE,Floreana,CHAMPION_2,2,CHA,1,Halichoeres melanotis,9,2
+CSE,Floreana,CHAMPION_2,2,CHA,1,Holacanthus passer,30,1
+CSE,Floreana,CHAMPION_2,2,CHA,1,Holacanthus passer,20,2
+CSE,Floreana,CHAMPION_2,2,CHA,1,Holacanthus passer,25,3
+CSE,Floreana,CHAMPION_2,2,CHA,3,Dermatolepis dermatolepis,40,1
+CSE,Floreana,CHAMPION_2,2,CHA,3,Holacanthus passer,20,3
+CSE,Floreana,CHAMPION_2,2,CHA,3,Holacanthus passer,30,1
+CSE,Floreana,CHAMPION_2,2,CHA,3,Prionurus laticlavius,25,101
+CSE,Floreana,CHAMPION_2,2,CHA,1,Microspathodon dorsalis,30,1
+CSE,Floreana,CHAMPION_2,2,CHA,3,Scarus compressus,45,1
+CSE,Floreana,CHAMPION_2,2,CHA,3,Stegastes arcifrons,15,33
+CSE,Floreana,CHAMPION_2,2,CHA,3,Xenocys jessiae,9,200
+CSE,Floreana,CHAMPION_2,2,CHA,4,Anisotremus scapularis,30,2
+CSE,Floreana,CHAMPION_2,2,CHA,1,Prionurus laticlavius,30,10
+CSE,Floreana,CHAMPION_2,2,CHA,1,Stegastes arcifrons,15,3
+CSE,Floreana,CHAMPION_2,2,CHA,1,Stegastes beebei,2,1
+CSE,Floreana,CHAMPION_2,2,CHA,1,Stegastes beebei,5,2
+CSE,Floreana,CHAMPION_2,2,CHA,1,Stegastes beebei,15,13
+CSE,Floreana,CHAMPION_2,2,CHA,1,Xenocys jessiae,15,121
+CSE,Floreana,CHAMPION_2,2,CHA,2,Apogon atradorsatus,9,6
+CSE,Floreana,CHAMPION_2,2,CHA,2,Bodianus diplotaenia,35,1
+CSE,Floreana,CHAMPION_2,2,CHA,2,Bodianus diplotaenia,30,2
+CSE,Floreana,CHAMPION_2,2,CHA,4,Apogon atradorsatus,9,100
+CSE,Floreana,CHAMPION_2,2,CHA,4,Bodianus diplotaenia,20,2
+CSE,Floreana,CHAMPION_2,2,CHA,4,Bodianus diplotaenia,25,2
+CSE,Floreana,CHAMPION_2,2,CHA,4,Epinephelus labriformis,25,1
+CSE,Floreana,CHAMPION_2,2,CHA,4,Epinephelus labriformis,35,1
+CSE,Floreana,CHAMPION_2,2,CHA,2,Bodianus diplotaenia,20,1
+CSE,Floreana,CHAMPION_2,2,CHA,2,Bodianus diplotaenia,25,2
+CSE,Floreana,CHAMPION_2,2,CHA,2,Cirrhitus rivulatus,35,1
+CSE,Floreana,CHAMPION_2,2,CHA,4,Girella freminvillii,25,10
+CSE,Floreana,CHAMPION_2,2,CHA,4,Holacanthus passer,20,7
+CSE,Floreana,CHAMPION_2,2,CHA,2,Halichoeres dispilus,5,2
+CSE,Floreana,CHAMPION_2,2,CHA,4,Holacanthus passer,25,3
+CSE,Floreana,CHAMPION_2,2,CHA,4,Holacanthus passer,30,5
+CSE,Floreana,CHAMPION_2,2,CHA,2,Halichoeres dispilus,9,9
+CSE,Floreana,CHAMPION_2,2,CHA,2,Halichoeres nicholsi,20,2
+CSE,Floreana,CHAMPION_2,2,CHA,2,Holacanthus passer,25,3
+CSE,Floreana,CHAMPION_2,2,CHA,2,Plagiotremus azaleus,15,1
+CSE,Floreana,CHAMPION_2,2,CHA,2,Stegastes beebei,5,1
+CSE,Floreana,CHAMPION_2,2,CHA,2,Stegastes beebei,9,7
+CSE,Floreana,CHAMPION_2,2,CHA,4,Stegastes arcifrons,15,27
+CSE,Floreana,CHAMPION_2,2,CHA,4,Stegastes beebei,15,19
+CSE,Floreana,CHAMPION_2,2,CHA,2,Stegastes beebei,15,61
+CSE,Floreana,CHAMPION_2,2,CHA,2,Thalassoma lucasanum,2,10
+CSE,Floreana,CHAMPION_2,2,CHA,2,Thalassoma lucasanum,5,8
+CSE,Floreana,CHAMPION_2,2,CHA,2,Thalassoma lucasanum,9,15
+CSE,Floreana,CHAMPION_2,2,CHA,4,Sufflamen verres,35,1
+CSE,Floreana,CHAMPION_2,2,CHA,4,Xenocys jessiae,9,300
+Western,Isabela W,DEREK_1,2,DER,1,Abudefduf troschelii,2,35
+Western,Isabela W,DEREK_1,2,DER,1,Lutjanus argentiventris,9,12
+Western,Isabela W,DEREK_1,2,DER,1,Mugil curema,30,34
+Western,Isabela W,DEREK_1,2,DER,1,Mycteroperca olfax,35,1
+Western,Isabela W,DEREK_1,2,DER,1,Mycteroperca olfax,30,2
+Western,Isabela W,DEREK_1,2,DER,1,Stegastes arcifrons,2,11
+Western,Isabela W,DEREK_1,2,DER,1,Stegastes arcifrons,9,8
+Western,Isabela W,DEREK_1,2,DER,1,Stegastes arcifrons,15,12
+Western,Isabela W,DEREK_1,2,DER,1,Stegastes beebei,2,3
+Western,Isabela W,DEREK_1,2,DER,1,Stegastes beebei,5,15
+Western,Isabela W,DEREK_1,2,DER,1,Stegastes beebei,15,28
+Western,Isabela W,DEREK_1,2,DER,1,Thalassoma lucasanum,20,2
+Western,Isabela W,DEREK_1,2,DER,2,Bodianus diplotaenia,40,2
+Western,Isabela W,DEREK_1,2,DER,2,Epinephelus labriformis,40,1
+Western,Isabela W,DEREK_1,2,DER,2,Microspathodon dorsalis,20,2
+Western,Isabela W,DEREK_1,2,DER,2,Mycteroperca olfax,30,1
+Western,Isabela W,DEREK_1,2,DER,2,Ophioblennius steindachneri,20,1
+Western,Isabela W,DEREK_1,2,DER,2,Stegastes arcifrons,5,12
+Western,Isabela W,DEREK_1,2,DER,2,Stegastes arcifrons,9,8
+Western,Isabela W,DEREK_1,2,DER,2,Stegastes beebei,2,17
+Western,Isabela W,DEREK_1,2,DER,2,Stegastes beebei,5,17
+Western,Isabela W,DEREK_1,2,DER,2,Stegastes beebei,9,20
+Western,Isabela W,DEREK_1,2,DER,2,Stegastes beebei,15,26
+Western,Isabela W,DEREK_1,2,DER,3,Bodianus diplotaenia,30,1
+Western,Isabela W,DEREK_1,2,DER,3,Bodianus diplotaenia,55,1
+Western,Isabela W,DEREK_1,2,DER,3,Chelonia mydas,100,1
+Western,Isabela W,DEREK_1,2,DER,3,Girella freminvillii,30,50
+Western,Isabela W,DEREK_1,2,DER,3,Mycteroperca olfax,25,7
+Western,Isabela W,DEREK_1,2,DER,3,Mycteroperca olfax,30,3
+Western,Isabela W,DEREK_1,2,DER,3,Mycteroperca olfax,50,1
+Western,Isabela W,DEREK_1,2,DER,3,Mycteroperca olfax,55,1
+Western,Isabela W,DEREK_1,2,DER,3,Scarus compressus,45,1
+Western,Isabela W,DEREK_1,2,DER,3,Scarus ghobban,35,1
+Western,Isabela W,DEREK_1,2,DER,3,Stegastes arcifrons,15,10
+Western,Isabela W,DEREK_1,2,DER,3,Stegastes arcifrons,20,1
+Western,Isabela W,DEREK_1,2,DER,4,Bodianus diplotaenia,40,1
+Western,Isabela W,DEREK_1,2,DER,4,Bodianus diplotaenia,70,1
+Western,Isabela W,DEREK_1,2,DER,4,Mycteroperca olfax,30,2
+Western,Isabela W,DEREK_1,2,DER,4,Mycteroperca olfax,35,1
+Western,Isabela W,DEREK_1,2,DER,4,Ophioblennius steindachneri,20,1
+Western,Isabela W,DEREK_1,2,DER,4,Paranthias colonus,25,1
+Western,Isabela W,DEREK_1,2,DER,4,Scarus ghobban,60,1
+Western,Isabela W,DEREK_1,2,DER,4,Stegastes arcifrons,9,3
+Western,Isabela W,DEREK_1,2,DER,4,Stegastes arcifrons,15,8
+Western,Isabela W,DEREK_2,2,DER,1,Abudefduf troschelii,2,22
+Western,Isabela W,DEREK_2,2,DER,1,Abudefduf troschelii,5,5
+Western,Isabela W,DEREK_2,2,DER,1,Mycteroperca olfax,35,1
+Western,Isabela W,DEREK_2,2,DER,1,Mycteroperca olfax,30,1
+Western,Isabela W,DEREK_2,2,DER,1,Mycteroperca olfax,20,1
+Western,Isabela W,DEREK_2,2,DER,1,Mycteroperca olfax,25,3
+Western,Isabela W,DEREK_2,2,DER,1,Ophioblennius steindachneri,20,1
+Western,Isabela W,DEREK_2,2,DER,1,Sphoeroides annulatus,5,4
+Western,Isabela W,DEREK_2,2,DER,1,Sphoeroides annulatus,9,3
+Western,Isabela W,DEREK_2,2,DER,1,Sphoeroides annulatus,20,1
+Western,Isabela W,DEREK_2,2,DER,1,Stegastes arcifrons,5,10
+Western,Isabela W,DEREK_2,2,DER,1,Stegastes arcifrons,9,31
+Western,Isabela W,DEREK_2,2,DER,1,Stegastes arcifrons,15,56
+Western,Isabela W,DEREK_2,2,DER,1,Stegastes beebei,9,8
+Western,Isabela W,DEREK_2,2,DER,1,Stegastes beebei,15,4
+Western,Isabela W,DEREK_2,2,DER,1,Thalassoma lucasanum,20,1
+Western,Isabela W,DEREK_2,2,DER,2,Abudefduf troschelii,2,3
+Western,Isabela W,DEREK_2,2,DER,2,Abudefduf troschelii,5,6
+Western,Isabela W,DEREK_2,2,DER,2,Abudefduf troschelii,9,3
+Western,Isabela W,DEREK_2,2,DER,2,Mycteroperca olfax,35,1
+Western,Isabela W,DEREK_2,2,DER,2,Mycteroperca olfax,20,3
+Western,Isabela W,DEREK_2,2,DER,2,Mycteroperca olfax,30,1
+Western,Isabela W,DEREK_2,2,DER,2,Sphoeroides annulatus,9,3
+Western,Isabela W,DEREK_2,2,DER,2,Sphoeroides annulatus,20,1
+Western,Isabela W,DEREK_2,2,DER,2,Stegastes arcifrons,5,18
+Western,Isabela W,DEREK_2,2,DER,2,Stegastes arcifrons,9,24
+Western,Isabela W,DEREK_2,2,DER,2,Stegastes arcifrons,15,59
+Western,Isabela W,DEREK_2,2,DER,2,Thalassoma lucasanum,15,1
+Western,Isabela W,DEREK_2,2,DER,2,Thalassoma lucasanum,20,1
+Western,Isabela W,DEREK_2,2,DER,3,Bodianus diplotaenia,30,1
+Western,Isabela W,DEREK_2,2,DER,3,Chelonia mydas,70,1
+Western,Isabela W,DEREK_2,2,DER,3,Chelonia mydas,90,1
+Western,Isabela W,DEREK_2,2,DER,3,Epinephelus labriformis,30,1
+Western,Isabela W,DEREK_2,2,DER,3,Holacanthus passer,30,1
+Western,Isabela W,DEREK_2,2,DER,3,Mycteroperca olfax,20,1
+Western,Isabela W,DEREK_2,2,DER,3,Mycteroperca olfax,25,2
+Western,Isabela W,DEREK_2,2,DER,3,Mycteroperca olfax,30,1
+Western,Isabela W,DEREK_2,2,DER,3,Mycteroperca olfax,40,1
+Western,Isabela W,DEREK_2,2,DER,3,Paranthias colonus,20,1
+Western,Isabela W,DEREK_2,2,DER,3,Paranthias colonus,25,1
+Western,Isabela W,DEREK_2,2,DER,3,Sphoeroides annulatus,9,1
+Western,Isabela W,DEREK_2,2,DER,3,Stegastes arcifrons,9,10
+Western,Isabela W,DEREK_2,2,DER,3,Stegastes arcifrons,15,55
+Western,Isabela W,DEREK_2,2,DER,3,Thalassoma lucasanum,15,1
+Western,Isabela W,DEREK_2,2,DER,4,Abudefduf troschelii,15,1
+Western,Isabela W,DEREK_2,2,DER,4,Bodianus eclancheri,30,1
+Western,Isabela W,DEREK_2,2,DER,4,Holacanthus passer,30,1
+Western,Isabela W,DEREK_2,2,DER,4,Holacanthus passer,40,1
+Western,Isabela W,DEREK_2,2,DER,4,Johnrandallia nigrirostris,15,1
+Western,Isabela W,DEREK_2,2,DER,4,Mycteroperca olfax,15,1
+Western,Isabela W,DEREK_2,2,DER,4,Mycteroperca olfax,20,8
+Western,Isabela W,DEREK_2,2,DER,4,Mycteroperca olfax,25,1
+Western,Isabela W,DEREK_2,2,DER,4,Mycteroperca olfax,35,1
+Western,Isabela W,DEREK_2,2,DER,4,Mycteroperca olfax,50,1
+Western,Isabela W,DEREK_2,2,DER,4,Sphoeroides annulatus,9,2
+Western,Isabela W,DEREK_2,2,DER,4,Sphoeroides annulatus,15,1
+Western,Isabela W,DEREK_2,2,DER,4,Stegastes arcifrons,9,3
+Western,Isabela W,DEREK_2,2,DER,4,Stegastes arcifrons,15,2
+Western,Isabela W,DEREK_2,2,DER,4,Stegastes beebei,15,51
+Western,Isabela W,DEREK_2,2,DER,4,Thalassoma lucasanum,15,1
+Western,Isabela W,DEREK_3,2,DER,1,Mycteroperca olfax,30,1
+Western,Isabela W,DEREK_3,2,DER,1,Mycteroperca olfax,25,3
+Western,Isabela W,DEREK_3,2,DER,1,Ophioblennius steindachneri,20,3
+Western,Isabela W,DEREK_3,2,DER,1,Sphoeroides annulatus,2,1
+Western,Isabela W,DEREK_3,2,DER,1,Sphoeroides annulatus,5,1
+Western,Isabela W,DEREK_3,2,DER,1,Sphoeroides annulatus,20,1
+Western,Isabela W,DEREK_3,2,DER,1,Stegastes arcifrons,2,24
+Western,Isabela W,DEREK_3,2,DER,1,Stegastes arcifrons,5,48
+Western,Isabela W,DEREK_3,2,DER,1,Stegastes arcifrons,9,25
+Western,Isabela W,DEREK_3,2,DER,1,Stegastes arcifrons,15,43
+Western,Isabela W,DEREK_3,2,DER,1,Thalassoma lucasanum,20,1
+Western,Isabela W,DEREK_3,2,DER,2,Mugil cephalus,25,2
+Western,Isabela W,DEREK_3,2,DER,2,Mycteroperca olfax,30,1
+Western,Isabela W,DEREK_3,2,DER,2,Mycteroperca olfax,25,3
+Western,Isabela W,DEREK_3,2,DER,2,Ophioblennius steindachneri,20,3
+Western,Isabela W,DEREK_3,2,DER,2,Sphoeroides annulatus,2,1
+Western,Isabela W,DEREK_3,2,DER,2,Sphoeroides annulatus,5,3
+Western,Isabela W,DEREK_3,2,DER,2,Stegastes acapulcoensis,5,1
+Western,Isabela W,DEREK_3,2,DER,2,Stegastes acapulcoensis,9,1
+Western,Isabela W,DEREK_3,2,DER,2,Stegastes arcifrons,2,36
+Western,Isabela W,DEREK_3,2,DER,2,Stegastes arcifrons,5,33
+Western,Isabela W,DEREK_3,2,DER,2,Stegastes arcifrons,9,28
+Western,Isabela W,DEREK_3,2,DER,2,Stegastes arcifrons,15,25
+Western,Isabela W,DEREK_3,2,DER,2,Stegastes beebei,9,2
+Western,Isabela W,DEREK_3,2,DER,3,Abudefduf troschelii,15,1
+Western,Isabela W,DEREK_3,2,DER,3,Arothron hispidus,40,1
+Western,Isabela W,DEREK_3,2,DER,3,Bodianus diplotaenia,25,1
+Western,Isabela W,DEREK_3,2,DER,3,Bodianus diplotaenia,30,3
+Western,Isabela W,DEREK_3,2,DER,3,Bodianus diplotaenia,35,1
+Western,Isabela W,DEREK_3,2,DER,3,Bodianus diplotaenia,40,1
+Western,Isabela W,DEREK_3,2,DER,3,Chaetodon humeralis,15,14
+Western,Isabela W,DEREK_3,2,DER,3,Chelonia mydas,55,1
+Western,Isabela W,DEREK_3,2,DER,3,Epinephelus labriformis,40,1
+Western,Isabela W,DEREK_3,2,DER,3,Holacanthus passer,35,1
+Western,Isabela W,DEREK_3,2,DER,3,Johnrandallia nigrirostris,15,2
+Western,Isabela W,DEREK_3,2,DER,3,Mugil sp,20,35
+Western,Isabela W,DEREK_3,2,DER,3,Mycteroperca olfax,15,7
+Western,Isabela W,DEREK_3,2,DER,3,Mycteroperca olfax,20,10
+Western,Isabela W,DEREK_3,2,DER,3,Mycteroperca olfax,40,2
+Western,Isabela W,DEREK_3,2,DER,3,Mycteroperca olfax,45,1
+Western,Isabela W,DEREK_3,2,DER,3,Paranthias colonus,25,3
+Western,Isabela W,DEREK_3,2,DER,3,Scarus ghobban,45,1
+Western,Isabela W,DEREK_3,2,DER,3,Sphoeroides annulatus,5,3
+Western,Isabela W,DEREK_3,2,DER,3,Stegastes arcifrons,9,2
+Western,Isabela W,DEREK_3,2,DER,3,Stegastes arcifrons,15,30
+Western,Isabela W,DEREK_3,2,DER,3,Stegastes beebei,9,1
+Western,Isabela W,DEREK_3,2,DER,3,Stegastes beebei,15,21
+Western,Isabela W,DEREK_3,2,DER,3,Sufflamen verres,35,1
+Western,Isabela W,DEREK_3,2,DER,3,Thalassoma lucasanum,9,2
+Western,Isabela W,DEREK_3,2,DER,3,Thalassoma lucasanum,15,1
+Western,Isabela W,DEREK_3,2,DER,4,Abudefduf troschelii,9,1
+Western,Isabela W,DEREK_3,2,DER,4,Bodianus diplotaenia,25,1
+Western,Isabela W,DEREK_3,2,DER,4,Bodianus diplotaenia,30,1
+Western,Isabela W,DEREK_3,2,DER,4,Bodianus diplotaenia,35,1
+Western,Isabela W,DEREK_3,2,DER,4,Bodianus diplotaenia,45,1
+Western,Isabela W,DEREK_3,2,DER,4,Holacanthus passer,25,1
+Western,Isabela W,DEREK_3,2,DER,4,Mugil sp,20,16
+Western,Isabela W,DEREK_3,2,DER,4,Mycteroperca olfax,20,1
+Western,Isabela W,DEREK_3,2,DER,4,Mycteroperca olfax,25,3
+Western,Isabela W,DEREK_3,2,DER,4,Mycteroperca olfax,40,1
+Western,Isabela W,DEREK_3,2,DER,4,Scarus ghobban,25,1
+Western,Isabela W,DEREK_3,2,DER,4,Scarus ghobban,30,1
+Western,Isabela W,DEREK_3,2,DER,4,Scarus ghobban,35,2
+Western,Isabela W,DEREK_3,2,DER,4,Scarus ghobban,40,3
+Western,Isabela W,DEREK_3,2,DER,4,Scarus ghobban,45,1
+Western,Isabela W,DEREK_3,2,DER,4,Sphoeroides annulatus,5,7
+Western,Isabela W,DEREK_3,2,DER,4,Stegastes arcifrons,15,27
+Western,Isabela W,DEREK_3,2,DER,4,Xenocys jessiae,15,200
+CSE,Baltra,ITABACA_1,1,ITA,1,Abudefduf concolor,15,1
+CSE,Baltra,ITABACA_1,1,ITA,3,Abudefduf concolor,20,1
+CSE,Baltra,ITABACA_1,1,ITA,1,Abudefduf troschelii,2,19
+CSE,Baltra,ITABACA_1,1,ITA,1,Abudefduf troschelii,5,12
+CSE,Baltra,ITABACA_1,1,ITA,1,Abudefduf troschelii,9,3
+CSE,Baltra,ITABACA_1,1,ITA,2,Abudefduf troschelii,2,29
+CSE,Baltra,ITABACA_1,1,ITA,3,Abudefduf troschelii,5,36
+CSE,Baltra,ITABACA_1,1,ITA,4,Abudefduf troschelii,5,10
+CSE,Baltra,ITABACA_1,1,ITA,4,Abudefduf troschelii,9,40
+CSE,Baltra,ITABACA_1,1,ITA,3,Lutjanus novemfasciatus,35,1
+CSE,Baltra,ITABACA_1,1,ITA,3,Mugil sp,9,5
+CSE,Baltra,ITABACA_1,1,ITA,3,Scarus ghobban,5,25
+CSE,Baltra,ITABACA_1,1,ITA,1,Sphoeroides annulatus,9,8
+CSE,Baltra,ITABACA_1,1,ITA,1,Sphoeroides annulatus,15,4
+CSE,Baltra,ITABACA_1,1,ITA,1,Sphoeroides annulatus,20,2
+CSE,Baltra,ITABACA_1,1,ITA,2,Sphoeroides annulatus,5,24
+CSE,Baltra,ITABACA_1,1,ITA,2,Sphoeroides annulatus,9,25
+CSE,Baltra,ITABACA_1,1,ITA,3,Sphoeroides annulatus,5,39
+CSE,Baltra,ITABACA_1,1,ITA,3,Sphoeroides annulatus,9,30
+CSE,Baltra,ITABACA_1,1,ITA,4,Sphoeroides annulatus,2,5
+CSE,Baltra,ITABACA_1,1,ITA,4,Sphoeroides annulatus,5,36
+CSE,Baltra,ITABACA_1,1,ITA,4,Sphoeroides annulatus,9,25
+CSE,Baltra,ITABACA_1,1,ITA,4,Sphoeroides annulatus,15,2
+CSE,Baltra,ITABACA_1,1,ITA,2,Sphyraena idiastes,9,1
+CSE,Baltra,ITABACA_1,1,ITA,1,Stegastes arcifrons,5,14
+CSE,Baltra,ITABACA_1,1,ITA,1,Stegastes arcifrons,9,22
+CSE,Baltra,ITABACA_1,1,ITA,1,Stegastes arcifrons,15,18
+CSE,Baltra,ITABACA_1,1,ITA,2,Stegastes arcifrons,2,15
+CSE,Baltra,ITABACA_1,1,ITA,2,Stegastes arcifrons,5,6
+CSE,Baltra,ITABACA_1,1,ITA,2,Stegastes arcifrons,9,10
+CSE,Baltra,ITABACA_1,1,ITA,3,Stegastes arcifrons,5,27
+CSE,Baltra,ITABACA_1,2,ITA,3,Stegastes arcifrons,9,108
+CSE,Baltra,ITABACA_1,1,ITA,4,Stegastes arcifrons,2,1
+CSE,Baltra,ITABACA_1,1,ITA,4,Stegastes arcifrons,5,35
+CSE,Baltra,ITABACA_1,1,ITA,4,Stegastes arcifrons,9,77
+CSE,Baltra,ITABACA_1,1,ITA,3,Thalassoma lucasanum,9,6
+CSE,Baltra,ITABACA_1,1,ITA,3,Thalassoma lucasanum,15,2
+CSE,Baltra,ITABACA_1,1,ITA,4,Thalassoma lucasanum,15,1
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Abudefduf concolor,15,2
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Abudefduf troschelii,2,14
+CSE,Santa Cruz,ITABACA_2,1,ITA,2,Abudefduf troschelii,2,4
+CSE,Santa Cruz,ITABACA_2,1,ITA,2,Abudefduf troschelii,9,6
+CSE,Santa Cruz,ITABACA_2,2,ITA,4,Abudefduf troschelii,9,1
+CSE,Santa Cruz,ITABACA_2,2,ITA,4,Abudefduf troschelii,15,2
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Archosargus pourtalesii,9,1
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Archosargus pourtalesii,25,1
+CSE,Santa Cruz,ITABACA_2,2,ITA,3,Archosargus pourtalesii,9,15
+CSE,Santa Cruz,ITABACA_2,2,ITA,3,Bodianus diplotaenia,20,1
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Eucinostomus dowii,2,26
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Eucinostomus dowii,5,5
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Eucinostomus dowii,9,3
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Eucinostomus dowii,15,4
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Eucinostomus dowii,20,1
+CSE,Santa Cruz,ITABACA_2,1,ITA,2,Eucinostomus dowii,9,1
+CSE,Santa Cruz,ITABACA_2,1,ITA,2,Eucinostomus dowii,15,9
+CSE,Santa Cruz,ITABACA_2,2,ITA,3,Eucinostomus dowii,2,10
+CSE,Santa Cruz,ITABACA_2,2,ITA,3,Eucinostomus dowii,5,11
+CSE,Santa Cruz,ITABACA_2,2,ITA,3,Eucinostomus dowii,15,3
+CSE,Santa Cruz,ITABACA_2,2,ITA,4,Eucinostomus dowii,5,2
+CSE,Santa Cruz,ITABACA_2,2,ITA,4,Eucinostomus dowii,9,17
+CSE,Santa Cruz,ITABACA_2,1,ITA,2,Haemulon scudderii,9,3
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Lutjanus aratus,20,2
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Lutjanus aratus,30,1
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Lutjanus argentiventris,2,24
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Lutjanus argentiventris,40,1
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Lutjanus argentiventris,20,33
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Lutjanus argentiventris,25,8
+CSE,Santa Cruz,ITABACA_2,2,ITA,3,Lutjanus argentiventris,15,3
+CSE,Santa Cruz,ITABACA_2,2,ITA,3,Lutjanus argentiventris,20,1
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Lutjanus jordani,20,1
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Lutjanus jordani,25,2
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Lutjanus novemfasciatus,2,2
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Lutjanus novemfasciatus,35,1
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Lutjanus novemfasciatus,30,1
+CSE,Santa Cruz,ITABACA_2,2,ITA,3,Lutjanus novemfasciatus,40,1
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Nicholsina denticulata,15,1
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Nicholsina denticulata,20,1
+CSE,Santa Cruz,ITABACA_2,1,ITA,2,Nicholsina denticulata,15,3
+CSE,Santa Cruz,ITABACA_2,1,ITA,2,Nicholsina denticulata,20,1
+CSE,Santa Cruz,ITABACA_2,1,ITA,2,Nicholsina denticulata,25,1
+CSE,Santa Cruz,ITABACA_2,2,ITA,3,Nicholsina denticulata,20,1
+CSE,Santa Cruz,ITABACA_2,2,ITA,3,Prionurus laticlavius,30,1
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Scarus ghobban,9,3
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Sphoeroides annulatus,2,1
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Sphoeroides annulatus,5,1
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Sphoeroides annulatus,9,1
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Sphoeroides annulatus,15,3
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Sphoeroides annulatus,20,2
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Sphoeroides annulatus,25,2
+CSE,Santa Cruz,ITABACA_2,1,ITA,2,Sphoeroides annulatus,9,18
+CSE,Santa Cruz,ITABACA_2,1,ITA,2,Sphoeroides annulatus,15,2
+CSE,Santa Cruz,ITABACA_2,1,ITA,2,Sphoeroides annulatus,20,1
+CSE,Santa Cruz,ITABACA_2,2,ITA,3,Sphoeroides annulatus,5,2
+CSE,Santa Cruz,ITABACA_2,2,ITA,3,Sphoeroides annulatus,9,7
+CSE,Santa Cruz,ITABACA_2,2,ITA,3,Sphoeroides annulatus,15,17
+CSE,Santa Cruz,ITABACA_2,2,ITA,3,Sphoeroides annulatus,20,1
+CSE,Santa Cruz,ITABACA_2,2,ITA,4,Sphoeroides annulatus,5,5
+CSE,Santa Cruz,ITABACA_2,2,ITA,4,Sphoeroides annulatus,9,4
+CSE,Santa Cruz,ITABACA_2,2,ITA,4,Sphoeroides annulatus,15,8
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Stegastes arcifrons,2,1
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Stegastes arcifrons,5,4
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Stegastes arcifrons,9,16
+CSE,Santa Cruz,ITABACA_2,1,ITA,1,Stegastes arcifrons,15,14
+CSE,Santa Cruz,ITABACA_2,1,ITA,2,Stegastes arcifrons,5,18
+CSE,Santa Cruz,ITABACA_2,1,ITA,2,Stegastes arcifrons,9,23
+CSE,Santa Cruz,ITABACA_2,1,ITA,2,Stegastes arcifrons,15,17
+CSE,Santa Cruz,ITABACA_2,2,ITA,3,Stegastes arcifrons,5,6
+CSE,Santa Cruz,ITABACA_2,2,ITA,3,Stegastes arcifrons,9,34
+CSE,Santa Cruz,ITABACA_2,2,ITA,3,Stegastes arcifrons,15,10
+CSE,Santa Cruz,ITABACA_2,2,ITA,4,Stegastes arcifrons,5,6
+CSE,Santa Cruz,ITABACA_2,2,ITA,4,Stegastes arcifrons,9,12
+CSE,Santa Cruz,ITABACA_2,2,ITA,4,Stegastes arcifrons,15,15
+CSE,Santa Cruz,ITABACA_3,1,ITA,1,Abudefduf troschelii,2,56
+CSE,Santa Cruz,ITABACA_3,1,ITA,1,Abudefduf troschelii,9,3
+CSE,Santa Cruz,ITABACA_3,1,ITA,2,Abudefduf troschelii,2,41
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Abudefduf troschelii,2,4
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Abudefduf troschelii,9,8
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Abudefduf troschelii,15,5
+CSE,Santa Cruz,ITABACA_3,1,ITA,2,Apogon atradorsatus,2,70
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Apogon atradorsatus,5,50
+CSE,Santa Cruz,ITABACA_3,1,ITA,1,Bodianus diplotaenia,20,2
+CSE,Santa Cruz,ITABACA_3,1,ITA,1,Bodianus diplotaenia,25,1
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Bodianus diplotaenia,25,1
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Chaetodon humeralis,15,1
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Chromis atrilobata,9,45
+CSE,Santa Cruz,ITABACA_3,2,ITA,4,Chromis atrilobata,9,30
+CSE,Santa Cruz,ITABACA_3,1,ITA,1,Cirrhitus rivulatus,35,1
+CSE,Santa Cruz,ITABACA_3,1,ITA,2,Cirrhitus rivulatus,35,1
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Cirrhitus rivulatus,35,1
+CSE,Santa Cruz,ITABACA_3,1,ITA,2,Diodon hystrix,45,1
+CSE,Santa Cruz,ITABACA_3,2,ITA,4,Fistularia commersonii,30,1
+CSE,Santa Cruz,ITABACA_3,2,ITA,4,Fistularia commersonii,35,3
+CSE,Santa Cruz,ITABACA_3,1,ITA,1,Holacanthus passer,25,1
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Holacanthus passer,20,1
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Holacanthus passer,25,1
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Holacanthus passer,30,1
+CSE,Santa Cruz,ITABACA_3,2,ITA,4,Kyphosus vaigiensis,15,3
+CSE,Santa Cruz,ITABACA_3,1,ITA,1,Ophioblennius steindachneri,20,2
+CSE,Santa Cruz,ITABACA_3,1,ITA,1,Ophioblennius steindachneri,30,1
+CSE,Santa Cruz,ITABACA_3,1,ITA,2,Ophioblennius steindachneri,25,1
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Ophioblennius steindachneri,15,1
+CSE,Santa Cruz,ITABACA_3,1,ITA,1,Plagiotremus azaleus,5,1
+CSE,Santa Cruz,ITABACA_3,1,ITA,2,Plagiotremus azaleus,15,1
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Scarus compressus,35,1
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Scarus compressus,40,1
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Scarus ghobban,45,1
+CSE,Santa Cruz,ITABACA_3,1,ITA,1,Scarus perrico,55,1
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Serranus psittacinus,15,1
+CSE,Santa Cruz,ITABACA_3,2,ITA,4,Serranus psittacinus,9,1
+CSE,Santa Cruz,ITABACA_3,2,ITA,4,Serranus psittacinus,15,2
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Sphoeroides annulatus,9,1
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Sphoeroides annulatus,15,6
+CSE,Santa Cruz,ITABACA_3,1,ITA,1,Stegastes arcifrons,5,1
+CSE,Santa Cruz,ITABACA_3,1,ITA,1,Stegastes arcifrons,9,10
+CSE,Santa Cruz,ITABACA_3,1,ITA,1,Stegastes arcifrons,15,34
+CSE,Santa Cruz,ITABACA_3,1,ITA,2,Stegastes arcifrons,9,20
+CSE,Santa Cruz,ITABACA_3,1,ITA,2,Stegastes arcifrons,15,33
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Stegastes arcifrons,9,4
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Stegastes arcifrons,15,23
+CSE,Santa Cruz,ITABACA_3,2,ITA,4,Stegastes arcifrons,9,3
+CSE,Santa Cruz,ITABACA_3,2,ITA,4,Stegastes arcifrons,15,23
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Stegastes beebei,15,9
+CSE,Santa Cruz,ITABACA_3,2,ITA,4,Stegastes beebei,9,5
+CSE,Santa Cruz,ITABACA_3,2,ITA,4,Stegastes beebei,15,12
+CSE,Santa Cruz,ITABACA_3,1,ITA,2,Thalassoma lucasanum,15,3
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Thalassoma lucasanum,9,4
+CSE,Santa Cruz,ITABACA_3,2,ITA,3,Thalassoma lucasanum,15,7
+CSE,Santa Cruz,ITABACA_3,2,ITA,4,Thalassoma lucasanum,9,4
+CSE,Santa Cruz,ITABACA_3,2,ITA,4,Thalassoma lucasanum,15,8
+Western,Isabela W,MARIELAS_1,2,MAR,1,Abudefduf troschelii,9,13
+Western,Isabela W,MARIELAS_1,2,MAR,1,Abudefduf troschelii,15,11
+Western,Isabela W,MARIELAS_1,2,MAR,1,Archosargus pourtalesii,30,4
+Western,Isabela W,MARIELAS_1,2,MAR,1,Diodon hystrix,50,1
+Western,Isabela W,MARIELAS_1,2,MAR,1,Lutjanus argentiventris,25,3
+Western,Isabela W,MARIELAS_1,2,MAR,1,Mycteroperca olfax,35,1
+Western,Isabela W,MARIELAS_1,2,MAR,1,Mycteroperca olfax,20,1
+Western,Isabela W,MARIELAS_1,2,MAR,1,Mycteroperca olfax,25,1
+Western,Isabela W,MARIELAS_1,2,MAR,2,Abudefduf troschelii,15,15
+Western,Isabela W,MARIELAS_1,2,MAR,2,Archosargus pourtalesii,25,3
+Western,Isabela W,MARIELAS_1,2,MAR,2,Lutjanus novemfasciatus,45,1
+Western,Isabela W,MARIELAS_1,2,MAR,2,Mycteroperca olfax,30,1
+Western,Isabela W,MARIELAS_1,2,MAR,2,Sphoeroides annulatus,15,1
+Western,Isabela W,MARIELAS_1,2,MAR,3,Archosargus pourtalesii,25,1
+Western,Isabela W,MARIELAS_1,2,MAR,3,Arothron hispidus,60,1
+Western,Isabela W,MARIELAS_1,2,MAR,3,Lutjanus argentiventris,15,1
+Western,Isabela W,MARIELAS_1,2,MAR,3,Lutjanus novemfasciatus,55,1
+Western,Isabela W,MARIELAS_1,2,MAR,3,Mycteroperca olfax,9,1
+Western,Isabela W,MARIELAS_1,2,MAR,3,Mycteroperca olfax,15,1
+Western,Isabela W,MARIELAS_1,2,MAR,3,Mycteroperca olfax,25,1
+Western,Isabela W,MARIELAS_1,2,MAR,3,Spheniscus mendiculus,40,2
+Western,Isabela W,MARIELAS_1,2,MAR,3,Sphoeroides annulatus,5,2
+Western,Isabela W,MARIELAS_1,2,MAR,3,Sphoeroides annulatus,9,1
+Western,Isabela W,MARIELAS_1,2,MAR,3,Stegastes arcifrons,9,7
+Western,Isabela W,MARIELAS_1,2,MAR,3,Stegastes arcifrons,15,10
+Western,Isabela W,MARIELAS_1,2,MAR,4,Abudefduf troschelii,9,2
+Western,Isabela W,MARIELAS_1,2,MAR,4,Abudefduf troschelii,15,4
+Western,Isabela W,MARIELAS_1,2,MAR,4,Archosargus pourtalesii,20,4
+Western,Isabela W,MARIELAS_1,2,MAR,4,Archosargus pourtalesii,25,1
+Western,Isabela W,MARIELAS_1,2,MAR,4,Hypanus dipterurus,60,1
+Western,Isabela W,MARIELAS_1,2,MAR,4,Lutjanus argentiventris,25,1
+Western,Isabela W,MARIELAS_1,2,MAR,4,Mycteroperca olfax,15,1
+Western,Isabela W,MARIELAS_1,2,MAR,4,Mycteroperca olfax,20,1
+Western,Isabela W,MARIELAS_1,2,MAR,4,Sphoeroides annulatus,5,2
+Western,Isabela W,MARIELAS_2,2,MAR,1,Abudefduf troschelii,2,20
+Western,Isabela W,MARIELAS_2,2,MAR,1,Abudefduf troschelii,5,5
+Western,Isabela W,MARIELAS_2,2,MAR,1,Abudefduf troschelii,9,5
+Western,Isabela W,MARIELAS_2,2,MAR,1,Bodianus diplotaenia,35,2
+Western,Isabela W,MARIELAS_2,2,MAR,1,Ophioblennius steindachneri,20,1
+Western,Isabela W,MARIELAS_2,2,MAR,1,Plagiotremus azaleus,9,10
+Western,Isabela W,MARIELAS_2,2,MAR,1,Stegastes beebei,2,4
+Western,Isabela W,MARIELAS_2,2,MAR,1,Stegastes beebei,5,6
+Western,Isabela W,MARIELAS_2,2,MAR,1,Stegastes beebei,9,1
+Western,Isabela W,MARIELAS_2,2,MAR,1,Stegastes beebei,15,5
+Western,Isabela W,MARIELAS_2,2,MAR,1,Thalassoma lucasanum,20,8
+Western,Isabela W,MARIELAS_2,2,MAR,2,Microspathodon dorsalis,30,2
+Western,Isabela W,MARIELAS_2,2,MAR,2,Microspathodon dorsalis,25,7
+Western,Isabela W,MARIELAS_2,2,MAR,2,Stegastes beebei,5,5
+Western,Isabela W,MARIELAS_2,2,MAR,2,Stegastes beebei,9,8
+Western,Isabela W,MARIELAS_2,2,MAR,2,Stegastes beebei,15,26
+Western,Isabela W,MARIELAS_2,2,MAR,3,Bodianus diplotaenia,25,2
+Western,Isabela W,MARIELAS_2,2,MAR,3,Bodianus diplotaenia,30,4
+Western,Isabela W,MARIELAS_2,2,MAR,3,Holacanthus passer,30,1
+Western,Isabela W,MARIELAS_2,2,MAR,3,Scarus compressus,45,1
+Western,Isabela W,MARIELAS_2,2,MAR,3,Scarus ghobban,40,4
+Western,Isabela W,MARIELAS_2,2,MAR,3,Stegastes arcifrons,9,2
+Western,Isabela W,MARIELAS_2,2,MAR,3,Stegastes arcifrons,15,12
+Western,Isabela W,MARIELAS_2,2,MAR,3,Thalassoma lucasanum,15,3
+Western,Isabela W,MARIELAS_2,2,MAR,4,Bodianus diplotaenia,25,2
+Western,Isabela W,MARIELAS_2,2,MAR,4,Bodianus diplotaenia,30,2
+Western,Isabela W,MARIELAS_2,2,MAR,4,Holacanthus passer,25,1
+Western,Isabela W,MARIELAS_2,2,MAR,4,Holacanthus passer,30,2
+Western,Isabela W,MARIELAS_2,2,MAR,4,Mycteroperca olfax,25,1
+Western,Isabela W,MARIELAS_2,2,MAR,4,Stegastes arcifrons,15,15
+Western,Isabela W,MARIELAS_3,2,MAR,1,Abudefduf troschelii,9,3
+Western,Isabela W,MARIELAS_3,2,MAR,1,Abudefduf troschelii,15,4
+Western,Isabela W,MARIELAS_3,2,MAR,1,Holacanthus passer,30,2
+Western,Isabela W,MARIELAS_3,2,MAR,1,Microspathodon dorsalis,35,1
+Western,Isabela W,MARIELAS_3,2,MAR,1,Microspathodon dorsalis,20,1
+Western,Isabela W,MARIELAS_3,2,MAR,1,Microspathodon dorsalis,25,3
+Western,Isabela W,MARIELAS_3,2,MAR,1,Mycteroperca olfax,30,1
+Western,Isabela W,MARIELAS_3,2,MAR,1,Scarus ghobban,40,1
+Western,Isabela W,MARIELAS_3,2,MAR,1,Stegastes beebei,2,5
+Western,Isabela W,MARIELAS_3,2,MAR,1,Stegastes beebei,5,3
+Western,Isabela W,MARIELAS_3,2,MAR,1,Stegastes beebei,9,4
+Western,Isabela W,MARIELAS_3,2,MAR,1,Stegastes beebei,15,12
+Western,Isabela W,MARIELAS_3,2,MAR,2,Abudefduf troschelii,15,10
+Western,Isabela W,MARIELAS_3,2,MAR,2,Bodianus diplotaenia,35,3
+Western,Isabela W,MARIELAS_3,2,MAR,2,Bodianus diplotaenia,30,2
+Western,Isabela W,MARIELAS_3,2,MAR,2,Microspathodon dorsalis,35,2
+Western,Isabela W,MARIELAS_3,2,MAR,2,Microspathodon dorsalis,30,4
+Western,Isabela W,MARIELAS_3,2,MAR,2,Prionurus laticlavius,25,7
+Western,Isabela W,MARIELAS_3,2,MAR,2,Scarus ghobban,45,3
+Western,Isabela W,MARIELAS_3,2,MAR,2,Stegastes beebei,2,11
+Western,Isabela W,MARIELAS_3,2,MAR,2,Stegastes beebei,5,10
+Western,Isabela W,MARIELAS_3,2,MAR,2,Stegastes beebei,9,8
+Western,Isabela W,MARIELAS_3,2,MAR,2,Stegastes beebei,15,12
+Western,Isabela W,MARIELAS_3,2,MAR,3,Abudefduf troschelii,9,2
+Western,Isabela W,MARIELAS_3,2,MAR,3,Abudefduf troschelii,15,4
+Western,Isabela W,MARIELAS_3,2,MAR,3,Bodianus diplotaenia,25,2
+Western,Isabela W,MARIELAS_3,2,MAR,3,Bodianus diplotaenia,30,1
+Western,Isabela W,MARIELAS_3,2,MAR,3,Chelonia mydas,65,1
+Western,Isabela W,MARIELAS_3,2,MAR,3,Halichoeres dispilus,9,2
+Western,Isabela W,MARIELAS_3,2,MAR,3,Halichoeres dispilus,15,3
+Western,Isabela W,MARIELAS_3,2,MAR,3,Mycteroperca olfax,25,1
+Western,Isabela W,MARIELAS_3,2,MAR,3,Nicholsina denticulata,15,1
+Western,Isabela W,MARIELAS_3,2,MAR,3,Nicholsina denticulata,20,2
+Western,Isabela W,MARIELAS_3,2,MAR,3,Prionurus laticlavius,25,8
+Western,Isabela W,MARIELAS_3,2,MAR,3,Scarus ghobban,35,4
+Western,Isabela W,MARIELAS_3,2,MAR,3,Stegastes arcifrons,9,8
+Western,Isabela W,MARIELAS_3,2,MAR,3,Stegastes arcifrons,15,10
+Western,Isabela W,MARIELAS_3,2,MAR,3,Thalassoma lucasanum,15,1
+Western,Isabela W,MARIELAS_3,2,MAR,4,Abudefduf troschelii,15,15
+Western,Isabela W,MARIELAS_3,2,MAR,4,Abudefduf troschelii,20,10
+Western,Isabela W,MARIELAS_3,2,MAR,4,Bodianus diplotaenia,35,1
+Western,Isabela W,MARIELAS_3,2,MAR,4,Bodianus diplotaenia,40,1
+Western,Isabela W,MARIELAS_3,2,MAR,4,Bodianus diplotaenia,45,1
+Western,Isabela W,MARIELAS_3,2,MAR,4,Halichoeres dispilus,9,1
+Western,Isabela W,MARIELAS_3,2,MAR,4,Halichoeres dispilus,15,2
+Western,Isabela W,MARIELAS_3,2,MAR,4,Holacanthus passer,20,2
+Western,Isabela W,MARIELAS_3,2,MAR,4,Holacanthus passer,25,1
+Western,Isabela W,MARIELAS_3,2,MAR,4,Stegastes arcifrons,9,2
+Western,Isabela W,MARIELAS_3,2,MAR,4,Stegastes arcifrons,15,18
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,4,Abudefduf concolor,9,2
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Abudefduf troschelii,2,2
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,2,Abudefduf troschelii,2,78
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,2,Abudefduf troschelii,5,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,2,Abudefduf troschelii,15,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Abudefduf troschelii,2,18
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Abudefduf troschelii,5,10
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Abudefduf troschelii,9,5
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Abudefduf troschelii,15,19
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,4,Abudefduf troschelii,9,5
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,4,Abudefduf troschelii,15,8
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Archosargus pourtalesii,20,30
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,4,Bodianus diplotaenia,15,2
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,2,Carcharhinus limbatus,120,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Chaetodon humeralis,15,20
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,4,Chaetodon humeralis,15,2
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Eucinostomus dowii,15,4
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,4,Eucinostomus dowii,9,3
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,4,Eucinostomus dowii,15,4
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,4,Eucinostomus dowii,20,2
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Fistularia commersonii,15,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,4,Fistularia commersonii,15,3
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Halichoeres dispilus,2,2
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,2,Halichoeres dispilus,5,15
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,2,Halichoeres dispilus,9,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,2,Halichoeres dispilus,15,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Halichoeres nicholsi,5,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Halichoeres nicholsi,30,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,2,Halichoeres nicholsi,5,2
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,4,Halichoeres nicholsi,5,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,4,Halichoeres nicholsi,9,2
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,4,Halichoeres nicholsi,15,4
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Lutjanus argentiventris,20,2
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Lutjanus argentiventris,25,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Lutjanus argentiventris,15,16
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Lutjanus argentiventris,20,2
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,4,Lutjanus argentiventris,15,5
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Mugil curema,15,4
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Mycteroperca olfax,20,2
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Mycteroperca olfax,25,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Mycteroperca olfax,15,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Mycteroperca olfax,20,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,4,Mycteroperca olfax,15,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Nicholsina denticulata,5,4
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Nicholsina denticulata,15,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Plagiotremus azaleus,5,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Plagiotremus azaleus,9,14
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,2,Plagiotremus azaleus,5,6
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,2,Plagiotremus azaleus,9,27
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Scarus ghobban,9,5
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Scarus ghobban,15,16
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Scarus ghobban,5,18
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Scarus ghobban,9,2
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,4,Scarus ghobban,9,5
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Scarus rubroviolaceus,9,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Sphoeroides annulatus,9,2
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,2,Sphoeroides annulatus,5,6
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,2,Sphoeroides annulatus,9,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Sphoeroides annulatus,2,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Sphoeroides annulatus,5,30
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Sphoeroides annulatus,9,15
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,4,Sphoeroides annulatus,9,7
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,4,Sphoeroides annulatus,15,5
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Stegastes arcifrons,2,25
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Stegastes arcifrons,5,20
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Stegastes arcifrons,9,41
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Stegastes arcifrons,15,110
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,2,Stegastes arcifrons,2,40
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,2,Stegastes arcifrons,5,57
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,2,Stegastes arcifrons,9,20
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,2,Stegastes arcifrons,15,23
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Stegastes arcifrons,9,39
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Stegastes arcifrons,15,23
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,4,Stegastes arcifrons,9,13
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,4,Stegastes arcifrons,15,10
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Stegastes beebei,2,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Stegastes beebei,9,2
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Stegastes beebei,15,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,2,Stegastes beebei,2,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,2,Stegastes beebei,9,2
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,2,Stegastes beebei,15,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,3,Stegastes beebei,15,2
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,1,Stethojulis bandanensis,20,1
+CSE,Santa Cruz,PARROQUIANOS_1,2,PAR,4,Thalassoma lucasanum,15,1
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,1,Abudefduf troschelii,2,106
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,2,Abudefduf troschelii,2,180
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,5,Abudefduf troschelii,2,150
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,5,Archosargus pourtalesii,15,1
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,1,Chaetodon humeralis,9,1
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,1,Eucinostomus dowii,5,1
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,1,Eucinostomus dowii,9,2
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,5,Eucinostomus dowii,2,15
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,1,Lutjanus argentiventris,2,48
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,1,Lutjanus argentiventris,5,1
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,2,Lutjanus argentiventris,2,99
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,2,Lutjanus argentiventris,5,2
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,2,Lutjanus argentiventris,9,2
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,2,Lutjanus argentiventris,20,1
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,5,Lutjanus argentiventris,2,47
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,5,Lutjanus argentiventris,15,2
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,5,Lutjanus argentiventris,20,1
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,1,Lutjanus novemfasciatus,2,8
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,2,Lutjanus novemfasciatus,2,25
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,5,Lutjanus novemfasciatus,2,8
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,1,Plagiotremus azaleus,5,3
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,1,Plagiotremus azaleus,9,4
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,2,Plagiotremus azaleus,5,4
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,2,Plagiotremus azaleus,9,3
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,5,Plagiotremus azaleus,5,1
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,5,Plagiotremus azaleus,9,1
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,1,Sphoeroides annulatus,2,1
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,1,Sphoeroides annulatus,9,1
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,2,Sphoeroides annulatus,2,4
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,2,Sphoeroides annulatus,5,2
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,2,Sphoeroides annulatus,9,2
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,2,Sphoeroides annulatus,15,4
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,5,Sphoeroides annulatus,9,2
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,5,Sphoeroides annulatus,15,2
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,1,Stegastes arcifrons,2,2
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,1,Stegastes arcifrons,5,12
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,1,Stegastes arcifrons,9,1
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,2,Stegastes arcifrons,5,2
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,2,Stegastes arcifrons,9,6
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,5,Stegastes arcifrons,2,1
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,5,Stegastes arcifrons,5,4
+CSE,Santa Cruz,PARROQUIANOS_2,2,PAR,5,Stegastes arcifrons,9,1
+CSE,Floreana,POST_OFFICE_1,2,POS,1,Abudefduf troschelii,5,5
+CSE,Floreana,POST_OFFICE_1,2,POS,1,Bodianus diplotaenia,25,1
+CSE,Floreana,POST_OFFICE_1,2,POS,1,Mugil cephalus,45,10
+CSE,Floreana,POST_OFFICE_1,2,POS,1,Stegastes arcifrons,9,20
+CSE,Floreana,POST_OFFICE_1,2,POS,1,Stegastes arcifrons,15,9
+CSE,Floreana,POST_OFFICE_1,2,POS,1,Thalassoma lucasanum,15,8
+CSE,Floreana,POST_OFFICE_1,2,POS,2,Mugil cephalus,45,18
+CSE,Floreana,POST_OFFICE_1,2,POS,2,Stegastes arcifrons,9,3
+CSE,Floreana,POST_OFFICE_1,2,POS,2,Stegastes arcifrons,15,6
+CSE,Floreana,POST_OFFICE_1,2,POS,2,Thalassoma lucasanum,15,4
+CSE,Floreana,POST_OFFICE_1,2,POS,2,Xenocys jessiae,25,110
+CSE,Floreana,POST_OFFICE_1,2,POS,3,Abudefduf troschelii,5,10
+CSE,Floreana,POST_OFFICE_1,2,POS,3,Abudefduf troschelii,9,5
+CSE,Floreana,POST_OFFICE_1,2,POS,3,Archosargus pourtalesii,15,35
+CSE,Floreana,POST_OFFICE_1,2,POS,3,Chaetodon humeralis,5,1
+CSE,Floreana,POST_OFFICE_1,2,POS,3,Halichoeres dispilus,5,10
+CSE,Floreana,POST_OFFICE_1,2,POS,3,Halichoeres dispilus,9,9
+CSE,Floreana,POST_OFFICE_1,2,POS,3,Halichoeres dispilus,15,2
+CSE,Floreana,POST_OFFICE_1,2,POS,3,Halichoeres nicholsi,15,2
+CSE,Floreana,POST_OFFICE_1,2,POS,3,Sphoeroides annulatus,5,1
+CSE,Floreana,POST_OFFICE_1,2,POS,3,Stegastes arcifrons,9,4
+CSE,Floreana,POST_OFFICE_1,2,POS,3,Stegastes arcifrons,15,2
+CSE,Floreana,POST_OFFICE_1,2,POS,3,Stegastes beebei,9,7
+CSE,Floreana,POST_OFFICE_1,2,POS,3,Stegastes beebei,15,2
+CSE,Floreana,POST_OFFICE_1,2,POS,3,Thalassoma lucasanum,9,1
+CSE,Floreana,POST_OFFICE_1,2,POS,3,Thalassoma lucasanum,15,3
+CSE,Floreana,POST_OFFICE_1,2,POS,3,Xenocys jessiae,9,2
+CSE,Floreana,POST_OFFICE_1,2,POS,4,Abudefduf troschelii,2,10
+CSE,Floreana,POST_OFFICE_1,2,POS,4,Abudefduf troschelii,9,4
+CSE,Floreana,POST_OFFICE_1,2,POS,4,Halichoeres dispilus,5,2
+CSE,Floreana,POST_OFFICE_1,2,POS,4,Halichoeres dispilus,9,9
+CSE,Floreana,POST_OFFICE_1,2,POS,4,Halichoeres nicholsi,15,2
+CSE,Floreana,POST_OFFICE_1,2,POS,4,Stegastes beebei,9,5
+CSE,Floreana,POST_OFFICE_1,2,POS,4,Stegastes beebei,15,5
+CSE,Floreana,POST_OFFICE_1,2,POS,4,Thalassoma lucasanum,9,4
+CSE,Floreana,POST_OFFICE_1,2,POS,4,Thalassoma lucasanum,15,8
+CSE,Floreana,POST_OFFICE_1,2,POS,4,Xenocys jessiae,15,100
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Abudefduf concolor,20,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Abudefduf troschelii,2,22
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Abudefduf troschelii,2,6
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Abudefduf troschelii,5,12
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Abudefduf troschelii,9,5
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Abudefduf troschelii,2,16
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Abudefduf troschelii,5,15
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Anisotremus interruptus,30,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Archosargus pourtalesii,20,2
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Archosargus pourtalesii,20,6
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Caranx caninus,20,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Caranx caninus,25,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Carcharhinus limbatus,70,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Carcharhinus limbatus,80,2
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Carcharhinus limbatus,55,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Chaetodon humeralis,9,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Hypanus dipterurus,40,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,2,Eucinostomus dowii,20,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Eucinostomus dowii,2,5
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Eucinostomus dowii,5,3
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Eucinostomus dowii,15,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Eucinostomus dowii,2,23
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Eucinostomus dowii,5,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Gnathanodon speciosus,9,9
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Gnathanodon speciosus,15,2
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Lutjanus aratus,9,2
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Lutjanus argentiventris,2,32
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Lutjanus argentiventris,5,10
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Lutjanus argentiventris,9,8
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Lutjanus argentiventris,15,4
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Lutjanus argentiventris,20,5
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Lutjanus argentiventris,25,2
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Lutjanus argentiventris,30,3
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Lutjanus argentiventris,35,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,2,Lutjanus argentiventris,2,2
+CSE,Santiago,POZA_AZUL_1,2,POZA,2,Lutjanus argentiventris,5,6
+CSE,Santiago,POZA_AZUL_1,2,POZA,2,Lutjanus argentiventris,9,5
+CSE,Santiago,POZA_AZUL_1,2,POZA,2,Lutjanus argentiventris,15,4
+CSE,Santiago,POZA_AZUL_1,2,POZA,2,Lutjanus argentiventris,20,4
+CSE,Santiago,POZA_AZUL_1,2,POZA,2,Lutjanus argentiventris,25,2
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Lutjanus argentiventris,2,2
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Lutjanus argentiventris,5,6
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Lutjanus argentiventris,9,2
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Lutjanus argentiventris,15,3
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Lutjanus argentiventris,20,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Lutjanus argentiventris,25,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Lutjanus argentiventris,2,16
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Lutjanus argentiventris,5,11
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Lutjanus argentiventris,9,9
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Lutjanus argentiventris,15,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Lutjanus jordani,20,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Lutjanus novemfasciatus,2,73
+CSE,Santiago,POZA_AZUL_1,2,POZA,2,Lutjanus novemfasciatus,2,38
+CSE,Santiago,POZA_AZUL_1,2,POZA,2,Lutjanus novemfasciatus,35,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,2,Lutjanus novemfasciatus,30,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,2,Lutjanus novemfasciatus,25,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Lutjanus novemfasciatus,25,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Lutjanus novemfasciatus,35,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Lutjanus novemfasciatus,40,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Lutjanus novemfasciatus,45,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Lutjanus novemfasciatus,25,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Lutjanus novemfasciatus,30,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Lutjanus novemfasciatus,35,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Lutjanus novemfasciatus,40,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Mugil galapagensis,40,10
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Mugil galapagensis,40,2
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Sphoeroides annulatus,2,34
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Sphoeroides annulatus,15,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Sphoeroides annulatus,20,4
+CSE,Santiago,POZA_AZUL_1,2,POZA,2,Sphoeroides annulatus,2,46
+CSE,Santiago,POZA_AZUL_1,2,POZA,2,Sphoeroides annulatus,20,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,2,Sphoeroides annulatus,25,2
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Sphoeroides annulatus,15,6
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Sphoeroides annulatus,2,4
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Sphoeroides annulatus,5,2
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Sphoeroides annulatus,9,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Sphoeroides annulatus,15,2
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Sphoeroides annulatus,20,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Stegastes arcifrons,5,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,1,Stegastes arcifrons,9,2
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Stegastes arcifrons,5,1
+CSE,Santiago,POZA_AZUL_1,2,POZA,3,Stegastes arcifrons,9,2
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Stegastes arcifrons,2,4
+CSE,Santiago,POZA_AZUL_1,2,POZA,4,Stegastes arcifrons,5,12
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,3,Abudefduf concolor,15,3
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,1,Abudefduf troschelii,9,1
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,2,Abudefduf troschelii,2,13
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,2,Abudefduf troschelii,9,2
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,3,Abudefduf troschelii,2,46
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,3,Abudefduf troschelii,5,15
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,4,Abudefduf troschelii,2,1
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,4,Abudefduf troschelii,5,2
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,4,Aetobatus ocellatus,50,1
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,2,Bodianus diplotaenia,30,1
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,3,Lutjanus argentiventris,15,1
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,4,Lutjanus argentiventris,9,1
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,4,Lutjanus argentiventris,15,3
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,1,Mugil cephalus,20,10
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,3,Mugil sp,5,8
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,3,Mugil sp,9,30
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,3,Mugil sp,15,15
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,4,Mugil sp,20,1
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,1,Mycteroperca olfax,15,2
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,1,Mycteroperca olfax,25,2
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,2,Mycteroperca olfax,5,1
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,2,Mycteroperca olfax,9,1
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,2,Mycteroperca olfax,20,1
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,2,Mycteroperca olfax,25,1
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,3,Mycteroperca olfax,20,2
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,3,Mycteroperca olfax,25,1
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,4,Mycteroperca olfax,9,1
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,2,Ophioblennius steindachneri,20,4
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,3,Ophioblennius steindachneri,15,1
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,1,Sphoeroides annulatus,9,1
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,2,Sphoeroides annulatus,5,2
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,2,Sphoeroides annulatus,9,2
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,2,Sphoeroides annulatus,15,4
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,2,Sphoeroides annulatus,20,1
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,3,Sphoeroides annulatus,5,1
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,3,Sphoeroides annulatus,9,2
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,4,Sphoeroides annulatus,9,1
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,1,Stegastes arcifrons,2,5
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,1,Stegastes arcifrons,5,6
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,1,Stegastes arcifrons,9,16
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,1,Stegastes arcifrons,15,85
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,2,Stegastes arcifrons,2,28
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,2,Stegastes arcifrons,5,21
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,2,Stegastes arcifrons,9,8
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,2,Stegastes arcifrons,15,59
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,3,Stegastes arcifrons,5,2
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,3,Stegastes arcifrons,9,37
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,3,Stegastes arcifrons,15,38
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,4,Stegastes arcifrons,9,15
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,4,Stegastes arcifrons,15,17
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,2,Thalassoma lucasanum,15,1
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,3,Thalassoma lucasanum,9,2
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,3,Thalassoma lucasanum,15,1
+Western,Fernandina,POZA_PATILLOS_1,2,POZP,4,Thalassoma lucasanum,9,5
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,1,Archosargus pourtalesii,9,1
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,1,Archosargus pourtalesii,15,1
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,1,Archosargus pourtalesii,20,1
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,1,Eucinostomus dowii,20,1
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,1,Lutjanus argentiventris,15,2
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,1,Lutjanus argentiventris,20,5
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,1,Lutjanus argentiventris,25,2
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,1,Mycteroperca olfax,20,3
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,1,Mycteroperca olfax,25,1
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,2,Lutjanus argentiventris,15,2
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,2,Lutjanus argentiventris,20,5
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,2,Lutjanus argentiventris,25,3
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,2,Mycteroperca olfax,15,1
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,2,Mycteroperca olfax,20,1
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,2,Mycteroperca olfax,25,2
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,3,Abudefduf troschelii,15,1
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,3,Archosargus pourtalesii,9,1
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,3,Archosargus pourtalesii,15,11
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,3,Eucinostomus dowii,9,1
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,3,Eucinostomus dowii,20,1
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,3,Lutjanus argentiventris,9,4
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,3,Lutjanus argentiventris,15,29
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,3,Lutjanus argentiventris,20,4
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,3,Mycteroperca olfax,15,1
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,3,Stegastes arcifrons,9,1
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,4,Abudefduf troschelii,15,5
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,4,Eucinostomus dowii,15,4
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,4,Eucinostomus dowii,20,1
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,4,Lutjanus argentiventris,15,10
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,4,Lutjanus argentiventris,20,4
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,4,Mycteroperca olfax,15,3
+Western,Fernandina,POZA_PATILLOS_2,2,POZP,4,Sphoeroides annulatus,15,1
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,2,Abudefduf troschelii,2,1
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,2,Abudefduf troschelii,5,4
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,3,Abudefduf troschelii,2,2
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,3,Abudefduf troschelii,5,3
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,3,Abudefduf troschelii,9,1
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,4,Abudefduf troschelii,2,2
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,4,Abudefduf troschelii,5,3
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,4,Abudefduf troschelii,9,1
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,3,Archosargus pourtalesii,9,3
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,4,Carcharhinus limbatus,75,1
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,3,Chaetodon humeralis,5,1
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,1,Eucinostomus dowii,9,5
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,1,Eucinostomus dowii,15,1
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,3,Eucinostomus dowii,5,2
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,4,Eucinostomus dowii,5,2
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,4,Eucinostomus dowii,9,3
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,4,Eucinostomus dowii,15,2
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,1,Lutjanus argentiventris,2,24
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,2,Lutjanus argentiventris,2,4
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,3,Lutjanus argentiventris,2,1
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,3,Lutjanus argentiventris,5,2
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,3,Lutjanus argentiventris,9,3
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,3,Lutjanus argentiventris,15,3
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,4,Lutjanus argentiventris,2,5
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,4,Lutjanus argentiventris,5,6
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,4,Lutjanus argentiventris,9,4
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,4,Lutjanus argentiventris,15,1
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,2,Mugil cephalus,30,20
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,1,Plagiotremus azaleus,9,1
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,2,Sphoeroides annulatus,15,1
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,3,Sphoeroides annulatus,5,1
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,3,Sphoeroides annulatus,15,2
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,1,Stegastes arcifrons,5,4
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,1,Stegastes arcifrons,9,14
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,2,Stegastes arcifrons,2,3
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,2,Stegastes arcifrons,5,6
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,2,Stegastes arcifrons,9,6
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,3,Stegastes arcifrons,5,2
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,3,Stegastes arcifrons,9,3
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,4,Stegastes arcifrons,2,1
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,4,Stegastes arcifrons,5,2
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,4,Stegastes arcifrons,9,1
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,4,Stegastes arcifrons,15,2
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,3,Stegastes beebei,5,1
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,4,Stegastes beebei,2,1
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,4,Stegastes beebei,5,2
+CSE,San Cristobal,POZA_SARDINAS_1,2,POZS,4,Stegastes beebei,9,2
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,3,Abudefduf concolor,20,1
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,1,Abudefduf troschelii,5,10
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,2,Abudefduf troschelii,5,12
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,2,Abudefduf troschelii,9,8
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,3,Abudefduf troschelii,5,6
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,3,Abudefduf troschelii,9,10
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,1,Apogon atradorsatus,2,180
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,2,Apogon atradorsatus,2,240
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,3,Apogon atradorsatus,5,900
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,4,Apogon atradorsatus,5,100
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,1,Bodianus diplotaenia,30,1
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,3,Bodianus diplotaenia,15,1
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,3,Bodianus diplotaenia,30,1
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,4,Bodianus diplotaenia,45,2
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,1,Epinephelus labriformis,40,1
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,1,Epinephelus labriformis,35,1
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,1,Epinephelus labriformis,30,1
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,3,Epinephelus labriformis,20,1
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,4,Haemulidae sp,9,500
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,3,Halichoeres dispilus,20,2
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,4,Halichoeres dispilus,15,1
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,4,Halichoeres dispilus,20,3
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,4,Johnrandallia nigrirostris,15,1
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,2,Microspathodon bairdii,30,1
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,1,Odontoscion eurymesops,15,464
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,2,Ophioblennius steindachneri,25,3
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,1,Plagiotremus azaleus,9,1
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,4,Scarus ghobban,45,1
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,3,Sphyraena idiastes,15,10
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,3,Stegastes acapulcoensis,15,4
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,4,Stegastes acapulcoensis,15,8
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,1,Stegastes arcifrons,5,2
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,1,Stegastes arcifrons,9,20
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,1,Stegastes arcifrons,15,47
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,2,Stegastes arcifrons,5,8
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,2,Stegastes arcifrons,9,45
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,2,Stegastes arcifrons,15,71
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,3,Stegastes arcifrons,5,6
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,3,Stegastes arcifrons,15,33
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,4,Stegastes arcifrons,9,5
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,4,Stegastes arcifrons,15,32
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,2,Stegastes beebei,15,1
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,3,Stegastes beebei,15,8
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,1,Thalassoma lucasanum,9,5
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,2,Thalassoma lucasanum,9,18
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,3,Thalassoma lucasanum,9,2
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,3,Thalassoma lucasanum,15,4
+CSE,San Cristobal,POZA_SARDINAS_2,2,POZS,2,Xenichthys agassizii,9,37
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,1,Abudefduf concolor,15,4
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,2,Abudefduf concolor,20,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Abudefduf concolor,9,2
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Abudefduf concolor,15,2
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Abudefduf concolor,9,2
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Abudefduf concolor,15,7
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,1,Abudefduf troschelii,2,45
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,1,Abudefduf troschelii,5,3
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,2,Abudefduf troschelii,2,71
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,2,Abudefduf troschelii,5,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,2,Abudefduf troschelii,9,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Abudefduf troschelii,5,11
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Abudefduf troschelii,9,8
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Abudefduf troschelii,15,3
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Abudefduf troschelii,2,10
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Abudefduf troschelii,5,5
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Abudefduf troschelii,9,3
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Abudefduf troschelii,15,6
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Aetobatus ocellatus,55,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Archosargus pourtalesii,9,2
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Bodianus diplotaenia,15,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Bodianus diplotaenia,20,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Caranx caballus,9,2
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Caranx caballus,15,10
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,1,Chaetodon humeralis,9,3
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Chaetodon humeralis,5,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Enchelycore lichenosa,55,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,1,Epinephelus labriformis,9,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,2,Eucinostomus dowii,9,2
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Eucinostomus dowii,5,6
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Eucinostomus dowii,9,6
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Eucinostomus dowii,15,3
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,1,Haemulon scudderii,20,4
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Haemulon scudderii,9,40
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Haemulon scudderii,15,50
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,1,Halichoeres melanotis,15,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,1,Halichoeres nicholsi,5,5
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Halichoeres nicholsi,15,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Halichoeres nicholsi,5,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,1,Lutjanus argentiventris,2,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,1,Lutjanus argentiventris,25,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Lutjanus argentiventris,15,7
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Lutjanus argentiventris,20,3
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Lutjanus argentiventris,25,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Lutjanus argentiventris,15,6
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Lutjanus argentiventris,20,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,2,Lutjanus jordani,2,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Lutjanus novemfasciatus,20,8
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Lutjanus novemfasciatus,40,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Lutjanus novemfasciatus,45,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,1,Mugil curema,9,14
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Mugil curema,20,15
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Mugil curema,9,20
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,1,Muraena lentiginosa,55,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,1,Orthopristis forbesi,15,43
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,1,Plagiotremus azaleus,9,2
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,2,Plagiotremus azaleus,9,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,1,Sphoeroides annulatus,5,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,1,Sphoeroides annulatus,9,2
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,2,Sphoeroides annulatus,15,4
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,2,Sphoeroides annulatus,25,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Sphoeroides annulatus,2,50
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Sphoeroides annulatus,5,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Sphoeroides annulatus,9,4
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Sphoeroides annulatus,15,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Sphoeroides annulatus,5,5
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Sphoeroides annulatus,15,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Sphoeroides annulatus,20,2
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,1,Stegastes arcifrons,2,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,1,Stegastes arcifrons,9,2
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,2,Stegastes arcifrons,9,3
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,2,Stegastes arcifrons,15,2
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Stegastes arcifrons,5,3
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Stegastes arcifrons,9,6
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Stegastes arcifrons,5,4
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Stegastes arcifrons,9,13
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,1,Stegastes beebei,9,3
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,2,Thalassoma lucasanum,15,2
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,3,Thalassoma lucasanum,9,1
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,4,Thalassoma lucasanum,9,8
+CSE,San Cristobal,PUERTO_GRANDE_1,2,PUEG,2,Xenichthys agassizii,9,300
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,1,Abudefduf troschelii,5,4
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,1,Abudefduf concolor,15,4
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,2,Abudefduf concolor,15,2
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,1,Abudefduf troschelii,2,8
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,2,Abudefduf troschelii,5,15
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,3,Abudefduf troschelii,5,20
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,1,Bodianus diplotaenia,35,2
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,2,Bodianus diplotaenia,30,3
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,2,Bodianus diplotaenia,25,1
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,3,Bodianus diplotaenia,15,1
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,3,Bodianus diplotaenia,20,2
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,3,Bodianus diplotaenia,25,2
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,3,Bodianus diplotaenia,30,1
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,4,Bodianus diplotaenia,30,1
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,3,Epinephelus labriformis,30,1
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,4,Epinephelus labriformis,35,1
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,1,Halichoeres nicholsi,5,2
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,3,Halichoeres nicholsi,9,3
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,3,Halichoeres nicholsi,15,1
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,4,Halichoeres nicholsi,15,2
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,2,Halichoeres notospilus,15,1
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,3,Microspathodon dorsalis,15,1
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,1,Nicholsina denticulata,20,1
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,3,Nicholsina denticulata,5,2
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,3,Nicholsina denticulata,9,1
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,3,Nicholsina denticulata,15,4
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,2,Ophioblennius steindachneri,20,1
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,3,Ophioblennius steindachneri,15,1
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,1,Plagiotremus azaleus,9,2
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,1,Sphoeroides annulatus,2,11
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,1,Sphoeroides annulatus,5,1
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,2,Sphoeroides annulatus,2,50
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,2,Sphoeroides annulatus,5,11
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,3,Sphoeroides annulatus,2,20
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,2,Sphyraena idiastes,20,4
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,1,Stegastes arcifrons,5,5
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,1,Stegastes arcifrons,9,39
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,1,Stegastes arcifrons,15,5
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,2,Stegastes arcifrons,9,28
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,2,Stegastes arcifrons,15,52
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,3,Stegastes arcifrons,9,6
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,3,Stegastes arcifrons,15,58
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,4,Stegastes arcifrons,9,6
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,4,Stegastes arcifrons,15,6
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,1,Stegastes beebei,9,3
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,2,Stegastes beebei,9,6
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,2,Stegastes beebei,15,7
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,1,Thalassoma lucasanum,9,2
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,3,Thalassoma lucasanum,9,10
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,3,Thalassoma lucasanum,15,1
+CSE,San Cristobal,PUERTO_GRANDE_2,2,PUEG,3,Xenocys jessiae,9,4
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,1,Abudefduf troschelii,2,19
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,1,Abudefduf troschelii,5,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,2,Abudefduf troschelii,2,95
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,1,Apogon atradorsatus,2,1070
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,1,Apogon atradorsatus,5,335
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,3,Apogon atradorsatus,5,100
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Apogon atradorsatus,5,200
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Aulostomus chinensis,25,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,3,Balistes polylepis,9,3
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,3,Balistes polylepis,15,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,1,Bodianus diplotaenia,20,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,3,Bodianus diplotaenia,20,3
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,3,Bodianus diplotaenia,25,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Bodianus diplotaenia,25,3
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Bodianus diplotaenia,30,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,1,Cirrhitus rivulatus,30,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,3,Epinephelus labriformis,25,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,2,Eucinostomus dowii,25,8
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,1,Halichoeres dispilus,9,7
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,1,Halichoeres dispilus,15,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,2,Halichoeres dispilus,2,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,2,Halichoeres dispilus,5,6
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,1,Halichoeres nicholsi,25,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,3,Halichoeres nicholsi,20,2
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,3,Halichoeres nicholsi,25,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Halichoeres nicholsi,9,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Halichoeres nicholsi,20,2
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Halichoeres nicholsi,25,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,1,Holacanthus passer,25,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,3,Holacanthus passer,20,2
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,3,Holacanthus passer,25,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Holacanthus passer,20,2
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Holacanthus passer,25,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Holacanthus passer,30,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,2,Lutjanus aratus,25,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,2,Lutjanus argentiventris,2,13
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,2,Lutjanus argentiventris,30,2
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,2,Lutjanus argentiventris,20,22
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,2,Lutjanus argentiventris,25,4
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,3,Lutjanus argentiventris,25,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Lutjanus argentiventris,25,2
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Lutjanus argentiventris,30,13
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,2,Lutjanus novemfasciatus,30,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,3,Lutjanus viridis,15,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,2,Mugil curema,5,53
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,2,Plagiotremus azaleus,9,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Prionurus laticlavius,35,15
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Scarus ghobban,35,2
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Scarus ghobban,45,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,2,Sphoeroides annulatus,2,26
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,1,Stegastes arcifrons,5,7
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,1,Stegastes arcifrons,9,5
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,1,Stegastes arcifrons,15,15
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,2,Stegastes arcifrons,5,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,3,Stegastes arcifrons,15,6
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Stegastes arcifrons,9,5
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Stegastes arcifrons,15,6
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Sufflamen verres,35,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,1,Thalassoma lucasanum,15,3
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,3,Thalassoma lucasanum,9,2
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,3,Thalassoma lucasanum,15,1
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Thalassoma lucasanum,5,2
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Thalassoma lucasanum,9,3
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Thalassoma lucasanum,15,7
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,2,Xenocys jessiae,9,2
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,3,Xenocys jessiae,9,100
+CSE,Santiago,PUERTO_NUEVO_1,2,PUEN,4,Xenocys jessiae,9,100
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,1,Abudefduf troschelii,2,20
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,1,Abudefduf troschelii,5,8
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,2,Abudefduf troschelii,2,15
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,2,Abudefduf troschelii,5,8
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,2,Abudefduf troschelii,9,3
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Abudefduf troschelii,2,30
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Abudefduf troschelii,9,2
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,1,Anisotremus interruptus,25,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Apogon atradorsatus,5,100
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,4,Apogon atradorsatus,5,200
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Bodianus diplotaenia,15,2
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Bodianus diplotaenia,20,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Bodianus diplotaenia,25,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,4,Bodianus diplotaenia,20,3
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,4,Bodianus diplotaenia,25,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Carcharhinus limbatus,90,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Cephalopholis panamensis,30,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,2,Cirrhitus rivulatus,35,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,2,Cirrhitus rivulatus,25,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,4,Cirrhitus rivulatus,30,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,1,Dermatolepis dermatolepis,30,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Dermatolepis dermatolepis,15,3
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Epinephelus labriformis,25,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Epinephelus labriformis,20,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,4,Epinephelus labriformis,20,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,4,Epinephelus labriformis,25,2
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Eucinostomus dowii,9,3
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Eucinostomus dowii,15,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,4,Halichoeres dispilus,15,2
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,4,Halichoeres dispilus,20,2
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,1,Holacanthus passer,35,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Holacanthus passer,25,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,4,Holacanthus passer,20,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,4,Holacanthus passer,25,2
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Lutjanus argentiventris,2,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,1,Microspathodon bairdii,30,2
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,2,Microspathodon bairdii,30,3
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Microspathodon bairdii,25,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,4,Microspathodon dorsalis,30,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,4,Mycteroperca olfax,30,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,1,Ophioblennius steindachneri,25,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,2,Ophioblennius steindachneri,25,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Ophioblennius steindachneri,20,2
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Ophioblennius steindachneri,25,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,4,Ophioblennius steindachneri,15,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,4,Ophioblennius steindachneri,20,3
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,4,Paranthias colonus,20,21
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,4,Paranthias colonus,25,2
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,2,Plagiotremus azaleus,9,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,1,Prionurus laticlavius,35,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Scarus ghobban,25,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Scarus ghobban,5,3
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Scarus ghobban,9,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,1,Sphoeroides annulatus,2,20
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,4,Sphoeroides annulatus,2,100
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,2,Sphyraena idiastes,20,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,1,Stegastes acapulcoensis,15,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,1,Stegastes arcifrons,9,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,1,Stegastes arcifrons,15,4
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,2,Stegastes arcifrons,9,7
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,2,Stegastes arcifrons,15,22
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Stegastes arcifrons,9,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Stegastes arcifrons,15,9
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,1,Stegastes beebei,9,2
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,1,Stegastes beebei,15,3
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,2,Stegastes beebei,9,2
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,2,Stegastes beebei,15,20
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,1,Sufflamen verres,35,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Thalassoma lucasanum,9,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Thalassoma lucasanum,15,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,4,Thalassoma lucasanum,9,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,4,Thalassoma lucasanum,15,3
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,3,Triaenodon obesus,125,1
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,1,Xenichthys agassizii,9,40
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,1,Xenocys jessiae,9,80
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,1,Xenocys jessiae,20,220
+CSE,Santiago,PUERTO_NUEVO_2,2,PUEN,2,Xenocys jessiae,20,70
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,1,Abudefduf troschelii,2,67
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,1,Abudefduf troschelii,9,2
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,1,Abudefduf troschelii,15,2
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,2,Abudefduf troschelii,5,51
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,1,Bodianus diplotaenia,35,1
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,1,Cirrhitus rivulatus,30,1
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,1,Cirrhitus rivulatus,25,1
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,2,Epinephelus labriformis,20,1
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,1,Sphoeroides annulatus,15,1
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,2,Sphoeroides annulatus,2,5
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,2,Sphoeroides annulatus,25,1
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,1,Stegastes arcifrons,5,10
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,1,Stegastes arcifrons,9,7
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,1,Stegastes arcifrons,15,1
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,2,Stegastes arcifrons,2,1
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,2,Stegastes arcifrons,9,11
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,2,Stegastes arcifrons,15,2
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,1,Stegastes beebei,5,1
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,2,Thalassoma lucasanum,2,1
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,2,Thalassoma lucasanum,15,3
+CSE,Santiago,PUERTO_NUEVO_3,2,PUEN,1,Triaenodon obesus,120,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,1,Abudefduf troschelii,5,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,1,Lutjanus aratus,35,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,1,Mycteroperca olfax,5,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,1,Mycteroperca olfax,9,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,1,Mycteroperca olfax,15,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,1,Mycteroperca olfax,20,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,1,Sphoeroides annulatus,15,2
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,1,Stegastes arcifrons,2,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,1,Stegastes arcifrons,5,10
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,1,Stegastes arcifrons,9,16
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,1,Stegastes arcifrons,15,40
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,2,Lutjanus argentiventris,15,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,2,Mycteroperca olfax,15,4
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,2,Mycteroperca olfax,25,2
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,2,Sphoeroides annulatus,9,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,2,Sphoeroides annulatus,20,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,2,Stegastes arcifrons,2,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,2,Stegastes arcifrons,5,2
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,2,Stegastes arcifrons,9,11
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,2,Stegastes arcifrons,15,15
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,3,Abudefduf concolor,15,3
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,3,Abudefduf troschelii,9,2
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,3,Abudefduf troschelii,15,2
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,3,Anisotremus interruptus,25,15
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,3,Bodianus diplotaenia,45,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,3,Carcharhinus limbatus,105,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,3,Lutjanus argentiventris,15,5
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,3,Lutjanus argentiventris,20,2
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,3,Lutjanus argentiventris,25,2
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,3,Mycteroperca olfax,9,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,3,Mycteroperca olfax,15,4
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,3,Mycteroperca olfax,20,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,3,Mycteroperca olfax,25,2
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,3,Scarus ghobban,15,5
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,3,Sphoeroides annulatus,9,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,3,Stegastes arcifrons,9,18
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,3,Stegastes arcifrons,15,113
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,4,Abudefduf concolor,15,2
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,4,Abudefduf troschelii,9,4
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,4,Abudefduf troschelii,15,3
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,4,Mycteroperca olfax,9,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,4,Mycteroperca olfax,15,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,4,Sphoeroides annulatus,9,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,4,Sphoeroides annulatus,15,2
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,4,Sphoeroides annulatus,20,1
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,4,Stegastes arcifrons,9,13
+Western,Fernandina,PUNTA_ESPINOZA_1,2,PUNE,4,Stegastes arcifrons,15,76
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,1,Abudefduf troschelii,2,3
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,1,Mugil cephalus,20,10
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,1,Mycteroperca olfax,20,2
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,1,Mycteroperca olfax,30,1
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,1,Sphoeroides annulatus,2,1
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,1,Stegastes arcifrons,2,10
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,1,Stegastes arcifrons,5,6
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,1,Stegastes arcifrons,9,4
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,1,Stegastes arcifrons,15,40
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,2,Mugil sp,2,20
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,2,Mycteroperca olfax,25,1
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,2,Stegastes arcifrons,5,14
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,2,Stegastes arcifrons,9,12
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,2,Stegastes arcifrons,15,54
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,3,Abudefduf troschelii,5,9
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,3,Abudefduf troschelii,9,4
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,3,Archosargus pourtalesii,15,1
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,3,Bodianus diplotaenia,40,1
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,3,Girella freminvillii,20,19
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,3,Mugil sp,15,40
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,3,Mycteroperca olfax,9,1
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,3,Mycteroperca olfax,20,2
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,3,Sphoeroides annulatus,2,1
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,3,Sphoeroides annulatus,9,1
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,3,Stegastes arcifrons,9,18
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,3,Stegastes arcifrons,15,25
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,4,Abudefduf troschelii,2,1
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,4,Abudefduf troschelii,5,2
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,4,Archosargus pourtalesii,9,1
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,4,Archosargus pourtalesii,15,2
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,4,Mugil sp,15,100
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,4,Mycteroperca olfax,9,1
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,4,Mycteroperca olfax,15,1
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,4,Stegastes arcifrons,9,43
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,4,Stegastes arcifrons,15,46
+Western,Fernandina,PUNTA_ESPINOZA_2,2,PUNE,4,Stegastes arcifrons,20,16
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,1,Abudefduf troschelii,5,1
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,1,Abudefduf troschelii,9,14
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,1,Abudefduf troschelii,15,5
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,1,Halichoeres dispilus,15,1
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,1,Lutjanus argentiventris,30,2
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,1,Lutjanus argentiventris,15,4
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,1,Lutjanus argentiventris,20,4
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,1,Lutjanus argentiventris,25,3
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,1,Mycteroperca olfax,9,2
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,1,Mycteroperca olfax,20,2
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,1,Mycteroperca olfax,25,3
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,1,Scarus ghobban,20,1
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,1,Scarus ghobban,25,2
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,1,Stegastes arcifrons,5,3
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,1,Stegastes arcifrons,9,3
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,1,Stegastes arcifrons,15,1
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,2,Abudefduf troschelii,9,6
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,2,Lutjanus argentiventris,15,4
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,2,Lutjanus argentiventris,20,1
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,2,Mycteroperca olfax,9,2
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,2,Mycteroperca olfax,15,3
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,2,Mycteroperca olfax,20,3
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,2,Stegastes arcifrons,5,1
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,2,Stegastes arcifrons,9,1
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,3,Abudefduf troschelii,2,10
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,3,Abudefduf troschelii,5,10
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,3,Abudefduf troschelii,9,10
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,3,Abudefduf troschelii,15,16
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,3,Halichoeres nicholsi,20,1
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,3,Lutjanus aratus,35,1
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,3,Lutjanus argentiventris,9,3
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,3,Lutjanus argentiventris,15,10
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,3,Lutjanus argentiventris,20,1
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,3,Lutjanus argentiventris,25,1
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,3,Scarus ghobban,5,2
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,3,Scarus ghobban,9,1
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,3,Scarus ghobban,15,1
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,3,Serranus psittacinus,9,1
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,3,Serranus psittacinus,15,4
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,3,Stegastes arcifrons,9,9
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,3,Stegastes arcifrons,15,4
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,3,Thalassoma lucasanum,5,3
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,4,Abudefduf troschelii,2,20
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,4,Abudefduf troschelii,9,42
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,4,Archosargus pourtalesii,15,11
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,4,Lutjanus argentiventris,9,6
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,4,Lutjanus argentiventris,15,27
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,4,Lutjanus argentiventris,20,3
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,4,Mycteroperca olfax,9,1
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,4,Mycteroperca olfax,15,1
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,4,Stegastes arcifrons,5,1
+Western,Fernandina,PUNTA_MANGLE_1,2,PUNM,4,Stegastes arcifrons,9,11
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,1,Abudefduf troschelii,2,15
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,1,Eucinostomus dowii,2,1
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,1,Lutjanus argentiventris,35,1
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,1,Lutjanus argentiventris,30,2
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,1,Lutjanus argentiventris,25,3
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,1,Lutjanus novemfasciatus,40,1
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,1,Lutjanus novemfasciatus,30,1
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,1,Lutjanus novemfasciatus,25,1
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,1,Mugil cephalus,5,16
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,1,Mycteroperca olfax,25,1
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,1,Plagiotremus azaleus,9,1
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,1,Sphoeroides annulatus,25,1
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,1,Stegastes arcifrons,5,1
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,1,Stegastes arcifrons,9,18
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,1,Stegastes arcifrons,15,41
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,2,Abudefduf troschelii,2,10
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,2,Abudefduf troschelii,5,2
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,2,Abudefduf troschelii,9,2
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,2,Lutjanus argentiventris,25,2
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,2,Mycteroperca olfax,15,2
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,2,Mycteroperca olfax,30,1
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,2,Stegastes arcifrons,5,3
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,2,Stegastes arcifrons,9,6
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,2,Stegastes arcifrons,15,28
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,3,Abudefduf troschelii,2,11
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,3,Abudefduf troschelii,5,2
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,3,Abudefduf troschelii,9,1
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,3,Abudefduf troschelii,15,1
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,3,Arothron hispidus,45,1
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,3,Girella freminvillii,25,10
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,3,Kyphosus elegans,30,1
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,3,Lutjanus argentiventris,15,1
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,3,Lutjanus novemfasciatus,35,1
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,3,Mugil galapagensis,35,15
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,3,Sphoeroides annulatus,15,1
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,3,Stegastes arcifrons,9,5
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,3,Stegastes arcifrons,15,1
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,4,Lutjanus argentiventris,25,1
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,4,Mugil curema,25,8
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,4,Mycteroperca olfax,25,1
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,4,Stegastes arcifrons,9,4
+Western,Isabela W,PUNTA_MORENO_1,2,PUMO,4,Stegastes arcifrons,15,5
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,1,Abudefduf troschelii,2,5
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,1,Abudefduf troschelii,5,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,2,Abudefduf troschelii,2,9
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,2,Abudefduf troschelii,5,3
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,3,Abudefduf troschelii,2,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,3,Abudefduf troschelii,5,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,4,Abudefduf troschelii,2,3
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,4,Abudefduf troschelii,5,2
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,4,Caranx caninus,9,3
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,4,Caranx caninus,15,2
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,4,Eucinostomus dowii,20,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,4,Lutjanus aratus,25,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,1,Lutjanus argentiventris,2,4
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,1,Lutjanus argentiventris,20,2
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,2,Lutjanus argentiventris,2,3
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,2,Lutjanus argentiventris,35,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,2,Lutjanus argentiventris,30,2
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,2,Lutjanus argentiventris,25,2
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,3,Lutjanus argentiventris,2,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,3,Lutjanus argentiventris,15,4
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,3,Lutjanus argentiventris,20,3
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,3,Lutjanus argentiventris,25,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,4,Lutjanus argentiventris,5,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,4,Lutjanus argentiventris,15,3
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,4,Lutjanus argentiventris,20,5
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,1,Lutjanus novemfasciatus,2,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,2,Lutjanus novemfasciatus,2,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,2,Lutjanus novemfasciatus,35,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,2,Lutjanus novemfasciatus,30,4
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,3,Lutjanus novemfasciatus,25,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,3,Lutjanus novemfasciatus,30,2
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,3,Lutjanus novemfasciatus,35,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,4,Lutjanus novemfasciatus,25,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,4,Lutjanus novemfasciatus,30,2
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,4,Lutjanus novemfasciatus,35,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,4,Lutjanus novemfasciatus,40,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,4,Lutjanus novemfasciatus,45,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,4,Myrichthys tigrinus,50,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,1,Sphoeroides annulatus,15,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,2,Sphoeroides annulatus,20,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,3,Sphoeroides annulatus,9,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,4,Sphoeroides annulatus,9,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,4,Sphoeroides annulatus,15,1
+CSE,Santa Cruz,ROCAFUERTE_1,2,ROC,4,Xenocys jessiae,9,10
+CSE,Santiago,SARTEN_1,1,SAR,1,Abudefduf troschelii,2,12
+CSE,Santiago,SARTEN_1,1,SAR,1,Abudefduf troschelii,9,1
+CSE,Santiago,SARTEN_1,1,SAR,2,Abudefduf troschelii,2,2
+CSE,Santiago,SARTEN_1,1,SAR,2,Abudefduf troschelii,5,22
+CSE,Santiago,SARTEN_1,1,SAR,2,Abudefduf troschelii,9,2
+CSE,Santiago,SARTEN_1,2,SAR,3,Abudefduf troschelii,2,12
+CSE,Santiago,SARTEN_1,2,SAR,3,Abudefduf troschelii,5,11
+CSE,Santiago,SARTEN_1,2,SAR,4,Abudefduf troschelii,2,6
+CSE,Santiago,SARTEN_1,2,SAR,4,Abudefduf troschelii,5,4
+CSE,Santiago,SARTEN_1,1,SAR,1,Chaetodon humeralis,9,1
+CSE,Santiago,SARTEN_1,1,SAR,2,Chaetodon humeralis,9,1
+CSE,Santiago,SARTEN_1,1,SAR,1,Eucinostomus dowii,2,3
+CSE,Santiago,SARTEN_1,1,SAR,1,Eucinostomus dowii,9,1
+CSE,Santiago,SARTEN_1,1,SAR,2,Eucinostomus dowii,9,5
+CSE,Santiago,SARTEN_1,2,SAR,3,Eucinostomus dowii,2,3
+CSE,Santiago,SARTEN_1,2,SAR,3,Eucinostomus dowii,5,1
+CSE,Santiago,SARTEN_1,2,SAR,4,Halichoeres dispilus,9,1
+CSE,Santiago,SARTEN_1,1,SAR,1,Lutjanus argentiventris,2,5
+CSE,Santiago,SARTEN_1,1,SAR,1,Lutjanus argentiventris,9,6
+CSE,Santiago,SARTEN_1,1,SAR,2,Lutjanus argentiventris,9,1
+CSE,Santiago,SARTEN_1,1,SAR,2,Lutjanus argentiventris,20,3
+CSE,Santiago,SARTEN_1,2,SAR,3,Lutjanus argentiventris,2,3
+CSE,Santiago,SARTEN_1,2,SAR,3,Lutjanus argentiventris,9,1
+CSE,Santiago,SARTEN_1,2,SAR,3,Lutjanus argentiventris,15,2
+CSE,Santiago,SARTEN_1,2,SAR,4,Lutjanus argentiventris,2,5
+CSE,Santiago,SARTEN_1,2,SAR,4,Lutjanus argentiventris,5,2
+CSE,Santiago,SARTEN_1,1,SAR,1,Lutjanus novemfasciatus,2,4
+CSE,Santiago,SARTEN_1,1,SAR,2,Lutjanus novemfasciatus,2,1
+CSE,Santiago,SARTEN_1,1,SAR,1,Myrichthys tigrinus,40,1
+CSE,Santiago,SARTEN_1,1,SAR,2,Plagiotremus azaleus,9,1
+CSE,Santiago,SARTEN_1,1,SAR,1,Sphoeroides annulatus,9,2
+CSE,Santiago,SARTEN_1,1,SAR,2,Sphoeroides annulatus,15,1
+CSE,Santiago,SARTEN_1,2,SAR,3,Sphoeroides annulatus,2,1
+CSE,Santiago,SARTEN_1,2,SAR,4,Sphoeroides annulatus,2,100
+CSE,Santiago,SARTEN_1,2,SAR,4,Sphoeroides annulatus,9,1
+CSE,Santiago,SARTEN_1,1,SAR,1,Stegastes arcifrons,2,1
+CSE,Santiago,SARTEN_1,1,SAR,1,Stegastes arcifrons,5,4
+CSE,Santiago,SARTEN_1,1,SAR,1,Stegastes arcifrons,9,2
+CSE,Santiago,SARTEN_1,1,SAR,2,Stegastes arcifrons,2,1
+CSE,Santiago,SARTEN_1,1,SAR,2,Stegastes arcifrons,5,20
+CSE,Santiago,SARTEN_1,1,SAR,2,Stegastes arcifrons,9,6
+CSE,Santiago,SARTEN_1,2,SAR,3,Stegastes arcifrons,2,6
+CSE,Santiago,SARTEN_1,2,SAR,3,Stegastes arcifrons,9,2
+CSE,Santiago,SARTEN_1,2,SAR,4,Stegastes arcifrons,2,1
+CSE,Santiago,SARTEN_1,2,SAR,4,Stegastes arcifrons,5,4
+CSE,Santiago,SARTEN_1,2,SAR,4,Stegastes arcifrons,9,1
+CSE,Santiago,SARTEN_1,2,SAR,3,Thalassoma lucasanum,2,1
+CSE,Santiago,SARTEN_1,2,SAR,3,Thalassoma lucasanum,5,5
+CSE,Santiago,SARTEN_1,2,SAR,3,Thalassoma lucasanum,9,2
+CSE,Santiago,SARTEN_1,2,SAR,4,Thalassoma lucasanum,9,1
+CSE,Santiago,SARTEN_1,1,SAR,2,Xenocys jessiae,9,5
+CSE,Santiago,SARTEN_2,1,SAR,1,Abudefduf concolor,15,1
+CSE,Santiago,SARTEN_2,1,SAR,2,Abudefduf concolor,15,4
+CSE,Santiago,SARTEN_2,1,SAR,1,Abudefduf troschelii,9,5
+CSE,Santiago,SARTEN_2,1,SAR,2,Abudefduf troschelii,9,6
+CSE,Santiago,SARTEN_2,1,SAR,2,Chaetodon humeralis,9,1
+CSE,Santiago,SARTEN_2,1,SAR,1,Epinephelus labriformis,20,1
+CSE,Santiago,SARTEN_2,1,SAR,2,Eucinostomus dowii,9,6
+CSE,Santiago,SARTEN_2,1,SAR,2,Halichoeres dispilus,9,3
+CSE,Santiago,SARTEN_2,1,SAR,1,Mugil cephalus,35,10
+CSE,Santiago,SARTEN_2,1,SAR,1,Stegastes arcifrons,9,35
+CSE,Santiago,SARTEN_2,1,SAR,1,Stegastes arcifrons,15,46
+CSE,Santiago,SARTEN_2,1,SAR,2,Stegastes arcifrons,9,24
+CSE,Santiago,SARTEN_2,1,SAR,2,Stegastes arcifrons,15,9
+CSE,Santiago,SARTEN_2,1,SAR,1,Xenocys jessiae,15,390
+CSE,Santiago,SARTEN_2,1,SAR,1,Xenocys jessiae,20,30
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Abudefduf troschelii,5,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,1,Anisotremus interruptus,35,2
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,1,Anisotremus interruptus,30,22
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Anisotremus interruptus,35,2
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Anisotremus interruptus,30,2
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,3,Anisotremus interruptus,30,2
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Hypanus dipterurus,35,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Eucinostomus dowii,5,5
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,3,Eucinostomus dowii,5,2
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,3,Eucinostomus dowii,30,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,4,Eucinostomus dowii,20,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,4,Lutjanus aratus,15,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,1,Lutjanus argentiventris,50,3
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,1,Lutjanus argentiventris,45,11
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,1,Lutjanus argentiventris,15,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,1,Lutjanus argentiventris,20,2
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,1,Lutjanus argentiventris,30,9
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Lutjanus argentiventris,2,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Lutjanus argentiventris,5,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Lutjanus argentiventris,9,2
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Lutjanus argentiventris,15,3
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Lutjanus argentiventris,20,2
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Lutjanus argentiventris,25,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Lutjanus argentiventris,35,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Lutjanus argentiventris,40,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,3,Lutjanus argentiventris,2,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,3,Lutjanus argentiventris,15,8
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,4,Lutjanus argentiventris,9,2
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,4,Lutjanus argentiventris,15,5
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,1,Lutjanus jordani,20,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Lutjanus jordani,35,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Lutjanus jordani,20,3
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Lutjanus jordani,30,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,1,Lutjanus novemfasciatus,2,3
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,1,Lutjanus novemfasciatus,55,2
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,1,Lutjanus novemfasciatus,50,55
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,1,Lutjanus novemfasciatus,45,12
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Lutjanus novemfasciatus,2,16
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Lutjanus novemfasciatus,30,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Lutjanus novemfasciatus,35,3
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Lutjanus novemfasciatus,40,8
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Lutjanus novemfasciatus,45,2
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Lutjanus novemfasciatus,50,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Lutjanus novemfasciatus,55,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,3,Lutjanus novemfasciatus,45,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,4,Lutjanus novemfasciatus,20,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,4,Lutjanus novemfasciatus,25,4
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,1,Mycteroperca olfax,25,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,4,Mycteroperca olfax,9,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,4,Mycteroperca olfax,15,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,1,Sphoeroides annulatus,15,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,1,Sphoeroides annulatus,20,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Sphoeroides annulatus,15,4
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Sphoeroides annulatus,20,4
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,3,Sphoeroides annulatus,5,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,3,Sphoeroides annulatus,9,3
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,3,Sphoeroides annulatus,15,2
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,3,Sphoeroides annulatus,20,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,4,Sphoeroides annulatus,5,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,4,Sphoeroides annulatus,9,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,4,Sphoeroides annulatus,15,5
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,4,Sphoeroides annulatus,20,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,1,TOR,2,Stegastes arcifrons,5,1
+CSE,Santa Cruz,TORTUGA_NEGRA_1,2,TOR,3,Stegastes arcifrons,9,4
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Archosargus pourtalesii,9,4
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Archosargus pourtalesii,15,6
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Archosargus pourtalesii,20,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Archosargus pourtalesii,9,2
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Archosargus pourtalesii,15,6
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Archosargus pourtalesii,20,14
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Archosargus pourtalesii,9,5
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,4,Archosargus pourtalesii,9,4
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Chaetodon humeralis,9,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Hypanus dipterurus,45,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Eucinostomus dowii,9,8
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Eucinostomus dowii,5,13
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Eucinostomus dowii,9,15
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Eucinostomus dowii,20,8
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Eucinostomus dowii,2,10
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Eucinostomus dowii,5,32
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Eucinostomus dowii,9,12
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Eucinostomus dowii,20,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,4,Eucinostomus dowii,5,16
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,4,Eucinostomus dowii,9,32
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,4,Eucinostomus dowii,15,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,4,Eucinostomus dowii,25,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Lutjanus aratus,15,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Lutjanus argentiventris,2,37
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Lutjanus argentiventris,5,6
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Lutjanus argentiventris,9,4
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Lutjanus argentiventris,15,12
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Lutjanus argentiventris,20,3
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Lutjanus argentiventris,2,12
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Lutjanus argentiventris,5,4
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Lutjanus argentiventris,9,6
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Lutjanus argentiventris,15,3
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Lutjanus argentiventris,20,3
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Lutjanus argentiventris,2,4
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Lutjanus argentiventris,5,3
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Lutjanus argentiventris,9,3
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Lutjanus argentiventris,15,17
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Lutjanus argentiventris,20,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,4,Lutjanus argentiventris,2,2
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,4,Lutjanus argentiventris,5,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,4,Lutjanus argentiventris,9,3
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,4,Lutjanus argentiventris,15,7
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Lutjanus jordani,15,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Lutjanus jordani,9,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Lutjanus novemfasciatus,2,16
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Lutjanus novemfasciatus,5,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Lutjanus novemfasciatus,9,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Lutjanus novemfasciatus,45,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Lutjanus novemfasciatus,20,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Lutjanus novemfasciatus,25,2
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Lutjanus novemfasciatus,30,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Lutjanus novemfasciatus,35,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Lutjanus novemfasciatus,2,15
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Lutjanus novemfasciatus,35,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Lutjanus novemfasciatus,15,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Lutjanus novemfasciatus,30,2
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Lutjanus novemfasciatus,25,3
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Lutjanus novemfasciatus,25,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Lutjanus novemfasciatus,30,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Lutjanus novemfasciatus,40,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Lutjanus novemfasciatus,45,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,4,Lutjanus novemfasciatus,20,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,4,Lutjanus novemfasciatus,30,2
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,4,Lutjanus novemfasciatus,35,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Mycteroperca olfax,9,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Sphoeroides annulatus,9,6
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Sphoeroides annulatus,15,7
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Sphoeroides annulatus,20,5
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,1,Sphoeroides annulatus,25,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Sphoeroides annulatus,15,4
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Sphoeroides annulatus,20,3
+CSE,Santa Cruz,TORTUGA_NEGRA_2,1,TOR,2,Sphoeroides annulatus,25,1
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Sphoeroides annulatus,2,2
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Sphoeroides annulatus,5,3
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Sphoeroides annulatus,9,4
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Sphoeroides annulatus,15,2
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,4,Sphoeroides annulatus,5,4
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,4,Sphoeroides annulatus,9,9
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,4,Sphoeroides annulatus,15,5
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Stegastes arcifrons,5,2
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,3,Stegastes arcifrons,9,4
+CSE,Santa Cruz,TORTUGA_NEGRA_2,2,TOR,4,Stegastes arcifrons,9,4
+CSE,Santa Cruz,TORTUGA_NEGRA_3,2,TOR,3,Abudefduf concolor,15,1
+CSE,Santa Cruz,TORTUGA_NEGRA_3,1,TOR,1,Abudefduf troschelii,2,115
+CSE,Santa Cruz,TORTUGA_NEGRA_3,2,TOR,3,Abudefduf troschelii,5,1
+CSE,Santa Cruz,TORTUGA_NEGRA_3,2,TOR,3,Abudefduf troschelii,9,2
+CSE,Santa Cruz,TORTUGA_NEGRA_3,2,TOR,4,Abudefduf troschelii,5,15
+CSE,Santa Cruz,TORTUGA_NEGRA_3,1,TOR,1,Bodianus diplotaenia,9,1
+CSE,Santa Cruz,TORTUGA_NEGRA_3,1,TOR,1,Bodianus diplotaenia,30,1
+CSE,Santa Cruz,TORTUGA_NEGRA_3,2,TOR,4,Bodianus diplotaenia,15,2
+CSE,Santa Cruz,TORTUGA_NEGRA_3,1,TOR,1,Halichoeres dispilus,5,20
+CSE,Santa Cruz,TORTUGA_NEGRA_3,2,TOR,3,Halichoeres dispilus,5,1
+CSE,Santa Cruz,TORTUGA_NEGRA_3,2,TOR,3,Halichoeres dispilus,9,3
+CSE,Santa Cruz,TORTUGA_NEGRA_3,1,TOR,1,Ostracion meleagris,25,1
+CSE,Santa Cruz,TORTUGA_NEGRA_3,1,TOR,1,Stegastes arcifrons,2,8
+CSE,Santa Cruz,TORTUGA_NEGRA_3,1,TOR,1,Stegastes arcifrons,5,1
+CSE,Santa Cruz,TORTUGA_NEGRA_3,1,TOR,1,Stegastes arcifrons,9,17
+CSE,Santa Cruz,TORTUGA_NEGRA_3,1,TOR,1,Stegastes arcifrons,15,59
+CSE,Santa Cruz,TORTUGA_NEGRA_3,2,TOR,3,Stegastes arcifrons,9,7
+CSE,Santa Cruz,TORTUGA_NEGRA_3,2,TOR,3,Stegastes arcifrons,15,8
+CSE,Santa Cruz,TORTUGA_NEGRA_3,2,TOR,4,Stegastes arcifrons,9,11
+CSE,Santa Cruz,TORTUGA_NEGRA_3,2,TOR,4,Stegastes arcifrons,15,5
+CSE,Santa Cruz,TORTUGA_NEGRA_3,2,TOR,3,Stegastes beebei,9,11
+CSE,Santa Cruz,TORTUGA_NEGRA_3,2,TOR,3,Thalassoma lucasanum,9,6
+CSE,Santa Cruz,TORTUGA_NEGRA_3,2,TOR,3,Thalassoma lucasanum,15,1
+CSE,Santa Cruz,TORTUGA_NEGRA_3,1,TOR,1,Xenocys jessiae,9,5
+CSE,Santa Cruz,TORTUGA_NEGRA_3,1,TOR,1,Xenocys jessiae,15,30
+Western,Isabela W,URBINA_1,2,URB,1,Abudefduf concolor,20,1
+Western,Isabela W,URBINA_1,2,URB,1,Abudefduf troschelii,15,1
+Western,Isabela W,URBINA_1,2,URB,1,Lutjanus argentiventris,15,2
+Western,Isabela W,URBINA_1,2,URB,1,Lutjanus argentiventris,20,6
+Western,Isabela W,URBINA_1,2,URB,1,Lutjanus argentiventris,25,2
+Western,Isabela W,URBINA_1,2,URB,1,Lutjanus novemfasciatus,35,1
+Western,Isabela W,URBINA_1,2,URB,1,Lutjanus novemfasciatus,30,1
+Western,Isabela W,URBINA_1,2,URB,1,Mycteroperca olfax,9,1
+Western,Isabela W,URBINA_1,2,URB,1,Mycteroperca olfax,15,2
+Western,Isabela W,URBINA_1,2,URB,1,Mycteroperca olfax,20,6
+Western,Isabela W,URBINA_1,2,URB,1,Scarus ghobban,20,7
+Western,Isabela W,URBINA_1,2,URB,1,Sphoeroides annulatus,20,1
+Western,Isabela W,URBINA_1,2,URB,1,Stegastes arcifrons,2,7
+Western,Isabela W,URBINA_1,2,URB,1,Stegastes arcifrons,5,7
+Western,Isabela W,URBINA_1,2,URB,1,Stegastes arcifrons,9,9
+Western,Isabela W,URBINA_1,2,URB,1,Thalassoma lucasanum,15,1
+Western,Isabela W,URBINA_1,2,URB,1,Thalassoma lucasanum,20,1
+Western,Isabela W,URBINA_1,2,URB,2,Abudefduf concolor,20,2
+Western,Isabela W,URBINA_1,2,URB,2,Abudefduf troschelii,9,1
+Western,Isabela W,URBINA_1,2,URB,2,Lutjanus argentiventris,15,1
+Western,Isabela W,URBINA_1,2,URB,2,Lutjanus argentiventris,20,2
+Western,Isabela W,URBINA_1,2,URB,2,Lutjanus argentiventris,25,2
+Western,Isabela W,URBINA_1,2,URB,2,Lutjanus novemfasciatus,30,1
+Western,Isabela W,URBINA_1,2,URB,2,Mycteroperca olfax,9,1
+Western,Isabela W,URBINA_1,2,URB,2,Mycteroperca olfax,15,1
+Western,Isabela W,URBINA_1,2,URB,2,Scarus ghobban,15,1
+Western,Isabela W,URBINA_1,2,URB,2,Stegastes arcifrons,5,7
+Western,Isabela W,URBINA_1,2,URB,2,Stegastes arcifrons,9,5
+Western,Isabela W,URBINA_1,2,URB,2,Stegastes arcifrons,15,6
+Western,Isabela W,URBINA_1,2,URB,3,Abudefduf concolor,15,1
+Western,Isabela W,URBINA_1,2,URB,3,Abudefduf troschelii,9,3
+Western,Isabela W,URBINA_1,2,URB,3,Abudefduf troschelii,15,1
+Western,Isabela W,URBINA_1,2,URB,3,Bodianus diplotaenia,35,1
+Western,Isabela W,URBINA_1,2,URB,3,Lutjanus argentiventris,15,4
+Western,Isabela W,URBINA_1,2,URB,3,Lutjanus argentiventris,20,1
+Western,Isabela W,URBINA_1,2,URB,3,Lutjanus argentiventris,25,2
+Western,Isabela W,URBINA_1,2,URB,3,Lutjanus argentiventris,30,1
+Western,Isabela W,URBINA_1,2,URB,3,Lutjanus argentiventris,40,1
+Western,Isabela W,URBINA_1,2,URB,3,Lutjanus novemfasciatus,25,7
+Western,Isabela W,URBINA_1,2,URB,3,Lutjanus novemfasciatus,30,1
+Western,Isabela W,URBINA_1,2,URB,3,Lutjanus novemfasciatus,40,1
+Western,Isabela W,URBINA_1,2,URB,3,Mycteroperca olfax,15,2
+Western,Isabela W,URBINA_1,2,URB,3,Mycteroperca olfax,20,1
+Western,Isabela W,URBINA_1,2,URB,3,Rhinoptera steindachneri,45,1
+Western,Isabela W,URBINA_1,2,URB,3,Scarus ghobban,9,4
+Western,Isabela W,URBINA_1,2,URB,3,Scarus ghobban,15,5
+Western,Isabela W,URBINA_1,2,URB,3,Scarus ghobban,30,1
+Western,Isabela W,URBINA_1,2,URB,3,Stegastes arcifrons,5,2
+Western,Isabela W,URBINA_1,2,URB,3,Stegastes arcifrons,9,5
+Western,Isabela W,URBINA_1,2,URB,4,Abudefduf concolor,9,3
+Western,Isabela W,URBINA_1,2,URB,4,Abudefduf concolor,15,7
+Western,Isabela W,URBINA_1,2,URB,4,Abudefduf concolor,20,2
+Western,Isabela W,URBINA_1,2,URB,4,Abudefduf troschelii,2,30
+Western,Isabela W,URBINA_1,2,URB,4,Abudefduf troschelii,9,1
+Western,Isabela W,URBINA_1,2,URB,4,Abudefduf troschelii,15,4
+Western,Isabela W,URBINA_1,2,URB,4,Eucinostomus dowii,9,2
+Western,Isabela W,URBINA_1,2,URB,4,Eucinostomus dowii,15,1
+Western,Isabela W,URBINA_1,2,URB,4,Lutjanus argentiventris,9,1
+Western,Isabela W,URBINA_1,2,URB,4,Lutjanus argentiventris,15,3
+Western,Isabela W,URBINA_1,2,URB,4,Lutjanus argentiventris,20,1
+Western,Isabela W,URBINA_1,2,URB,4,Mugil sp,35,50
+Western,Isabela W,URBINA_1,2,URB,4,Scarus ghobban,9,6
+Western,Isabela W,URBINA_1,2,URB,4,Sphoeroides annulatus,9,1
+Western,Isabela W,URBINA_1,2,URB,4,Stegastes arcifrons,5,1
+Western,Isabela W,URBINA_1,2,URB,4,Stegastes arcifrons,15,1
+Western,Isabela W,URBINA_1,2,URB,4,Stegastes beebei,9,12
+Western,Isabela W,URBINA_1,2,URB,4,Thalassoma lucasanum,9,1
+Western,Isabela W,URBINA_2,2,URB,1,Lutjanus argentiventris,40,1
+Western,Isabela W,URBINA_2,2,URB,1,Lutjanus argentiventris,35,1
+Western,Isabela W,URBINA_2,2,URB,1,Lutjanus argentiventris,30,1
+Western,Isabela W,URBINA_2,2,URB,1,Lutjanus argentiventris,25,7
+Western,Isabela W,URBINA_2,2,URB,1,Lutjanus jordani,35,1
+Western,Isabela W,URBINA_2,2,URB,2,Lutjanus novemfasciatus,35,1
+Western,Isabela W,URBINA_2,2,URB,2,Lutjanus novemfasciatus,20,1
+Western,Isabela W,URBINA_2,2,URB,2,Lutjanus novemfasciatus,30,1
+Western,Isabela W,URBINA_2,2,URB,2,Mycteroperca olfax,15,1
+Western,Isabela W,URBINA_2,2,URB,2,Stegastes arcifrons,5,2
+Western,Isabela W,URBINA_2,2,URB,2,Stegastes arcifrons,9,1
+Western,Isabela W,URBINA_2,2,URB,3,Lutjanus argentiventris,9,1
+Western,Isabela W,URBINA_2,2,URB,3,Lutjanus argentiventris,20,5
+Western,Isabela W,URBINA_2,2,URB,3,Lutjanus argentiventris,25,1
+Western,Isabela W,URBINA_2,2,URB,3,Lutjanus novemfasciatus,25,1
+Western,Isabela W,URBINA_2,2,URB,3,Lutjanus novemfasciatus,30,1
+Western,Isabela W,URBINA_2,2,URB,3,Lutjanus novemfasciatus,35,1
+Western,Isabela W,URBINA_2,2,URB,3,Lutjanus novemfasciatus,40,1
+Western,Isabela W,URBINA_2,2,URB,4,Lutjanus argentiventris,15,4
+Western,Isabela W,URBINA_2,2,URB,4,Lutjanus argentiventris,20,2
