@@ -23,7 +23,8 @@ kde.compare <- function(length = Pagrus_auratus$Length,
   #Adding tidyverse to be able to use pipes and ggplot - DFA
   tidy.check <- require(tidyverse, quietly = TRUE)
   if(tidy.check == FALSE) {install.packages('tidyverse')}
-  print(paste(c('Dependencies Installed:', require(sm,quietly = TRUE), require(KernSmooth, quietly = TRUE),
+  print(paste(c('Dependencies Installed:', require(sm,quietly = TRUE), 
+                require(KernSmooth, quietly = TRUE),
                 require(tidyverse, quietly = T))))
   
   library(sm) #should load without error
@@ -72,8 +73,8 @@ kde.compare <- function(length = Pagrus_auratus$Length,
         opt$band <- FALSE
       else opt$band <- TRUE}
     
-    if ((model == "none") && opt$band) 
-      opt$band <- FALSE
+    if ((model == "none") && opt$band){
+      opt$band <- FALSE}
     band <- opt$band
     ngrid <- opt$ngrid
     xlim <- opt$xlim
@@ -237,5 +238,3 @@ kde.compare <- function(length = Pagrus_auratus$Length,
 #             main = 'Choerodon rubescens')
 
 #######################################
-
-sm.density.compare()
