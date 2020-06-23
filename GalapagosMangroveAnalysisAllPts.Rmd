@@ -1,7 +1,7 @@
 ---
 title: "Mangrove fish assemblages from the Galapagos Islands"
 author: "Denisse Fierro Arcos"
-date: '2020-03-03'
+date: '2020-06-11'
 output:
   html_document: default
   pdf_document: default
@@ -237,7 +237,8 @@ CountsALL %>% group_by(Method, Bioregion) %>%
 #### Number of fish classified as Silvery Fish
 ```{r Not Identified}
 #Fish that could not be identified to species level (Silvery Fish)
-CountsALL %>% filter(grepl("*silvery*", Species)) %>% summarise(Tot = sum(N, na.rm = T))
+CountsALL %>% filter(grepl("*silvery*", Species)) %>% summarise(Tot = sum(N, na.rm = T)) %>%
+  pull() #pull extracts the number from summary
 ```
 
 ### Biodiversity measures
@@ -383,7 +384,7 @@ ggsave("Figures/Pielou_AllPts.tiff", Pielou, device = "tiff", dpi = 500)
 adonis(Pielou ~ Bioregion*Method, data = BioAll %>% drop_na(), method = "euc", permutations = 9999)
 ```
 
-### Plotting fish community composition
+### Plotting fish community composition - Families
 ```{r fish community by method}
 #By method
 Counts <- CountsALL %>%
@@ -405,7 +406,7 @@ Counts <- CountsALL %>%
          Family = factor(Family, ordered = T),
          Ord = case_when(Family == "Other Families" ~ 1,
                          TRUE ~ Prop)) %>%
-  mutate(Family = fct_reorder(Family, Ord, .desc = T))
+  mutate(Family = fct_reorder(Family, Ord, .desc = F))
 ```
 
 ```{r graph fish community by method}
@@ -416,32 +417,29 @@ Counts <- CountsALL %>%
 #   unite(Label, Family, N, sep = ": ")
 
 #Graphs - Pie charts
-p1 <- Counts %>% ggplot(aes(x = factor(1), stat = "bin", fill = Family))+
-  geom_bar(position = "fill", color = "white")+
-  facet_grid(facets = Method ~.)+
-  coord_polar(theta="y")+
-  theme_void()+
-  scale_fill_manual(values = c("#a6cee3", "#1f78b4", "#b2df8a", "#33a02c", "#fb9a99", "#e31a1c",
-                               "#ff7f00", "#cab2d6", "#6a3d9a"))+
-  theme(text = element_text(family = "sans", size = 14, vjust = 0.75),
-                            legend.position = "none")
-
-# Graphs - Bar plots
-# p1 <- ggplot(Counts %>% arrange(Family, Method, desc(Ord)), 
-#          aes(x = Method, y = Prop, fill = Family))+
-#   geom_bar(position = "stack", stat = "identity")+
+# p1 <- Counts %>% ggplot(aes(x = factor(1), stat = "bin", fill = Family))+
+#   geom_bar(position = "fill", color = "white")+
+#   facet_grid(facets = Method ~.)+
+#   coord_polar(theta="y")+
+#   theme_void()+
 #   scale_fill_manual(values = c("#a6cee3", "#1f78b4", "#b2df8a", "#33a02c", "#fb9a99", "#e31a1c",
 #                                "#ff7f00", "#cab2d6", "#6a3d9a"))+
-#   coord_flip()+
-#   scale_x_discrete(limits = rev(levels(as.factor(Counts$Method))))+
-#   labs(x = "Methods", y = "")+
-#   theme_bw()+theme(axis.title = element_text(family = "sans", size = 12), 
-#                    axis.text.y = element_text(angle = 90, hjust = 0.5),
-#                    axis.text = element_text(family = "sans", size = 12),
-#                    legend.text = element_text(family = "sans", size = 12),
-#                    legend.title = element_text(family = "sans", size = 12),
-#                    legend.position = "none",
-#                    axis.ticks.length.x = unit(0.25, "cm"))
+#   theme(text = element_text(family = "sans", size = 14, vjust = 0.75),
+#                             legend.position = "none")
+
+# Graphs - Bar plots
+p1 <- Counts %>% ggplot(aes(x = factor(1), stat = "bin", fill = Family))+
+  geom_bar(position = "fill", color = "white")+
+  facet_grid(facets = Method ~ .)+
+  scale_fill_manual(values = c("#a6cee3", "#1f78b4", "#b2df8a", "#33a02c", "#fb9a99", "#e31a1c",
+                               "#ff7f00", "#cab2d6", "#6a3d9a"))+
+  coord_flip()+
+  labs(x = "Methods", y = "")+
+  theme_bw()+theme(axis.title = element_text(family = "sans", size = 12),
+                   axis.text.y = element_blank(),
+                   axis.text = element_text(family = "sans", size = 12),
+                   legend.position = "none",
+                   axis.ticks.y = element_blank())
 #Removing in figure annotations including the actual number of other families sampled as per
 #reviewer's comments.
 # +
@@ -475,43 +473,43 @@ CountsBioM <- CountsALL %>%
   mutate(Family = factor(Family, ordered = T), 
          Ord = case_when(Family == "Other Families" ~ 1,
                          TRUE ~ Prop)) %>% 
-  mutate(Family = fct_reorder(Family, Ord, .desc = T))
+  mutate(Family = fct_reorder(Family, Ord, .desc = F))
 ```
 
 ```{r graph fish community by method & bioregion}
 #Graph - Pie charts
-p2 <- CountsBioM %>% ggplot(aes(x = factor(1), stat = "bin", fill = Family))+
-  geom_bar(position = "fill", color = "white")+
-  facet_grid(facets = Method ~ Bioregion)+
-  coord_polar(theta="y")+
-  theme_void()+
-  scale_fill_manual(values = c("#1f78b4", "#a6cee3", "#b2df8a", "#fb9a99", "#33a02c", "#e31a1c", 
-                               "#ff7f00", "#fdbf6f", "#cab2d6", "#6a3d9a"),
-                    guide = guide_legend(nrow = 4))+
-  theme(text = element_text(family = "sans", size = 14, vjust = 0.75))
+# p2 <- CountsBioM %>% ggplot(aes(x = factor(1), stat = "bin", fill = Family))+
+#   geom_bar(position = "fill", color = "white")+
+#   facet_grid(facets = Method ~ Bioregion)+
+#   coord_polar(theta="y")+
+#   theme_void()+
+#   scale_fill_manual(values = c("#1f78b4", "#a6cee3", "#b2df8a", "#fb9a99", "#33a02c", "#e31a1c", 
+#                                "#ff7f00", "#fdbf6f", "#cab2d6", "#6a3d9a"),
+#                     guide = guide_legend(nrow = 4))+
+#   theme(text = element_text(family = "sans", size = 14, vjust = 0.75))
 
 #Graph - Bar plots
-# p2 <- ggplot(CountsBioM %>% arrange(Family, Method, Bioregion, desc(Ord)),
-#          aes(x = "", y = Prop, fill = Family))+
-#   geom_bar(position = "stack", stat = "identity")+
-#   scale_fill_manual(values = c("#a6cee3", "#1f78b4", "#b2df8a", "#33a02c", "#fb9a99", "#e31a1c", "#fdbf6f",
-#                                "#ff7f00", "#cab2d6", "#6a3d9a"),
-#                     guide = guide_legend(nrow = 2))+
-#   facet_grid(Method~Bioregion)+coord_flip()+
-#   #Removing in figure annotations including the actual number of other families sampled as per
-#   #reviewer's comments.
-#   # geom_text(size = 4, family = "sans", data = annot_text2, 
-#   #           mapping = aes(x = Inf, y = Inf, label = Label),
-#   #           inherit.aes = F,
-#   #           hjust = 1.1, vjust = 1.1)+
-#   labs(x = "", y = "")+
-#   theme_bw()+
-#   theme(axis.title = element_text(family = "sans", size = 12), 
-#                    axis.text.y = element_text(angle = 90, hjust = 0.5),
-#                    axis.text = element_text(family = "sans", size = 12),
-#                    legend.text = element_text(family = "sans", size = 12),
-#                    legend.title = element_text(family = "sans", size = 12),
-#                    axis.ticks.length.x = unit(0.25, "cm"))
+p2 <- CountsBioM %>% ggplot(aes(x = factor(1), stat = "bin", fill = Family))+
+  geom_bar(position = "fill", color = "white")+
+  facet_grid(Method~Bioregion)+
+  scale_fill_manual(values = c("#a6cee3", "#1f78b4", "#fdbf6f", "#b2df8a", "#33a02c", "#e31a1c",
+                               "#fb9a99", "#ff7f00", "#6a3d9a", "#cab2d6"),
+                    guide = guide_legend(nrow = 2))+
+  coord_flip()+
+  #Removing in figure annotations including the actual number of other families sampled as per
+  #reviewer's comments.
+  # geom_text(size = 4, family = "sans", data = annot_text2,
+  #           mapping = aes(x = Inf, y = Inf, label = Label),
+  #           inherit.aes = F,
+  #           hjust = 1.1, vjust = 1.1)+
+  labs(x = "", y = "")+
+  theme_bw()+
+  theme(axis.title = element_text(family = "sans", size = 12),
+        axis.text.y = element_blank(),
+        axis.text.x = element_text(family = "sans", size = 12),
+        legend.text = element_text(family = "sans", size = 12),
+        legend.title = element_text(family = "sans", size = 12),
+        axis.ticks.y = element_blank())
 p2
 
 #Merging the two plots into one panel
@@ -538,52 +536,51 @@ CountsBio <- CountsALL %>%
   mutate(Family = factor(Family, ordered = T), 
          Ord = case_when(Family == "Other Families" ~ 1,
                          TRUE ~ Prop)) %>% 
-  mutate(Family = fct_reorder(Family, Ord, .desc = T))
+  mutate(Family = fct_reorder(Family, Ord, .desc = F))
 
-#Graph - Pie charts
-p3 <- CountsBio %>% ggplot(aes(x = factor(1), stat = "bin", fill = Family))+
-  geom_bar(position = "fill", color = "white")+
-  facet_grid(facets = . ~ Bioregion)+
-  coord_polar(theta="y")+
-  theme_void()+
-  scale_fill_manual(values = c("#1f78b4", "#a6cee3", "#33a02c", "#fb9a99", "#e31a1c", 
-                               "#b2df8a", "#cab2d6", "#6a3d9a"))+
-  theme(text = element_text(family = "sans", size = 14, vjust = 0.75),
-                            legend.position = "none")
+# #Graph - Pie charts
+# p3 <- CountsBio %>% ggplot(aes(x = factor(1), stat = "bin", fill = Family))+
+#   geom_bar(position = "fill", color = "white")+
+#   facet_grid(facets = . ~ Bioregion)+
+#   coord_polar(theta="y")+
+#   theme_void()+
+#   scale_fill_manual(values = c("#1f78b4", "#a6cee3", "#33a02c", "#fb9a99", "#e31a1c", 
+#                                "#b2df8a", "#cab2d6", "#6a3d9a"))+
+#   theme(text = element_text(family = "sans", size = 14, vjust = 0.75),
+#                             legend.position = "none")
 
 #Graph - Bar plots
-# p3 <- ggplot(CountsBio %>% arrange(Family, Bioregion, desc(Ord)),
-#          aes(x = Bioregion, y = Prop, fill = Family))+
-#   geom_bar(position = "stack", stat = "identity")+
-#   scale_fill_manual(values = c("#a6cee3", "#b2df8a", "#33a02c", "#fb9a99", "#e31a1c", 
-#                                "#ff7f00", "#cab2d6", "#6a3d9a"),
-#                     guide = guide_legend(nrow = 3))+
-#   coord_flip()+scale_x_discrete(limits = rev(levels(as.factor(CountsBio$Bioregion))))+
-#   labs(x = "Bioregion", y = "% total abundance")+
-#   theme_bw()+theme(axis.title = element_text(family = "sans", size = 12), 
-#                    axis.text.y = element_text(angle = 90, hjust = 0.5),
-#                    axis.text = element_text(family = "sans", size = 12),
-#                    legend.text = element_text(family = "sans", size = 12),
-#                    legend.title = element_text(family = "sans", size = 12),
-#                    legend.position = "none",
-#                    axis.ticks.length.x = unit(0.25, "cm"))
+p3 <- CountsBio %>% ggplot(aes(x = factor(1), stat = "bin", fill = Family))+
+  geom_bar(position = "fill", color = "white")+
+  facet_grid(facets = Bioregion~.)+
+  scale_fill_manual(values = c("#a6cee3", "#1f78b4", "#ff7f00", "#33a02c", "#fb9a99",
+                               "#e31a1c", "#6a3d9a", "#cab2d6"),
+                    guide = guide_legend(nrow = 3))+
+  coord_flip()+
+  labs(x = "Bioregion", y = "% total abundance")+
+  theme_bw()+theme(axis.title = element_text(family = "sans", size = 12),
+                   axis.text.y = element_blank(),
+                   axis.text.x = element_text(family = "sans", size = 12),
+                   legend.position = "none",
+                   axis.ticks.y = element_blank())
 p3
 
 #Merging the two plots into one panel
 CommComp <- ggarrange(plot_grid(p2leg, plot_grid(p1, p2+theme(legend.position = "none"), 
                                      align = "hv", axis = "lb", labels = c("A", "B"), 
-                                     hjust = -2.5, rel_widths = c(0.8, 1)), 
-                    ncol = 1, rel_heights = c(0.6, 1, 0.7),
-          p3, labels = c("", "", "C"), nrow = 3, hjust = -3))
+                                     hjust = -1, rel_widths = c(0.8, 1)), 
+                    ncol = 1, rel_heights = c(0.4, 1, 0.7),
+          p3, labels = c("", "", "C"), nrow = 3, hjust = -1, vjust = 1))
 CommComp
 
-ggsave("Figures/CommunityFamCompAllPtsPies.tiff", CommComp, device = "tiff", dpi = 500)
+ggsave("Figures/CommunityFamCompAllPts.tiff", CommComp, device = "tiff", dpi = 500, 
+       height = 18.23, width = 20, units = "cm")
 rm(p1, p2, p3, CountsBio, p2leg)
 ```
 
 
-### Comparing carnivores and herbivores between methods 
-```{r carnivores and herbivores}
+### Comparing trophic levels between methods and across regions 
+```{r Trophic levels}
 #Creating dataframe with summary of trophic data - Blank category appears for individuals not identified to species level
 Troph <- CountsALL %>% 
   group_by(Method, SiteName) %>% 
@@ -604,7 +601,7 @@ p1 <- Troph %>% group_by(Method, TrophicCat) %>%
   scale_fill_manual(values = c("#E1E1E1", "white"))+
   geom_errorbar(aes(ymin = MeanTrop, ymax = MeanTrop+SE_Trop), width = 0.2,
                 position = position_dodge(.9))+
-  theme_bw()+scale_y_continuous(expand = expand_scale(mult = c(0,0.2)))+
+  theme_bw()+scale_y_continuous(expand = expansion(mult = c(0,0.2)))+
   labs(x = "", y = "")+
   theme(axis.title = element_text(family = "sans", size = 12), 
                    axis.text = element_text(family = "sans", size = 12),
@@ -639,7 +636,7 @@ p3 <- Troph %>% group_by(Bioregion, TrophicCat) %>%
   scale_fill_manual(values = c("#808080", "#000000"))+
   geom_errorbar(aes(ymin = MeanTrop, ymax = MeanTrop+SE_Trop), width = 0.2,
                 position = position_dodge(.9))+
-  theme_bw()+scale_y_continuous(expand = expand_scale(mult = c(0,0.2)))+
+  theme_bw()+scale_y_continuous(expand = expansion(mult = c(0,0.2)))+
   labs(x = "", y = "")+
   theme(axis.title = element_text(family = "sans", size = 12),
                    axis.text = element_text(family = "sans", size = 12),
@@ -690,7 +687,7 @@ FishComp <- FM_ALL %>% as.data.frame() %>%
                   nudge_x = 1.25,
                   segment.size = 0.5,
                   size = 4)+
-  scale_x_continuous(expand = expand_scale(mult = c(0.1,0.2)))+
+  scale_x_continuous(expand = expansion(mult = c(0.1,0.2)))+
   geom_abline(slope = 1, linetype = "dashed")+
   theme_bw()+
   labs(x = "", y = "")+
@@ -720,7 +717,7 @@ FishCompBio <- FM_ALL %>% as.data.frame() %>%
                   nudge_x = 1.25,
                   segment.size = 0.5,
                   size = 4)+
-  scale_x_continuous(expand = expand_scale(mult = c(0.1,0.2)))+
+  scale_x_continuous(expand = expansion(mult = c(0.1,0.2)))+
   geom_abline(slope = 1, linetype = "dashed")+
   theme_bw()+facet_grid(Bioregion~.)+
   labs(x = "", y = "")+
@@ -766,7 +763,6 @@ BC_FM <- vegdist(Trans_FM)
 #PCO
 pco_FM <- wcmdscale(BC_FM, eig = T)
 plot(pco_FM)
-
 ```
 
 ### Environmental variables
@@ -794,7 +790,7 @@ MeanEnviro <- plyr::rbind.fill(BRUVEnviro %>%
 
 AllEnviro <- plyr::rbind.fill(BRUVEnviro %>% unite(SiteCode, SiteCode, Replicate) %>% 
                                 mutate(SiteCode = paste0(SiteCode, "_B"), Method = "BRUV") %>% 
-                                select(-c(SiteName, Time.of.day, Facing.mangroves., Location, Tide, 
+                                select(-c(SiteName, Time.of.day, Facing.mangroves., Tide, 
                                           Substrate.type, Island, Depth, Habitat)) %>%
                                 select(-starts_with("Yr")),
                               UVCEnviro %>% 
@@ -984,20 +980,21 @@ Lutjanus_figBio$graph
 #Putting graphs together
 #Method
 MetFig <- ggarrange(Molfax_figM$graph, Mugil_figM$graph, Lutjanus_figM$graph, ncol = 3, 
-                    common.legend = T, hjust = -1.75, legend = "bottom")
+                    common.legend = T, hjust = -1.5, vjust = 1, legend = "bottom", labels = "A")
 MetFig+theme(legend.margin=margin(0,0,0,0), legend.box.margin=margin(-10,-10,-10,-10))
-MetFig <- annotate_figure(MetFig, bottom = text_grob("Method comparison", hjust = 0.5, 
-                                                     vjust = -4))
+# MetFig <- annotate_figure(MetFig, bottom = text_grob("Method comparison", hjust = 0.5, 
+#                                                      vjust = -4))
 MetFig
 #Bioregion
 BioFig <- ggarrange(Molfax_figBio$graph, Mugil_figBio$graph, Lutjanus_figBio$graph, ncol = 3, 
-                    legend = "bottom", common.legend = T)
-BioFig <- annotate_figure(BioFig, left = text_grob("Bioregion comparison", rot = 90, hjust = 0.3))
+                    legend = "bottom", common.legend = T, labels = "B", hjust = -1.5, vjust = 1)
+# BioFig <- annotate_figure(BioFig, left = text_grob("Bioregion comparison", rot = 90, hjust = 0.3))
 BioFig
 #Final
 FinalFig <- ggarrange(MetFig, BioFig, nrow = 2)
 FinalFig
-ggsave("Figures/LengthsKDE2.tiff", FinalFig, device = "tiff", dpi = 600)
+ggsave("Figures/LengthsKDE3.tiff", FinalFig, device = "tiff", dpi = 400, width = 22.26, 
+       height = 20.73, units = "cm")
 rm(Molfax_figM, Mugil_figM, Lutjanus_figM, Molfax_figBio, Mugil_figBio, Lutjanus_figBio, MetFig, BioFig)
 
 ```
