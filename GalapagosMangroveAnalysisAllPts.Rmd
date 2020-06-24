@@ -416,29 +416,29 @@ Counts <- CountsALL %>%
 #   filter(grepl("Other Families", Family)) %>% 
 #   unite(Label, Family, N, sep = ": ")
 
-#Graphs - Pie charts
-# p1 <- Counts %>% ggplot(aes(x = factor(1), stat = "bin", fill = Family))+
-#   geom_bar(position = "fill", color = "white")+
-#   facet_grid(facets = Method ~.)+
-#   coord_polar(theta="y")+
-#   theme_void()+
-#   scale_fill_manual(values = c("#a6cee3", "#1f78b4", "#b2df8a", "#33a02c", "#fb9a99", "#e31a1c",
-#                                "#ff7f00", "#cab2d6", "#6a3d9a"))+
-#   theme(text = element_text(family = "sans", size = 14, vjust = 0.75),
-#                             legend.position = "none")
-
 # Graphs - Bar plots
-p1 <- Counts %>% ggplot(aes(x = factor(1), stat = "bin", fill = Family))+
-  geom_bar(position = "fill", color = "white")+
+#Factor(1) included under x to be able to use Method under facets
+p1 <- Counts %>% ggplot(aes(x = factor(1), y = Prop, 
+                            #Reordering Families based on order and method prior to using it as
+                            #categories under fill
+                            fill = tidytext::reorder_within(Family, Ord, Method)))+
+  #Color "white" refers to the colour of the line separating each block within the bar
+  geom_bar(position = "stack", color = "black", stat = "identity")+
   facet_grid(facets = Method ~ .)+
-  scale_fill_manual(values = c("#a6cee3", "#1f78b4", "#b2df8a", "#33a02c", "#fb9a99", "#e31a1c",
-                               "#ff7f00", "#cab2d6", "#6a3d9a"))+
+  #Using a color scale that is colour blind friendly
+  scale_fill_manual(values = c("#DDDDDD", "#DDDDDD", "#332288", "#88CCEE", "#999933", "#44AA99",
+                               "#117733", "#DDCC77", "#999933", "#cc6677", "#882255", "#cc6677"))+
+  #Flipping bars so they are horizontal
   coord_flip()+
+  #Changing labels in axes
   labs(x = "Methods", y = "")+
+  #Changing theme to meet magazine requirements
   theme_bw()+theme(axis.title = element_text(family = "sans", size = 12),
                    axis.text.y = element_blank(),
                    axis.text = element_text(family = "sans", size = 12),
+                   #Removing legend
                    legend.position = "none",
+                   #Removing y axis ticks
                    axis.ticks.y = element_blank())
 #Removing in figure annotations including the actual number of other families sampled as per
 #reviewer's comments.
@@ -477,44 +477,40 @@ CountsBioM <- CountsALL %>%
 ```
 
 ```{r graph fish community by method & bioregion}
-#Graph - Pie charts
-# p2 <- CountsBioM %>% ggplot(aes(x = factor(1), stat = "bin", fill = Family))+
-#   geom_bar(position = "fill", color = "white")+
-#   facet_grid(facets = Method ~ Bioregion)+
-#   coord_polar(theta="y")+
-#   theme_void()+
-#   scale_fill_manual(values = c("#1f78b4", "#a6cee3", "#b2df8a", "#fb9a99", "#33a02c", "#e31a1c", 
-#                                "#ff7f00", "#fdbf6f", "#cab2d6", "#6a3d9a"),
-#                     guide = guide_legend(nrow = 4))+
-#   theme(text = element_text(family = "sans", size = 14, vjust = 0.75))
-
 #Graph - Bar plots
-p2 <- CountsBioM %>% ggplot(aes(x = factor(1), stat = "bin", fill = Family))+
-  geom_bar(position = "fill", color = "white")+
+p2 <- CountsBioM %>% 
+  #Creating a new column to reorder families using both methods and bioregions
+  mutate(Levels = paste0(Method, Bioregion)) %>% 
+  ggplot(aes(x = "", y = Prop, fill = tidytext::reorder_within(Family, Ord, Levels)))+
+  geom_bar(position = "stack", color = "black", stat = "identity")+
   facet_grid(Method~Bioregion)+
-  scale_fill_manual(values = c("#a6cee3", "#1f78b4", "#fdbf6f", "#b2df8a", "#33a02c", "#e31a1c",
-                               "#fb9a99", "#ff7f00", "#6a3d9a", "#cab2d6"),
-                    guide = guide_legend(nrow = 2))+
+  scale_fill_manual(values = c("#dddddd", "#dddddd", "#dddddd", "#dddddd", "#332288", "#aa4499",
+                               "#332288", "#cc6677", "#882255", "#999933", "#44aa99", "#88ccee",
+                               "#44aa99", "#999933", "#ddcc77", "#999933", "#117733", "#ddcc77",
+                               "#882255", "#cc6677", "#cc6677", "#999933", "#882255"))+
   coord_flip()+
-  #Removing in figure annotations including the actual number of other families sampled as per
-  #reviewer's comments.
-  # geom_text(size = 4, family = "sans", data = annot_text2,
-  #           mapping = aes(x = Inf, y = Inf, label = Label),
-  #           inherit.aes = F,
-  #           hjust = 1.1, vjust = 1.1)+
   labs(x = "", y = "")+
-  theme_bw()+
-  theme(axis.title = element_text(family = "sans", size = 12),
-        axis.text.y = element_blank(),
-        axis.text.x = element_text(family = "sans", size = 12),
-        legend.text = element_text(family = "sans", size = 12),
-        legend.title = element_text(family = "sans", size = 12),
-        axis.ticks.y = element_blank())
+  theme_bw()+theme(axis.ticks.y = element_blank(),
+                   legend.position = "none")
 p2
 
-#Merging the two plots into one panel
-p2leg <- get_legend(p2)
-rm(CountsBioM)
+#Extracting legend from dummy graph including all families shared across graphs to be used in the
+#final Family Composition figure
+#Creating graph with correct colour palette and giving desired format to the legend
+g <- CountsBioM %>% ggplot(aes(x = "", y = Prop, fill = Family))+
+  geom_bar(position = "stack", stat = "identity", color = "black")+
+  scale_fill_manual(values = c("#dddddd", "#332288", "#aa4499", "#88ccee", "#44aa99", "#999933",
+                               "#117733", "#ddcc77", "#882255", "#cc6677"))+
+  #Legend to be divided in two rows with title on top of categories
+  guides(fill = guide_legend(nrow = 2, title.position = "top"))+
+  #Changing font and size of legend
+  theme(legend.text = element_text(family = "sans", size = 12),
+        legend.title = element_text(family = "sans", size = 12))
+
+#Extracting legend to be used in final composite figure
+p2leg <- get_legend(g)
+
+rm(CountsBioM, g)
 ```
 
 ```{r fish community by bioregion}
@@ -538,29 +534,19 @@ CountsBio <- CountsALL %>%
                          TRUE ~ Prop)) %>% 
   mutate(Family = fct_reorder(Family, Ord, .desc = F))
 
-# #Graph - Pie charts
-# p3 <- CountsBio %>% ggplot(aes(x = factor(1), stat = "bin", fill = Family))+
-#   geom_bar(position = "fill", color = "white")+
-#   facet_grid(facets = . ~ Bioregion)+
-#   coord_polar(theta="y")+
-#   theme_void()+
-#   scale_fill_manual(values = c("#1f78b4", "#a6cee3", "#33a02c", "#fb9a99", "#e31a1c", 
-#                                "#b2df8a", "#cab2d6", "#6a3d9a"))+
-#   theme(text = element_text(family = "sans", size = 14, vjust = 0.75),
-#                             legend.position = "none")
-
 #Graph - Bar plots
-p3 <- CountsBio %>% ggplot(aes(x = factor(1), stat = "bin", fill = Family))+
-  geom_bar(position = "fill", color = "white")+
+p3 <- CountsBio %>% ggplot(aes(x = factor(1), y = Prop, 
+                               fill = tidytext::reorder_within(Family, Ord, Bioregion)))+
+  geom_bar(position = "stack", color = "black", stat = "identity")+
   facet_grid(facets = Bioregion~.)+
-  scale_fill_manual(values = c("#a6cee3", "#1f78b4", "#ff7f00", "#33a02c", "#fb9a99",
-                               "#e31a1c", "#6a3d9a", "#cab2d6"),
-                    guide = guide_legend(nrow = 3))+
+  scale_fill_manual(values = c("#dddddd", "#dddddd", "#ddcc77", "#332288", "#44aa99", "#ddcc77",
+                               "#44aa99", "#999933", "#117733", "#882255", "#999933", "#cc6677",
+                               "#882255"))+
   coord_flip()+
   labs(x = "Bioregion", y = "% total abundance")+
   theme_bw()+theme(axis.title = element_text(family = "sans", size = 12),
-                   axis.text.y = element_blank(),
                    axis.text.x = element_text(family = "sans", size = 12),
+                   axis.text.y = element_blank(),
                    legend.position = "none",
                    axis.ticks.y = element_blank())
 p3
