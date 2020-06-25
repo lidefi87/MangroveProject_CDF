@@ -1,7 +1,7 @@
 ---
 title: "Mangrove fish assemblages from the Galapagos Islands"
 author: "Denisse Fierro Arcos"
-date: '2020-06-11'
+date: '2020-06-24'
 output:
   html_document: default
   pdf_document: default
@@ -11,8 +11,8 @@ editor_options:
 
 ## Data analysis: Mangrove fish assemblages from the Galapagos Islands
 Date of creation: 2018-04-30\
-Date of latest update: 2020-03-03\
-Version # 3
+Date of latest update: 2020-06-24\
+Version # 3.1
 Prepared for the Sharks Ecology Project of the Charles Darwin Foundation (CDF).\
 Related to work published in xxxx titled "First archipelago-wide characterisation and analysis of spatial distribution patterns of mangrove fish assemblages in the Galapagos, a UNESCO World Heritage Site".
 
