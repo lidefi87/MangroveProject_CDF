@@ -600,9 +600,9 @@ adonis(log(N+1) ~ Bioregion*Method, data = BioAll, method = "euc", permutations 
     ## Terms added sequentially (first to last)
     ## 
     ##                   Df SumsOfSqs MeanSqs F.Model      R2 Pr(>F)   
-    ## Bioregion          1    12.262 12.2616  9.7262 0.04184 0.0015 **
-    ## Method             1     3.316  3.3161  2.6304 0.01131 0.1019   
-    ## Bioregion:Method   1     2.685  2.6848  2.1296 0.00916 0.1503   
+    ## Bioregion          1    12.262 12.2616  9.7262 0.04184 0.0024 **
+    ## Method             1     3.316  3.3161  2.6304 0.01131 0.1093   
+    ## Bioregion:Method   1     2.685  2.6848  2.1296 0.00916 0.1488   
     ## Residuals        218   274.830  1.2607         0.93769          
     ## Total            221   293.092                 1.00000          
     ## ---
@@ -674,9 +674,9 @@ adonis(SpRich ~ Bioregion*Method, data = BioAll, method = "euc", permutations = 
     ## Terms added sequentially (first to last)
     ## 
     ##                   Df SumsOfSqs MeanSqs F.Model      R2 Pr(>F)    
-    ## Bioregion          1      73.7   73.73   5.716 0.01763 0.0156 *  
+    ## Bioregion          1      73.7   73.73   5.716 0.01763 0.0179 *  
     ## Method             1    1243.0 1243.04  96.380 0.29726 0.0001 ***
-    ## Bioregion:Method   1      53.3   53.28   4.131 0.01274 0.0419 *  
+    ## Bioregion:Method   1      53.3   53.28   4.131 0.01274 0.0445 *  
     ## Residuals        218    2811.6   12.90         0.67237           
     ## Total            221    4181.7                 1.00000           
     ## ---
@@ -747,9 +747,9 @@ adonis(Shannon ~ Bioregion*Method, data = BioAll, method = "euc", permutations =
     ## Terms added sequentially (first to last)
     ## 
     ##                   Df SumsOfSqs MeanSqs F.Model      R2 Pr(>F)    
-    ## Bioregion          1     0.523  0.5229  2.1256 0.00896 0.1453    
-    ## Method             1     4.131  4.1312 16.7940 0.07076 0.0002 ***
-    ## Bioregion:Method   1     0.100  0.1003  0.4078 0.00172 0.5246    
+    ## Bioregion          1     0.523  0.5229  2.1256 0.00896 0.1479    
+    ## Method             1     4.131  4.1312 16.7940 0.07076 0.0004 ***
+    ## Bioregion:Method   1     0.100  0.1003  0.4078 0.00172 0.5160    
     ## Residuals        218    53.626  0.2460         0.91856           
     ## Total            221    58.380                 1.00000           
     ## ---
@@ -836,9 +836,9 @@ adonis(Pielou ~ Bioregion*Method, data = BioAll %>% drop_na(), method = "euc", p
     ## Terms added sequentially (first to last)
     ## 
     ##                   Df SumsOfSqs  MeanSqs F.Model      R2 Pr(>F)    
-    ## Bioregion          1    0.0102 0.010151  0.4601 0.00197 0.4957    
-    ## Method             1    0.2635 0.263531 11.9450 0.05112 0.0008 ***
-    ## Bioregion:Method   1    0.0940 0.094043  4.2627 0.01824 0.0441 *  
+    ## Bioregion          1    0.0102 0.010151  0.4601 0.00197 0.4924    
+    ## Method             1    0.2635 0.263531 11.9450 0.05112 0.0009 ***
+    ## Bioregion:Method   1    0.0940 0.094043  4.2627 0.01824 0.0389 *  
     ## Residuals        217    4.7875 0.022062         0.92867           
     ## Total            220    5.1552                  1.00000           
     ## ---
@@ -1153,9 +1153,9 @@ adonis(PropTrop ~ Bioregion*Method, data = Troph %>% filter(TrophicCat == "Carni
     ## Terms added sequentially (first to last)
     ## 
     ##                   Df SumsOfSqs MeanSqs F.Model      R2 Pr(>F)    
-    ## Bioregion          1    0.1638  0.1638   3.043 0.00956 0.0846 .  
+    ## Bioregion          1    0.1638  0.1638   3.043 0.00956 0.0813 .  
     ## Method             1    5.2257  5.2257  97.094 0.30501 0.0001 ***
-    ## Bioregion:Method   1    0.0101  0.0101   0.188 0.00059 0.6618    
+    ## Bioregion:Method   1    0.0101  0.0101   0.188 0.00059 0.6660    
     ## Residuals        218   11.7330  0.0538         0.68483           
     ## Total            221   17.1325                 1.00000           
     ## ---
@@ -1177,9 +1177,9 @@ adonis(PropTrop ~ Bioregion*Method, data = Troph %>% filter(TrophicCat == "Herbi
     ## Terms added sequentially (first to last)
     ## 
     ##                   Df SumsOfSqs  MeanSqs F.Model      R2 Pr(>F)   
-    ## Bioregion          1   0.06959 0.069594  9.7854 0.04199 0.0025 **
-    ## Method             1   0.03433 0.034332  4.8274 0.02072 0.0256 * 
-    ## Bioregion:Method   1   0.00295 0.002947  0.4144 0.00178 0.5246   
+    ## Bioregion          1   0.06959 0.069594  9.7854 0.04199 0.0018 **
+    ## Method             1   0.03433 0.034332  4.8274 0.02072 0.0262 * 
+    ## Bioregion:Method   1   0.00295 0.002947  0.4144 0.00178 0.5228   
     ## Residuals        218   1.55041 0.007112         0.93551          
     ## Total            221   1.65728                  1.00000          
     ## ---
@@ -1201,9 +1201,9 @@ adonis(PropTrop ~ Bioregion*Method, data = Troph %>% filter(TrophicCat == "Apex"
     ## Terms added sequentially (first to last)
     ## 
     ##                   Df SumsOfSqs  MeanSqs F.Model      R2 Pr(>F)    
-    ## Bioregion          1   0.00680 0.006800  1.4177 0.00617 0.2309    
+    ## Bioregion          1   0.00680 0.006800  1.4177 0.00617 0.2372    
     ## Method             1   0.03822 0.038225  7.9694 0.03469 0.0001 ***
-    ## Bioregion:Method   1   0.01137 0.011365  2.3695 0.01031 0.1273    
+    ## Bioregion:Method   1   0.01137 0.011365  2.3695 0.01031 0.1289    
     ## Residuals        218   1.04562 0.004796         0.94883           
     ## Total            221   1.10201                  1.00000           
     ## ---
@@ -1225,9 +1225,9 @@ adonis(PropTrop ~ Bioregion*Method, data = Troph %>% filter(TrophicCat == "Omniv
     ## Terms added sequentially (first to last)
     ## 
     ##                   Df SumsOfSqs MeanSqs F.Model      R2 Pr(>F)    
-    ## Bioregion          1    0.0689 0.06886  1.4807 0.00598 0.2262    
+    ## Bioregion          1    0.0689 0.06886  1.4807 0.00598 0.2256    
     ## Method             1    1.2431 1.24306 26.7315 0.10792 0.0001 ***
-    ## Bioregion:Method   1    0.0686 0.06864  1.4761 0.00596 0.2179    
+    ## Bioregion:Method   1    0.0686 0.06864  1.4761 0.00596 0.2241    
     ## Residuals        218   10.1374 0.04650         0.88014           
     ## Total            221   11.5180                 1.00000           
     ## ---
@@ -1568,7 +1568,7 @@ Molfax_figM <- kde.compare(length = Molfax$Length_cm,
     ## [1] "Dependencies Installed:" "TRUE"                   
     ## [3] "TRUE"                    "TRUE"                   
     ## 
-    ## Test of equal densities:  p-value =  0.178
+    ## Test of equal densities:  p-value =  0.216
 
 ``` r
 Molfax_figM$graph <- Molfax_figM$graph+
@@ -1598,7 +1598,7 @@ Molfax_figBio <- kde.compare(length = Molfax$Length_cm,
     ## [1] "Dependencies Installed:" "TRUE"                   
     ## [3] "TRUE"                    "TRUE"                   
     ## 
-    ## Test of equal densities:  p-value =  0.046
+    ## Test of equal densities:  p-value =  0.052
 
 ``` r
 Molfax_figBio$graph <- Molfax_figBio$graph + 
