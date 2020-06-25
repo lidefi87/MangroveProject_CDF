@@ -1,13 +1,13 @@
 Mangrove fish assemblages from the Galapagos Islands
 ================
 Denisse Fierro Arcos
-2020-06-11
+2020-06-24
 
 ## Data analysis: Mangrove fish assemblages from the Galapagos Islands
 
 Date of creation: 2018-04-30  
-Date of latest update: 2020-03-03  
-Version \# 3 Prepared for the Sharks Ecology Project of the Charles
+Date of latest update: 2020-06-24    
+Version \# 3.1  Prepared for the Sharks Ecology Project of the Charles
 Darwin Foundation (CDF).  
 Related to work published in xxxx titled “First archipelago-wide
 characterisation and analysis of spatial distribution patterns of
