@@ -9,6 +9,7 @@ Aetobatus laticeps,712980,Aetobatus laticeps,Myliobatidae,Aetobatus,Species,Paci
 Aetobatus ocellatus,278243,Aetobatus ocellatus,Myliobatidae,Aetobatus,Species,Ocellated eagle ray,Carnivore,3.6,No,No,Tropical/Subtropical,Indo West Pacific,Benthopelagic,0.51,1.53,VU,0.01,3.04,DW,1
 Aetobatus sp,205558,Aetobatus sp,Myliobatidae,Aetobatus,Genus,Eagle ray,Carnivore,,,,,,,,,,,,,
 Alectis ciliaris,159629,Alectis ciliaris,Carangidae,Alectis,Species,African pompano,Carnivore,3.46,High,Yes,NA,NA,Reef,0.5,1.5,LC,0.019,2.894,TL,1.123595506
+Anisotremus caesius,279616,Anisotremus caesius,Haemulidae,Anisotremus,Species,Long-fin grunt,Carnivore,3.4,No,No,Tropical,Eastern Pacific,Demersal,0.1,0.3,LC,0.01738,3.01,TL,1.104972376
 Anisotremus interruptus,279619,Anisotremus interruptus,Haemulidae,Anisotremus,Species,Burrito grunt,Carnivore,3.5,Low,Yes,Tropical,Panamic,Reef,0.17,0.51,LC,0.0569,2.91,FL,1
 Anisotremus scapularis,279622,Anisotremus scapularis,Haemulidae,Anisotremus,Species,Peruvian grunt,Carnivore,3.7,No,No,Tropical,Panamic,Reef,0.13,0.4,LC,0.0199,3.013,TL,1.044932079
 Apogon atradorsatus,272977,Apogon atradorsatus,Apogonidae,Apogon,Species,Blacktip cardinalfish,Carnivore,3.6,No,No,Tropical,Eastern Pacific Oceanic Islands,Reef,0.04,0.13,LC,0.01072,3.1,TL,1.047
@@ -27,7 +28,7 @@ Caranx caballus,273271,Caranx caballus,Carangidae,Caranx,Species,Green jack,Carn
 Caranx caninus,273272,Caranx caninus,Carangidae,Caranx,Species,Pacific crevalle jack,Carnivore,3.9,SportsFishing,Yes,Subtropical,Panamic,"Pelagic, nearshore",0.34,1.01,LC,0.0166,2.92,TL,1.145475372
 Caranx lugubris,126805,Caranx lugubris,Carangidae,Caranx,Species,Black jack,Carnivore,4,SportsFishing,Yes,NA,NA,Benthopelagic,0.33,1,LC,0.0251,2.84,FL,1
 Caranx melampygus,218419,Caranx melampygus,Carangidae,Caranx,Species,Bluefin trevally,Carnivore,4.28,No,No,NA,NA,Reef,0.39,1.17,LC,0.234,2.918,FL,1
-Caranx sexfasciatus,218404,Caranx sexfasciatus,Carangidae,Caranx,Species,Bigeye trevally,Carnivore,4.5,SportsFishing,Yes,Tropical/Subtropical,IndoPacific,"Pelagic, reefs",0.4,1.2,LC,0.0265,3.005,SL,0.9
+Caranx sexfasciatus,218404,Caranx sexfasciatus,Carangidae,Caranx,Species,Bigeye trevally,Carnivore,4.5,SportsFishing,Yes,Tropical/Subtropical,IndoPacific,"Pelagic, reefs",0.4,1.2,LC,0.0265,3.005,SL,0.9
 Caranx sp,125936,Caranx sp,Carangidae,Caranx,Genus,Jacks,Carnivore,,,,,,,,,,,,,
 Caranx vinctus,273275,Caranx vinctus,Carangidae,Caranx,Species,Strip jack,Carnivore,3.7,No,No,Tropical,Eastern Central Pacific,Pelagic,0.12,0.37,LC,0.01738,2.95,TL,1.102535832
 Carcharhinus sp,105719,Carcharhinus sp,Carcharhinidae,Carcharhinus,Genus,Sharks,Apex,,,,,,,,,,,,,
@@ -38,11 +39,14 @@ Carcharhinus limbatus,105793,Carcharhinus limbatus,Carcharhinidae,Carcharhinus,S
 Cardisoma crassum,444442,Cardisoma crassum,Gecarcinidae,Cardisoma,Species,Giant land crab,,NA,No,No,Tropical,Eastern Pacific,,NA,NA,,NA,NA,,
 Centropomus viridis,280070,Centropomus viridis,Centropomidae,Centropomus,Species,White snook,Carnivore,4.2,High,Yes,Tropical,Panamic,"Estuarine, nearshore",0.4,1.2,LC,0.0107,2.93,TL,1.108
 Cephalopholis panamensis,279152,Cephalopholis panamensis,Serranidae,Cephalopholis,Species,Pacific graysby,Carnivore,4.2,Low,Yes,Tropical,Panamic,"Reef, nearshore",0.13,0.39,LC,0.0217,3.035,SL,0.847
+Chaetodipterus zonatus,276412,Chaetodipterus zonatus,Ephippidae,Chaetodipterus,Species,Pacific spadefish,Omnivore,3.3,No,No,Subtropical,Eastern Pacific,Reef,0.216666667,0.65,LC,0.0324,2.71,TL,1.042752868
 Chaetodon humeralis,273343,Chaetodon humeralis,Chaetodontidae,Chaetodon,Species,Threebanded butterflyfish,Omnivore,2.7,No,No,Tropical,Panamic,Reef,0.08,0.25,LC,0.029,3.048,TL,1
 Chanos chanos,217625,Chanos chanos,Chanidae,Chanos,Species,Milkfish,Omnivore,2.4,High,Yes,Tropical,Circumtropical,"Estuarine, nearshore",0.6,1.8,LC,0.0079,2.99,TL,1.180637544
 Chelonia mydas,137206,Chelonia mydas,Cheloniidae,Chelonia,Species,Green Turtle,,NA,No,No,Tropical/Subtropical,Circumtropical,Coastal waters,NA,NA,EN,NA,NA,NA,NA
 Cheloniidae sp,136999,Cheloniidae sp,Cheloniidae,NA,Family,Marine turtle,,,,,,,,,,,,,,
+Chilomycterus reticulatus,219964,Chilomycterus reticulatus,Diodontidae,Chilomycterus,Species,Spotfin burrfish,Carnivore,3.5,No,No,Subtropical,Circumglobal,Reef,0.232333333,0.697,LC,0.0309,2.89,TL,1
 Chromis atrilobata,273712,Chromis atrilobata,Pomacentridae,Chromis,Species,Scissortail damselfish,Carnivore,3.4,No,No,Tropical,Panamic,"Reef, nearshore",0.04,0.13,LC,0.00523,3.146,TL,1.093
+Chromis crusma,273717,Chromis crusma,Pomacentridae,Chromis,Species,Valparaiso chromis,Carnivore,3,No,No,Tropical,Southeast Pacific,Reef,0.046666667,0.14,LC,0.0278,2.826,TL,1.093
 Cirrhitichthys oxycephalus,218853,Cirrhitichthys oxycephalus,Cirrhitidae,Cirrhitichthys,Species,Coral hawkfish,Carnivore,4,No,No,Tropical,Panamic/IndoWest Pacific,Reef,0.03,0.1,LC,0.0138,3.117,TL,1
 Cirrhitus rivulatus,279160,Cirrhitus rivulatus,Cirrhitidae,Cirrhitus,Species,Giant hawkfish,Carnivore,4.02,High,Yes,Tropical,Panamic,Reef,0.2,0.6,LC,0.02761,3,TL,1
 Dasyatididae sp,105708,Dasyatidae sp,Dasyatidae,NA,Family,Stingrays,Carnivore,,,,,,,,,,,,,
@@ -57,6 +61,7 @@ Decapterus sp,125937,Decapterus sp,Carangidae,Decapterus,Genus,Scad,Carnivore,,,
 Dermatolepis dermatolepis,276919,Dermatolepis dermatolepis,Serranidae,Dermatolepis,Species,Leather bass,Carnivore,4.5,SportsFishing,Yes,Subtropical,Panamic,"Reef, nearshore",0.33,1,LC,0.017,3,TL,1
 Diodon hystrix,127403,Diodon hystrix,Diodontidae,Diodon,Species,Spot-fin porcupinefish,Carnivore,3.7,No,No,Subtropical,Circumtropical,Reef,0.3,0.91,LC,0.532,2.276,TL,1
 Diodontidae sp,125608,Diodontidae sp,Diodontidae,NA,Family,Porcupinefishes,Carnivore,,,,,,,,,,,,,
+Diplectrum pacificum,276183,Diplectrum pacificum,Serranidae,Diplectrum,Species,Pacific sand-perch,Carnivore,4,No,No,Tropical,Eastern Pacific,Demersal,0.113333333,0.34,LC,0.0039,3.39,TL,1.096
 Elagatis bipinnulata,126809,Elagatis bipinnulata,Carangidae,Elagatis,Species,Rainbow runner,Carnivore,3.59,SportsFishing,Yes,NA,NA,Reef,0.6,1.8,LC,0.016,2.754,TL,1.19
 Enchelycore lichenosa,271807,Enchelycore lichenosa,Muraenidae,Enchelycore,Species,Reticulate hookjaw moray,Carnivore,4.5,No,No,Tropical,Panamic/IndoWest Pacific,"Reef, nearshore, bottom-dweller",0.3,0.9,LC,0.00107,3.07,TL,1
 Epinephelus labriformis,273858,Epinephelus labriformis,Serranidae,Epinephelus,Species,Starry grouper,Carnivore,4,Low,Yes,Tropical,Panamic,"Reef, nearshore, bottom-dweller",0.2,0.6,LC,0.0343,2.9,TL,1
@@ -94,9 +99,11 @@ Kyphosus ocyurus,1018702,Kyphosus ocyurus,Kyphosidae,Kyphosus,Species,Bluestripe
 Labridae sp,125541,Labridae sp,Labridae,NA,Family,Wrasses,Carnivore,,,,,,,,,,,,,
 Labrisomus dendriticus,281250,Labrisomus dendriticus,Labrisomidae,Labrisomus,Species,Bravo clinid,Carnivore,4,No,No,Tropical,Eastern Pacific Oceanic Islands,Bottom-dweller,0.04,0.13,VU,0.0049,3.09,TL,1
 Lepidonectes corallicola,281295,Lepidonectes corallicola,Tripterygiidae,Lepidonectes,Species,Galapagos triplefin blenny,Carnivore,NA,No,No,NA,NA,Reef,0.03,0.09,VU,0.0055,3.08,TL,1
+Liopropoma fasciatum,275942,Liopropoma fasciatum,Serranidae,Liopropoma,Species,Rainbow bass,Carnivore,3.6,No,No,Tropical,Eastern Pacific,Reef,0.06,0.178,LC,0.01122,3.04,TL,NA
 Lutjanidae sp,151453,Lutjanidae sp,Lutjanidae,NA,Family,Snapper,Carnivore,,,,,,,,,,,,,
 Lutjanus aratus,276523,Lutjanus aratus,Lutjanidae,Lutjanus,Species,Mullet snapper,Carnivore,4.1,Low,Yes,Tropical,Panamic,"Reef, Nearshore",0.33,1,LC,0.0126,3,TL,1.07
 Lutjanus argentiventris,276524,Lutjanus argentiventris,Lutjanidae,Lutjanus,Species,Yellow snapper,Carnivore,4,Medium,Yes,Subtropical,Panamic,Reef,0.24,0.71,LC,0.026,2.9,SL,0.898
+Lutjanus guttatus,276539,Lutjanus guttatus,Lutjanidae,Lutjanus,Species,Spotted rose snapper,Carnivore,4,No,No,Tropical,Eastern Pacific,Reef,0.266666667,0.8,LC,0.024,2.82,TL,1.047
 Lutjanus jordani,276541,Lutjanus jordani,Lutjanidae,Lutjanus,Species,Jordan's snapper,Carnivore,4.5,Medium,Yes,Tropical,Panamic,Reef,0.2,0.6,LC,0.01413,2.98,FL,1
 Lutjanus novemfasciatus,276544,Lutjanus novemfasciatus,Lutjanidae,Lutjanus,Species,Pacific dog snapper,Carnivore,4.1,Medium,Yes,Tropical,Panamic,Reef,0.57,1.7,LC,0.01452,3,TL,1.04
 Lutjanus sp,159791,Lutjanus sp,Lutjanidae,Lutjanus,Genus,Snapper,Carnivore,,,,,,,,,,,,,
