@@ -65,6 +65,7 @@ Diplectrum pacificum,276183,Diplectrum pacificum,Serranidae,Diplectrum,Species,P
 Elagatis bipinnulata,126809,Elagatis bipinnulata,Carangidae,Elagatis,Species,Rainbow runner,Carnivore,3.59,SportsFishing,Yes,NA,NA,Reef,0.6,1.8,LC,0.016,2.754,TL,1.19
 Enchelycore lichenosa,271807,Enchelycore lichenosa,Muraenidae,Enchelycore,Species,Reticulate hookjaw moray,Carnivore,4.5,No,No,Tropical,Panamic/IndoWest Pacific,"Reef, nearshore, bottom-dweller",0.3,0.9,LC,0.00107,3.07,TL,1
 Epinephelus labriformis,273858,Epinephelus labriformis,Serranidae,Epinephelus,Species,Starry grouper,Carnivore,4,Low,Yes,Tropical,Panamic,"Reef, nearshore, bottom-dweller",0.2,0.6,LC,0.0343,2.9,TL,1
+Eretmochelys imbricata,137207,Eretmochelys imbricata,Cheloniidae,Eretmochelys,Species,Hawksbill turtle,,NA,No,No,Tropical/Subtropical,Circumglobal,Neritic,NA,NA,CR,NA,NA,NA,NA
 Eucinostomus currani,276416,Eucinostomus currani,Gerreidae,Eucinostomus,Species,Pacific flagfin mojarra,Carnivore,3.3,No,No,Tropical,Panamic,"Estuarine, nearshore",0.07,0.21,LC,0.012,3.08,TL,1.178
 Eucinostomus dowii,276417,Eucinostomus dowii,Gerreidae,Eucinostomus,Species,Silver mojarra,Carnivore,3.2,No,No,Tropical,Panamic,"Estuarine, nearshore, bottom-dweller",0.07,0.2,LC,0.0102,3.19,TL,1.158
 Eucinostomus sp,159731,Eucinostomus sp,Gerreidae,Eucinostomus,Genus,Mojarra,Carnivore,,,,,,,,,,,,,
@@ -88,6 +89,7 @@ Halichoeres nicholsi,275780,Halichoeres nicholsi,Labridae,Halichoeres,Species,Sp
 Halichoeres notospilus,275781,Halichoeres notospilus,Labridae,Halichoeres,Species,Banded wrasse,Carnivore,3.5,No,No,Tropical,Panamic,"Reef, nearshore",0.08,0.25,LC,0.01,3.08,TL,1
 Halichoeres sp,158813,Halichoeres sp,Labridae,Halichoeres,Genus,Wrasses,Carnivore,,,,,,,,,,,,,
 Hemiramphus sp,125695,Hemiramphus sp,Hemiramphidae,Hemiramphus,Genus,Halfbeaks,Carnivore,,,,,,,,,,,,,
+Heterodontus quoyi,276700,Heterodontus quoyi,Heterodontidae,Heterodontus,Species,Galapagos bullhead shark,Carnivore,3.5,No,No,Tropical,Eastern Pacific,Reef,0.36,1.07,DD,0.00355,3.16,TL,0.94
 Holacanthus passer,276016,Holacanthus passer,Pomacanthidae,Holacanthus,Species,King angelfish,Omnivore,2.6,No,No,Tropical,Panamic,Reef,0.12,0.36,LC,0.0271,3.084,TL,1
 Hoplopagrus guentherii,281087,Hoplopagrus guentherii,Lutjanidae,Hoplopagrus,Species,Barred snapper,Carnivore,3.8,Low,Yes,Tropical,Panamic,Nearshore,0.31,0.92,LC,0.0228,3,TL,1.04
 Johnrandallia nigrirostris,281202,Johnrandallia nigrirostris,Chaetodontidae,Johnrandallia,Species,Blacknosed butterflyfish,Carnivore,3,No,No,Tropical,Panamic,Reef,0.04,0.13,LC,0.021,3.215,TL,1
@@ -137,6 +139,7 @@ Orthopristis sp,158809,Orthopristis sp,Haemulidae,Orthopristis,Genus,Grunts,Omni
 Ostracion meleagris,219905,Ostracion meleagris,Ostraciidae,Ostracion,Species,Whitespotted meleagris,Omnivore,2.7,No,No,Tropical,Panamic/IndoWest Pacific,Reef,0.08,0.25,NE,0.03631,2.81,TL,1
 Otariidae sp,231386,Otariidae sp,Otariidae,NA,Family,Sealions,,,,,,,,,,,,,,
 Panulirus gracilis,382895,Panulirus gracilis,Palinuridae,Panulirus,Species,Green spiny lobster,,NA,High,Yes,Tropical,Tropical Eastern Pacific,Neritic,NA,NA,DD,NA,NA,,
+Paralabrax albomaculatus,282051,Paralabrax albomaculatus,Serranidae,Paralabrax,Species,Camotillo sand bass,Carnivore,4.5,High,Yes,Tropical,Endemic,Reef,0.17,0.51,EN,0.01096,3.06,TL,1
 Paranthias colonus,282083,Paranthias colonus,Serranidae,Paranthias,Species,Pacific creolefish,Carnivore,3.8,Low,Yes,Tropical,Panamic/Western Atlantic,"Reef, nearshore",0.12,0.36,LC,0.0148,2.863,TL,1.195
 Phalacrocorax harrisi,343946,Phalacrocorax harrisi,Phalacrocoracidae,Phalacrocorax,Species,Flightless cormorant,,NA,No,No,,Endemic,,NA,NA,VU,NA,NA,,
 Plagiotremus azaleus,278234,Plagiotremus azaleus,Blenniidae,Plagiotremus,Species,Sabertooth blenny,Carnivore,4.4,No,No,Tropical,Panamic,Reef,0.03,0.1,LC,0.0055,3.05,TL,1.053
@@ -149,6 +152,7 @@ Remora remora,126853,Remora remora,Echeneidae,Remora,Species,Shark sucker,Carniv
 Rhincodon typus,105847,Rhincodon typus,Rhincodontidae,Rhincodon,Species,Whale shark,Carnivore,3.76,No,No,NA,NA,Pelagic,5.67,17,EN,0.00425,3,TL,0.265+(1.063*FL)
 Rhinoptera steindachneri,271498,Rhinoptera steindachneri,Myliobatidae,Rhinoptera,Species,Pacific cownose ray,Carnivore,3.6,No,No,Tropical,Panamic,"Reef, estuarine, nearshore",0.3,0.9,NT,0.01148,2.98,DW,1
 Sarda orientalis,219713,Sarda orientalis,Scombridae,Sarda,Species,Striped bonito,Carnivore,4.21,Low,Yes,NA,NA,"Pelagic, neritic",0.34,1.02,LC,0.0217,2.87,FL,1
+Sardinops sagax,217452,Sardinops sagax,Clupeidae,Sardinops,Species,South American pilchard,Planktivore,2.8,No,No,Subtropical,IndoPacific,"Pelagic, neritic",0.13,0.40,LC,0.0076,3.11,SL,1.062
 Scaridae sp,125557,Scaridae sp,Scaridae,NA,Family,Parrotfish,Herbivore,,,,,,,,,,,,,
 Scarus compressus,276043,Scarus compressus,Scaridae,Scarus,Species,Azure parrotfish,Herbivore,2,No,No,Tropical,Panamic,Reef,0.23,0.68,LC,0.01445,3.05,TL,1
 Scarus ghobban,219127,Scarus ghobban,Scaridae,Scarus,Species,Blue-barred parrotfish,Herbivore,2,Low,Yes,Tropical,Panamic/IndoWest Pacific,Reef,0.3,0.9,LC,0.0165,3.0412,FL,1
@@ -175,10 +179,12 @@ Stegastes sp,203822,Stegastes sp,Pomacentridae,Stegastes,Genus,Major,Carnivore,,
 Stethojulis bandanensis,277106,Stethojulis bandanensis,Labridae,Stethojulis,Species,Red shoulder wrasse,Carnivore,3.2,No,No,Tropical,Panamic/IndoWest Pacific,Reef,0.05,0.15,LC,0.03035,2.581,FL,1
 Sufflamen verres,276853,Sufflamen verres,Balistidae,Sufflamen,Species,Orangeside triggerfish,Carnivore,3.3,No,No,Tropical,Panamic,Reef,0.13,0.4,LC,0.02865,2.966,FL,1
 Taeniurops meyeni,217421,Taeniurops meyeni,Dasyatidae,Taeniurops,Species,Round ribbontail ray,Carnivore,4.2,No,No,Tropical,Eastern Pacific/Indo West Pacific,Reef,0.11,0.33,VU,0.0739,2.81,DW,1
+Taeniura meyeni,217421,Taeniurops meyeni,Dasyatidae,Taeniurops,Species,Round ribbontail ray,Carnivore,4.2,No,No,Tropical,Eastern Pacific/Indo West Pacific,Reef,0.11,0.33,VU,0.0739,2.81,DW,1
 Tetraodontidae sp,125612,Tetraodontidae sp,Tetraodontidae,NA,Family,Pufferfish,Carnivore,,,,,,,,,,,,,
 Thalassoma grammaticum,273580,Thalassoma grammaticum,Labridae,Thalassoma,Species,Sunset wrasse,Carnivore,3.5,No,No,Tropical,Panamic,Reef,0.11,0.32,LC,0.00977,3.04,TL,1
 Thalassoma lucasanum,273584,Thalassoma lucasanum,Labridae,Thalassoma,Species,Cortez rainbow wrasse,Carnivore,3.5,No,No,Tropical,Panamic,"Reef, nearshore",0.05,0.15,LC,0.0126,2.878,TL,1
 Thunnus albacares,127027,Thunnus albacares,Scombridae,Thunnus,Species,Yellowfin tuna,Carnivore,4.48,High,Yes,NA,NA,Pelagic,0.8,2.39,NT,0.0216,2.981,TL,1.108
+Torpedo peruana,845709,Tetronarce tremens,Torpedinidae,Tetronarce,Species,Chilean torpedo,Carnivore,4,No,No,Subtropical,Eastern Pacific,Benthic,0.3,0.9,DD,0.01549,2.94,DW,1
 Trachinotus stilbe,273298,Trachinotus stilbe,Carangidae,Trachinotus,Species,Steel pompano,Carnivore,3.6,SportsFishing,Yes,Tropical,Panamic,"Pelagic, nearshore",0.13,0.38,LC,0.01288,2.97,TL,1.276
 Triaenodon obesus,214557,Triaenodon obesus,Carcharhinidae,Triaenodon,Species,Whitetip reef shark,Apex,4.2,No,No,Tropical,Panamic/IndoWest Pacific,"Reef, pelagic",0.71,2.13,NT,0.0018,3.344,FL,1
 Tursiops truncatus,137111,Tursiops truncatus,Delphinidae,Tursiops,Species,Common bottlenose dolphin,,NA,No,No,Tropical/Subtropical,Global,"Coastal, neritic, pelagic",NA,NA,LC,NA,NA,,
