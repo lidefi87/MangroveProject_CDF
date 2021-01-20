@@ -119,7 +119,7 @@ Lutjanus novemfasciatus,276544,Lutjanus novemfasciatus,Lutjanidae,Lutjanus,Speci
 Lutjanus sp,159791,Lutjanus sp,Lutjanidae,Lutjanus,Genus,Snapper,Carnivore,,,,,,,,,,,,,
 Lutjanus viridis,276552,Lutjanus viridis,Lutjanidae,Lutjanus,Species,Blue & gold snapper,Carnivore,4.2,Low,Yes,Tropical,Panamic,Reef,0.1,0.3,LC,0.0117,3.136,FL,1
 Malacoctenus tetranemus,281502,Malacoctenus tetranemus,Labrisomidae,Malacoctenus,Species,Throatspotted blenny,Carnivore,3.5,No,No,Tropical,Chilean,"Reef, bottom-dweller",0.03,0.08,LC,0.00955,3.04,TL,1
-Manta birostris,1026118,Mobula birostris,Myliobatidae,Manta,Species,Giant manta,Carnivore,3.5,No,No,Subtropical,Circumtropical,"Reef, pelagic",0.3,0.91,VU,0.0102,3,DW,1
+Manta birostris,1026118,Mobula birostris,Myliobatidae,Manta,Species,Giant manta,Carnivore,3.5,No,No,Subtropical,Circumtropical,"Reef, pelagic",3.03,9.1,VU,0.0102,3,DW,1
 Melichthys niger,219881,Melichthys niger,Balistidae,Melichthys,Species,Black triggerfish,Omnivore,2.73,No,No,NA,NA,Reef,0.17,0.5,LC,0.0058,3.554,FL,1
 Microspathodon bairdii,281570,Microspathodon bairdii,Pomacentridae,Microspathodon,Species,Bumphead damselfish,Omnivore,2.5,No,No,Tropical,Panamic,"Reef, nearshore",0.1,0.31,LC,0.02239,2.99,TL,1.072
 Microspathodon dorsalis,281572,Microspathodon dorsalis,Pomacentridae,Microspathodon,Species,Giant damselfish,Herbivore,2.1,No,No,Tropical,Panamic,"Reef, nearshore",0.1,0.31,LC,0.0239,3.082,FL,1
@@ -190,8 +190,8 @@ Stegastes sp,203822,Stegastes sp,Pomacentridae,Stegastes,Genus,Major,Carnivore,,
 Stethojulis bandanensis,277106,Stethojulis bandanensis,Labridae,Stethojulis,Species,Red shoulder wrasse,Carnivore,3.2,No,No,Tropical,Panamic/IndoWest Pacific,Reef,0.05,0.15,LC,0.03035,2.581,FL,1
 Sufflamen verres,276853,Sufflamen verres,Balistidae,Sufflamen,Species,Orangeside triggerfish,Carnivore,3.3,No,No,Tropical,Panamic,Reef,0.13,0.4,LC,0.02865,2.966,FL,1
 Sufflamen sp,203929,Sufflamen sp,Balistidae,Sufflamen,Genus,Triggerfish,Carnivore,,,,,,,,,,,,,
-Taeniurops meyeni,217421,Taeniurops meyeni,Dasyatidae,Taeniurops,Species,Round ribbontail ray,Carnivore,4.2,No,No,Tropical,Eastern Pacific/Indo West Pacific,Reef,0.11,0.33,VU,0.0739,2.81,DW,1
-Taeniura meyeni,217421,Taeniurops meyeni,Dasyatidae,Taeniurops,Species,Round ribbontail ray,Carnivore,4.2,No,No,Tropical,Eastern Pacific/Indo West Pacific,Reef,0.11,0.33,VU,0.0739,2.81,DW,1
+Taeniurops meyeni,217421,Taeniurops meyeni,Dasyatidae,Taeniurops,Species,Round ribbontail ray,Carnivore,4.2,No,No,Tropical,Eastern Pacific/Indo West Pacific,Reef,1.1,3.3,VU,0.0739,2.81,DW,1
+Taeniura meyeni,217421,Taeniurops meyeni,Dasyatidae,Taeniurops,Species,Round ribbontail ray,Carnivore,4.2,No,No,Tropical,Eastern Pacific/Indo West Pacific,Reef,1.1,3.3,VU,0.0739,2.81,DW,1
 Tetraodontidae sp,125612,Tetraodontidae sp,Tetraodontidae,NA,Family,Pufferfish,Carnivore,,,,,,,,,,,,,
 Thalassoma grammaticum,273580,Thalassoma grammaticum,Labridae,Thalassoma,Species,Sunset wrasse,Carnivore,3.5,No,No,Tropical,Panamic,Reef,0.11,0.32,LC,0.00977,3.04,TL,1
 Thalassoma lucasanum,273584,Thalassoma lucasanum,Labridae,Thalassoma,Species,Cortez rainbow wrasse,Carnivore,3.5,No,No,Tropical,Panamic,"Reef, nearshore",0.05,0.15,LC,0.0126,2.878,TL,1
